@@ -2,6 +2,4 @@ pip install transformers datasets evaluate accelerate
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install accelerate -U
 pip install scikit-learn
-
 pip install flask
-https://discuss.huggingface.co/t/how-can-i-use-class-weights-when-training/1067/7
