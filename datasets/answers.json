@@ -1,0 +1,1177 @@
+[
+    {
+        "label": "greeting",
+        "answers": [
+            "Hey there, what do you need?",
+            "Hello, and welcome!",
+            "Hi there, what can I do for you?",
+            "Hi there, how can I help?",
+            "Hello there, feel free to ask me questions!"
+        ]
+    },
+    {
+        "label": "goodbye",
+        "answers": [
+            "See you later, thanks for visiting",
+            "Have a nice day",
+            "Bye! Come back again soon."
+        ]
+    },
+    {
+        "label": "thanks",
+        "answers": [
+            "Happy to help!",
+            "Any time!",
+            "My pleasure",
+            "No worries",
+            "Glad I was able to help you."
+        ]
+    },
+    {
+        "label": "items",
+        "answers": [
+            "I am a chatbot called Admission ChatBUt: Your Admission Guide.",
+            "Hey there! This is a web application that aids students in there admission for Bicol University.",
+            "Hello, I am Admission ChatBUt!"
+        ]
+    },
+    {
+        "label": "funny",
+        "answers": [
+            "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+            "What did the buffalo say when his son left for college? Bison."
+        ]
+    },
+    {
+        "label": "form",
+        "answers": [
+            "Begin your application journey by browsing: https://buao.bicol-u.edu.ph",
+            "Gain access to the application portal by clicking: https://buao.bicol-u.edu.ph",
+            "Take the first step in your application by navigating to: https://buao.bicol-u.edu.ph",
+            "Apply easily by clicking: https://buao.bicol-u.edu.ph",
+            "Access the application link via direct browsing: https://buao.bicol-u.edu.ph",
+            "Apply now by going to: https://buao.bicol-u.edu.ph",
+            "Initiate your application process by clicking: https://buao.bicol-u.edu.ph",
+            "Access the application form by visiting: https://buao.bicol-u.edu.ph",
+            "Begin your application journey by accessing: https://buao.bicol-u.edu.ph",
+            "Start your application journey by visiting: https://buao.bicol-u.edu.ph",
+            "Apply conveniently by browsing: https://buao.bicol-u.edu.ph",
+            "Take the initiative to apply by clicking: https://buao.bicol-u.edu.ph",
+            "Begin your application process by navigating to: https://buao.bicol-u.edu.ph",
+            "Access the application portal by opening: https://buao.bicol-u.edu.ph",
+            "Start your application journey by clicking: https://buao.bicol-u.edu.ph",
+            "Begin your application process by visiting: https://buao.bicol-u.edu.ph",
+            "Apply now by browsing: https://buao.bicol-u.edu.ph",
+            "Gain access to the application portal by navigating to: https://buao.bicol-u.edu.ph",
+            "Initiate your application by clicking: https://buao.bicol-u.edu.ph",
+            "Access the application form easily via direct visit: https://buao.bicol-u.edu.ph",
+            "Apply now by accessing: https://buao.bicol-u.edu.ph",
+            "Oh sure! To get the BUCET application form , you can visit this link https://buao.bicol-u.edu.ph.",
+            "Hello there! Here is the link to apply: https://buao.bicol-u.edu.ph. Goodluck!:",
+            "Okay! If you're interested to apply, you can go to https://buao.bicol-u.edu.ph.",
+            "To get started with the application process, you can head over to https://buao.bicol-u.edu.ph.:",
+            "I'd be happy to help you apply! Just visit this link https://buao.bicol-u.edu.ph.",
+            "If you want to apply, you can follow this link https://buao.bicol-u.edu.ph.",
+            "Good to hear! Here's the link to apply: https://buao.bicol-u.edu.ph.",
+            "To apply, simply head over to https://buao.bicol-u.edu.ph.",
+            "Looks like your're interested to apply! To get started, you can visit https://buao.bicol-u.edu.ph to apply.",
+            "Hello user! To proceed with the application, you can follow the link to https://buao.bicol-u.edu.ph.",
+            "To start your application process, you can visit https://buao.bicol-u.edu.ph.",
+            "Hello, Aspiring BUE\u00d1O! To apply, you can visit this link https://buao.bicol-u.edu.ph.",
+            "Great! If you want to apply, You can go to this site https://buao.bicol-u.edu.ph.",
+            "Nice! To begin the application process, you can visit [https://buao.bicol-u.edu.ph](https://buao."
+        ]
+    },
+    {
+        "label": "reschedule",
+        "answers": [
+            "To change your appointment date, simply click on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Rescheduling made simple: access the link here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "If you need to reschedule your appointment date, visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "You can change your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to change the date? Click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule your appointment? Visit the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by accessing this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date easily: visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To change your appointment date, visit this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment by visiting this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date easily: click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to change your appointment date? Go here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by accessing this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date easily: visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To change your appointment date, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date easily: visit the provided link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to change the date? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule your appointment? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date easily: access this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To change your appointment date, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment by following this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date easily: visit the provided link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to change the date? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule your appointment? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date easily: access this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To change your appointment date, click the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment by visiting this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date easily: click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to change your appointment date? Go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date easily: visit this webpage: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, click here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to reschedule appointment date https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To reschedule your appointment date, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "If you need to change your appointment date, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "For appointment date changes, please go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To adjust your appointment date, simply visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to reschedule? Click the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "You can reschedule your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Change your appointment date by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Want to reschedule? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Adjust your appointment date by accessing: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Reschedule your appointment date with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To change your appointment date, go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Need to change the date? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php"
+        ]
+    },
+    {
+        "label": "retrieve",
+        "answers": [
+            "Use the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Access and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Obtain your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to find and retrieve your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Click the link provided to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Discover your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Locate your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to discover your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by clicking on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the provided link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Access and download your application form via link visitation: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Obtain your application form by clicking this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to find and retrieve your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Click the link provided to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Discover your application form by clicking on this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Locate your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to discover your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by clicking on the link provided: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the provided link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Discover and download your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Find and download your application form by clicking on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "To find and download your application form visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to locate and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve and download your application form by following the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Access and download your application form by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Obtain your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Click the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Discover your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Locate your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Visit the link to find your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+            "Retrieve your application form by clicking this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php"
+        ]
+    },
+    {
+        "label": "edit",
+        "answers": [
+            "To update your picture, simply click on the link provided: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Picture adjustments made simple: access the link here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "If you need to update your picture, visit: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "You can change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture easily: click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click on this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "To change or re-upload your picture, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture accessing the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "If you need to update your picture, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "For picture changes or re-uploads, please go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "To adjust or re-upload your picture, simply visit: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Click the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "You can change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Update your picture by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Want to change or re-upload? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture by accessing: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Change or re-upload your picture with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "To update your picture, go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Need to change or re-upload? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "Adjust or re-upload your picture easily by visiting: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+            "For picture changes or re-uploads, click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php"
+        ]
+    },
+    {
+        "label": "deadline",
+        "answers": [
+            "A week before the examination day per test center",
+            "Pass it on a week before the examination day per test center",
+            "A week before the examination day per test center is the deadline for submitting the requirements.",
+            "It's due is on a week before the examination day per test center",
+            "The deadline is a week before the examination day per test center",
+            "The submission of all documentary requirements is on a week before the examination day per test center.",
+            "A week before the examination day per test center, is the submission of all necessary requirements.",
+            "Submission is a week before the examination day per test center",
+            "The submission for all requirements is a week before the examination day per test center",
+            "The passing of all the requirements needed is on aweek before the examination day per test center",
+            "You can submit it on a week before the examination day per test center",
+            "Deadline for submission of all documentary requirements is on a week before the examination day per test center",
+            "Marked on your calendar it is on a week before the examination day per test center",
+            "Submit it on a week before the examination day per test center",
+            "A week before the examination day per test center is the deadline for submitting the requirements.",
+            "It is on a week before the examination day per test center",
+            "A week before the examination day per test center"
+        ]
+    },
+    {
+        "label": "fee",
+        "answers": [
+            "The PHP 250.00 registration fee is not applicable to Filipino freshmen applicants under R.A. NO. 10931.",
+            "Filipino freshmen applicants are granted a waiver for the PHP 250.00 registration fee as per R.A. NO. 10931.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants, as mandated by R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are excused from paying the PHP 250.00 registration fee.",
+            "Under the guidelines of R.A. NO. 10931, Filipino freshmen applicants do not have to pay the PHP 250.00 registration fee.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants in accordance with R.A. NO. 10931.",
+            "Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee as stipulated by R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are relieved from the PHP 250.00 registration fee.",
+            "Under R.A. NO. 10931, Filipino freshmen applicants are entitled to exemption from the PHP 250.00 registration fee.",
+            "The PHP 250.00 registration fee is not required for Filipino freshmen applicants under R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted a waiver for the PHP 250.00 registration fee.",
+            "Filipino freshmen applicants are exempt from the PHP 250.00 registration fee under the provisions of R.A. NO. 10931.",
+            "In accordance with R.A. NO. 10931, Filipino freshmen applicants are not charged the PHP 250.00 registration fee.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are excused from the PHP 250.00 registration fee.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants, as per R.A. NO. 10931.",
+            "Filipino freshmen applicants are relieved from paying the PHP 250.00 registration fee under the guidelines of R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are eligible for exemption from the PHP 250.00 registration fee.",
+            "Under R.A. NO. 10931, Filipino freshmen applicants do not need to pay the PHP 250.00 registration fee.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants as mandated by R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted a waiver of the PHP 250.00 registration fee.",
+            "Filipino freshmen applicants are exempted from the PHP 250.00 registration fee under R.A. NO. 10931.",
+            "In compliance with R.A. NO. 10931, the PHP 250.00 registration fee is waived for Filipino freshmen applicants.",
+            "FREE, the fee of PHP 250.00 is free for Filipino freshmen applicants pursuant to R.A. NO. 10931",
+            "The registration fee of PHP 250.00 is waived for Filipino freshmen applicants under the provisions of R.A. NO. 10931.",
+            "Filipino freshmen applicants are exempt from the PHP 250.00 fee in accordance with R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee.",
+            "Under R.A. NO. 10931, Filipino freshmen applicants are entitled to a waiver of the PHP 250.00 registration fee.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants in compliance with R.A. NO. 10931.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted exemption from the PHP 250.00 registration fee.",
+            "Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee under the provisions of R.A. NO. 10931.",
+            "The PHP 250.00 registration fee is waived for Filipino freshmen applicants pursuant to R.A. NO. 10931.",
+            "In accordance with R.A. NO. 10931, Filipino freshmen applicants are not required to pay the PHP 250.00 registration fee.",
+            "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are exempted from the PHP 250.00 registration fee."
+        ]
+    },
+    {
+        "label": "authorized personnel",
+        "answers": [
+            "You have the option of having any representative submit your complete BUCET requirements.",
+            "Submission of your complete BUCET requirements is allowed by any representative with proper authorization.",
+            "Any representative who is duly is permitted to submit your entire BUCET requirements.",
+            "You can authorize any representative to submit your complete BUCET requirements.",
+            "Submission of your complete BUCET requirements is open to any authorized representative.",
+            "Your complete BUCET requirements can be submitted by any authorized representative.",
+            "Authorized representatives are permitted to submit your full BUCET requirements.",
+            "Any designated representative is welcome to submit your entire BUCET requirements.",
+            "Your complete BUCET requirements may be submitted by any representative authorized to do so.",
+            "Authorized representatives have the privilege of submitting your full BUCET requirements.",
+            "Any representative with authorization is allowed to submit your complete BUCET requirements.",
+            "Representatives with proper authorization are permitted to submit your entire BUCET requirements.",
+            "You have the option of having any authorized representative submit your complete BUCET requirements.",
+            "Submission of your complete BUCET requirements is allowed by any representative with proper authorization.",
+            "Any representative who is duly authorized is permitted to submit your entire BUCET requirements.",
+            "You can authorize any representative to submit your complete BUCET requirements.",
+            "Submission of your complete BUCET requirements is open to any authorized representative."
+        ]
+    },
+    {
+        "label": "reapply",
+        "answers": [
+            "Do not re-apply \nIf any changes are needed, please print out your application form and make adjustments with correction tape, using a blue ballpen.",
+            "Do not re-apply \nIn the event of any alterations, it's recommended to print your application form and make corrections using correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIf you would like to make any changes, please print out your application form and edit it with correction tape, using a blue ballpen.",
+            "Do not re-apply \nShould you wish to modify any information, it is advised to print your application form and adjust it with correction tape, making sure to use a blue ballpen.",
+            "Do not re-apply \nIn case of any required modifications, it's recommended to print your application form and make changes with correction tape, employing a blue ballpen.",
+            "Do not re-apply \nIf you need to make any changes, please print out your application form and amend it with correction tape, using a blue ballpen.",
+            "Do not re-apply \nIf you would like to make changes, print out your application form and edit it with a correction tape and use a blue ballpen",
+            "Do not re-apply \nShould any adjustments be necessary, kindly print your application form and make edits with correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIf any alterations are required, it is advised to print your application form and apply corrections with correction tape, making use of a blue ballpen.",
+            "Do not re-apply \nIn the event of any changes, it's recommended to print your application form and modify it with correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nShould you wish to make any modifications, kindly print your application form and edit it with correction tape, making sure to use a blue ballpen.",
+            "Do not re-apply \nIf adjustments are required, please print out your application form and make corrections with correction tape, using a blue ballpen.",
+            "Do not re-apply \nIn case of any required adjustments, it is advisable to print your application form and adjust it with correction tape, employing a blue ballpen.",
+            "Do not re-apply \nIf you need to modify any details, please print out your application form and make changes with correction tape, using a blue ballpen.",
+            "Do not re-apply \nShould any alterations be needed, kindly print your application form and apply corrections using correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIn the event that changes are required, it's recommended to print your application form and amend it with correction tape, making use of a blue ballpen.",
+            "Do not re-apply \nIf any adjustments are necessary, please print out your application form and make edits with correction tape, using a blue ballpen.",
+            "Do not re-apply \nShould you wish to edit any information, it is advised to print your application form and modify it with correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIn case any changes need to be made, kindly print your application form and adjust it with correction tape, employing a blue ballpen.",
+            "Do not re-apply \nIf any modifications are necessary, please print out your application form and make corrections with correction tape, using a blue ballpen.",
+            "Do not re-apply \nShould you need to make any adjustments, it's recommended to print your application form and edit it with correction tape, making sure to use a blue ballpen.",
+            "Do not re-apply \nIn the event that adjustments are required, it is advisable to print your application form and make changes using correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIf you need to modify any details, kindly print out your application form and adjust it with correction tape, making use of a blue ballpen.",
+            "Do not re-apply \nShould any alterations be necessary, please print your application form and apply corrections using correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIn case of any changes, it's recommended to print your application form and amend it with correction tape, using a blue ballpen.",
+            "Do not re-apply \nIf any adjustments are needed, please print out your application form and make edits with correction tape, making use of a blue ballpen.",
+            "Do not re-apply \nShould you wish to modify any information, kindly print your application form and edit it with correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply \nIn case any alterations need to be made, it is advised to print your application form and adjust it with correction tape, employing a blue ballpen.",
+            "Do not re-apply \nIf any modifications are required, please print out your application form and make corrections with correction tape, using a blue ballpen.",
+            "Do not re-apply \nShould you need to make any changes, it's recommended to print your application form and amend it with correction tape, making sure to use a blue ballpen.",
+            "Do not re-apply. If you would like to make changes, print out your application form and edit it with a correction tape and use a blue ballpen.",
+            "Do not re-apply. If adjustments are needed, kindly print your application form and make edits using correction tape alongside a blue ballpen.",
+            "Do not re-apply. Should any modifications be necessary, please print out your application form and apply corrections with correction tape, utilizing a blue ballpen.",
+            "Do not re-apply. In case of any alterations, it's recommended to print your application form and amend it using correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply. For any revisions, we advise printing your application form and making changes using correction tape, employing a blue ballpen.",
+            "Do not re-apply. In the event of changes, it is best to print your application form and make corrections with correction tape, making use of a blue ballpen.",
+            "Do not re-apply. Should you need to make modifications, kindly print your application form and adjust it with correction tape, utilizing a blue ballpen.",
+            "Do not re-apply. If adjustments are necessary, please print out your application form and modify it with correction tape, using a blue ballpen.",
+            "Do not re-apply. Should you wish to make changes, it's recommended to print your application form and edit it with correction tape, ensuring to use a blue ballpen.",
+            "Do not re-apply. The case of any alterations, we suggest printing your application form and applying corrections with correction tape, using a blue ballpen.",
+            "Do not re-apply. For any revisions, it's advisable to print your application form and make adjustments with correction tape, employing a blue ballpen."
+        ]
+    },
+    {
+        "label": "correcting",
+        "answers": [
+            "To correct, follow the procedure below.\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",
+            "To fix the application form, follow the procedure below.\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",
+            "For the correction, follow the procedure below.\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\n 3. Add your initials or signature next to the updated information.\n Note: Do not use pdf editor",
+            "To correct mistakenly filled-out application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor",
+            "To fix mistakenly filled-out application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor",
+            "For the correction in application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5\u201dX 13\u201d) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor"
+        ]
+    },
+    {
+        "label": "submit",
+        "answers": [
+            "You can choose any on the options below\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "Choose what's more convenient to you\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "Here's the option you can make\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "Here's the list you can do\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "To submit, you can choose what's the best for you\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "There's three option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "There's an option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "Here's the option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "Here's the list you can do\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+            "To submit, you have three options\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality"
+        ]
+    },
+    {
+        "label": "claim",
+        "answers": [
+            "You can choose any on the options below\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "Choose what's more convenient to you\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "Here's the ways you can do\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "Here's the list you can choose\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "To claim, you have three optionsyou can choose what's the best for you\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\n Option 2: BU Admissions office (Onsite during appointment date)\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "There's three option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "There's an option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "Here's the option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "Here's the list you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+            "To claim, you have three options\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form."
+        ]
+    },
+    {
+        "label": "appointment",
+        "answers": [
+            "No need, But make sure to verify that your application requirements have been submitted to the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure that your application requirements have been received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But confirm with certainty that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure that your application requirements have been successfully delivered to the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check and ensure that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is crucial to ensure that your application requirements have been received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But verify that your application requirements have been acknowledged and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But check to ensure that your application requirements have been duly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is essential to verify that your application requirements have been duly acknowledged and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure with certainty that your application requirements have been duly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to confirm that your application requirements have been properly received and accounted for by the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check to ensure that your application requirements have been properly received and accounted for by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is crucial to double-check and confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But verify with certainty that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to double-check and confirm that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is essential to verify with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to verify that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check and confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is crucial to ensure that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But verify that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to double-check and confirm that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is essential to verify with certainty that your application requirements have been properly received and processed by the admissions office before the scheduled deadline for the test center.",
+            "No need, But confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But please ensure that your application requirements reach the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is important to confirm that your application requirements have been received by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure that your application requirements are received by the admissions office before the scheduled deadline for the test center.",
+            "No need, But verify that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+            "No need, But check to ensure that your application requirements have been submitted to the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+            "No need, But confirm that your application requirements have been delivered to the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure that your application requirements have been sent to the admissions office before the scheduled deadline for the test center.",
+            "No need, But validate that your application requirements have been dispatched to the admissions office before the scheduled deadline for the test center.",
+            "No need, But be certain that your application requirements have been forwarded to the admissions office before the scheduled deadline for the test center.",
+            "No need, But make certain that your application requirements have been transmitted to the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is imperative to ascertain that your application requirements have reached the admissions office before the scheduled deadline for the test center."
+        ]
+    },
+    {
+        "label": "follow",
+        "answers": [
+            "No need, But ensure with certainty that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check that your application requirements reach the admissions office before the test center's deadline.",
+            "No need, But confirm that your application materials have been delivered to the admissions office prior to the test center's deadline.",
+            "No need, But guarantee your application requirements are in the possession of the admissions office before the test center's deadline.",
+            "No need, But assure that your application documents are in the hands of the admissions office prior to the test center's deadline.",
+            "No need, But be sure your application requirements have reached the admissions office prior to the test center's deadline.",
+            "No need, But ensure the admissions office has received your application materials before the test center's deadline.",
+            "No need, But validate that your application requirements have been submitted to the admissions office before the test center's deadline.",
+            "No need, But confirm your application materials have been delivered to the admissions office before the test center's deadline.",
+            "No need, But make sure your application requirements are received by the admissions office prior to the test center's deadline.",
+            "No need, But guarantee your application documents are in the possession of the admissions office before the test center's deadline.",
+            "No need, But double-check your application materials are submitted to the admissions office before the test center's deadline.",
+            "No need, But verify your application requirements have reached the admissions office prior to the test center's deadline.",
+            "No need, But ensure your application documents are in the hands of the admissions office before the test center's deadline.",
+            "No need, But confirm your application materials have been delivered to the admissions office before the test center's deadline.",
+            "No need, But assure your application requirements have been received by the admissions office before the test center's deadline.",
+            "No need, But make certain the admissions office has received your application materials before the test center's deadline.",
+            "No need, But guarantee that your application requirements have reached the admissions office before the test center's deadline.",
+            "No need, But be sure your application documents are submitted to the admissions office before the test center's deadline.",
+            "No need, But validate your application requirements are in the possession of the admissions office before the test center's deadline.",
+            "No need, But confirm that your application materials have been received by the admissions office before the test center's deadline.",
+            "No need, But ensure your application requirements have been delivered to the admissions office before the test center's deadline.",
+            "No need, But double-check your application materials have reached the admissions office before the test center's deadline.",
+            "No need, But verify that your application documents are submitted to the admissions office before the test center's deadline.",
+            "No need, But guarantee your application requirements are in the hands of the admissions office before the test center's deadline.",
+            "No need, But assure your application materials have been received by the admissions office before the test center's deadline.",
+            "No need, But make certain your application requirements have been delivered to the admissions office before the test center's deadline.",
+            "No need, But be sure the admissions office has received your application materials before the test center's deadline.",
+            "No need, But confirm your application requirements are submitted to the admissions office before the test center's deadline.",
+            "No need, But make sure to double-check and confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is crucial to verify with certainty that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+            "No need, But double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure with certainty that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to verify that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is essential to double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+            "No need, But verify with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But make sure to double-check and confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But it is crucial to ensure with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+            "No need, But ensure your application requirements are received by the admissions office prior to the test center's deadline.",
+            "No need, But make certain your application materials are submitted to the admissions office before the test center's deadline.",
+            "No need, But verify that your application documents have been received by the admissions office ahead of the test center's deadline."
+        ]
+    },
+    {
+        "label": "address",
+        "answers": [
+            "BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+            "The address of the BU Admission Office is in Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+            "Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+            "The BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+            "It is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+            "BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500"
+        ]
+    },
+    {
+        "label": "format",
+        "answers": [
+            "The format must be:\n Recent 2x2\n Unedited or Unfiltere4d studio-taken\n In white background\n With Signature\n With name tag",
+            "Format of the picture must be:\n Recent 2x2\n Unedited or Unfiltere4d studio-taken\n In white background\n With Signature\n With name tag",
+            "Picture format must be:\\n Recent 2x2\\n Unedited or Unfiltere4d studio-taken\\n In white background\\n With Signature\\n With name tag"
+        ]
+    },
+    {
+        "label": "mailing stamp",
+        "answers": [
+            "Attain your postage stamp at the post office",
+            "Get your postage stamp from the post office",
+            "Obtain your mailing stamp from the post office",
+            "Secure your mailing stamp at the post office",
+            "Collect your mailing stamp at the post office",
+            "Gather your mailing stamp from the post office",
+            "Obtain your postage stamp conveniently from the post office",
+            "Secure your postage stamp easily at the post office",
+            "Collect your postage stamp swiftly at the post office",
+            "Purchase your postage stamp from the post office.",
+            "Get your postage stamp from the post office.",
+            "Obtain your postage stamp at the post office.",
+            "Procure your postage stamp at the post office.",
+            "Secure your postage stamp from the post office.",
+            "Acquire your postage stamp at the post office.",
+            "Pick up your postage stamp at the post office.",
+            "Collect your postage stamp from the post office.",
+            "Grab your postage stamp at the post office.",
+            "Buy your postage stamp from the post office.",
+            "You can get your postage stamp at the post office.",
+            "You can purchase your postage stamp from the post office."
+        ]
+    },
+    {
+        "label": "exceed",
+        "answers": [
+            "The mailing stamp's cost could exceed Php. 50, but it won't be below Php. 50.00.",
+            "The price of the mailing stamp may be higher than Php. 50, but it will not be less than Php. 50.00.",
+            "The mailing stamp might cost more than Php. 50, but it won't be below Php. 50.00.",
+            "The cost of the mailing stamp could exceed Php. 50, but it won't be lower than Php. 50.00.",
+            "The price of the mailing stamp may surpass Php. 50, but it won't fall under Php. 50.00.",
+            "The mailing stamp might be more than Php. 50, but it won't be less than Php. 50.00.",
+            "The cost of the mailing stamp may exceed Php. 50, but it will not be less than Php. 50.00.",
+            "The price of the mailing stamp might go beyond Php. 50, but it won't fall below Php. 50.00.",
+            "The mailing stamp could cost more than Php. 50, but it won't be under Php. 50.00.",
+            "The mailing stamp's price may surpass Php. 50, but it won't be lower than Php. 50.00.",
+            "The mailing stamp might be priced higher than Php. 50, but it won't be less than Php. 50.00."
+        ]
+    },
+    {
+        "label": "paste",
+        "answers": [
+            " Affix it onto the upper right corner of the long-sized window mailing envelope.",
+            "Place it firmly on the upper-right corner of the long-sized window mailing envelope.",
+            "Stick it securely to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Adhere it firmly to the top right corner of the long-sized window mailing envelope.",
+            "Position it securely at the upper right corner of the long-sized window mailing envelope.",
+            "Attach it securely to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Affix it firmly to the top right-hand corner of the long-sized window mailing envelope.",
+            "Place it securely in the upper right corner of the long-sized window mailing envelope.",
+            "Stick it firmly in the upper-right corner of the long-sized window mailing envelope.",
+            "Adhere it securely in the upper right-hand corner of the long-sized window mailing envelope.",
+            "Position it firmly at the top right corner of the long-sized window mailing envelope.",
+            "Attach it securely at the upper right corner of the long-sized window mailing envelope.",
+            "Affix it securely onto the upper right corner of the long-sized window mailing envelope.",
+            "Place it securely on the upper-right corner of the long-sized window mailing envelope.",
+            "Stick it firmly to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Adhere it securely to the top right corner of the long-sized window mailing envelope.",
+            "Position it firmly in the upper right-hand corner of the long-sized window mailing envelope.",
+            "Attach it securely to the top right corner of the long-sized window mailing envelope.",
+            "Affix it securely in the upper-right corner of the long-sized window mailing envelope.",
+            "Place it securely onto the upper right corner of the long-sized window mailing envelope.",
+            "Stick it firmly in the upper right-hand corner of the long-sized window mailing envelope.",
+            "Adhere it securely at the top right corner of the long-sized window mailing envelope.",
+            "Position it firmly on the upper right corner of the long-sized window mailing envelope.",
+            "Attach it securely at the upper right-hand corner of the long-sized window mailing envelope.",
+            "Affix it securely to the top right-hand corner of the long-sized window mailing envelope.",
+            "Place it securely in the upper-right corner of the long-sized window mailing envelope.",
+            "Stick it firmly onto the upper right corner of the long-sized window mailing envelope.",
+            "Adhere it securely to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Position it firmly at the top right-hand corner of the long-sized window mailing envelope.",
+            "Affix it to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Place it on the top right corner of the long-sized window mailing envelope.",
+            "Stick it on the upper-right corner of the long-sized window mailing envelope.",
+            "Adhere it to the upper right corner of the long-sized window mailing envelope.",
+            "Attach it to the upper right-hand corner of the long-sized window mailing envelope.",
+            "Position it on the top right-hand corner of the long-sized window mailing envelope.",
+            "Affix it to the top right corner of the long-sized window mailing envelope.",
+            "Place it in the upper right corner of the long-sized window mailing envelope.",
+            "Stick it in the upper-right corner of the long-sized window mailing envelope.",
+            "Adhere it in the upper right-hand corner of the long-sized window mailing envelope.",
+            "Position it at the top right-hand corner of the long-sized window mailing envelope.",
+            "Attach it to the top right corner of the long-sized window mailing envelope."
+        ]
+    },
+    {
+        "label": "ofw",
+        "answers": [
+            "Your parents' certificate of contract is required for processing.",
+            "Make sure to submit your parents' certificate of contract.",
+            "Please ensure the certificate of contract from your parents is submitted.",
+            "Don't forget to submit the certificate of contract from your parents.",
+            "Kindly provide the certificate of contract signed by your parents.",
+            "Your parents' certificate of contract must be submitted.",
+            "Please submit the required certificate of contract from your parents.",
+            "Ensure your parents' certificate of contract is included in your submission.",
+            "We need the certificate of contract from your parents for processing.",
+            "Don't forget to include your parents' certificate of contract.",
+            "Your parents' certificate of contract is necessary for your application.",
+            "Please ensure your parents' certificate of contract is submitted.",
+            "Submit the certificate of contract from your parents, please.",
+            "It's essential to include your parents' certificate of contract.",
+            "Your parents' certificate of contract is a required document.",
+            "Make sure your parents' certificate of contract is included in your submission.",
+            "Please submit your parents' signed certificate of contract.",
+            "Don't forget to include the certificate of contract from your parents.",
+            "Kindly ensure your parents' certificate of contract is submitted.",
+            "Your parents' certificate of contract is a necessary submission.",
+            "Make sure your parents' signed certificate of contract is included.",
+            "Submit your parents' certificate of contract along with your application.",
+            "It's important to provide your parents' certificate of contract.",
+            "Ensure your parents' certificate of contract is included with your submission.",
+            "Please don't forget to include your parents' signed certificate of contract.",
+            "Remember to submit your parents' certificate of contract.",
+            "Please submit the required certificate of contract signed by your parents.",
+            "Ensure the certificate of contract from your parents is submitted.",
+            "It's necessary to submit your parents' certificate of contract",
+            "Kindly provide your parents' certificate of contract.",
+            "Please ensure the submission of your parents' certificate of contract.",
+            "We require the certificate of contract from your parents.",
+            "Submit the certificate of contract signed by your parents, please.",
+            "Your parents' certificate of contract needs to be submitted.",
+            "Make sure to include your parents' certificate of contract.",
+            "Your parents' certificate of contract is required for submission.",
+            "Please don't forget to submit your parents' certificate of contract.",
+            "It's necessary to provide the certificate of contract from your parents.",
+            "Ensure the submission of your parents' certificate of contract.",
+            "Please submit the certificate of contract signed by your parents.",
+            "Remember to include your parents' certificate of contract."
+        ]
+    },
+    {
+        "label": "4P's certificate",
+        "answers": [
+            "DSWD Regional Offices will provide BU Admissions with a copy, including the names of SHS Students who are recipients of the 4Ps program.",
+            "BU Admissions will be provided with a copy by DSWD Regional Offices, containing the names of SHS Students enrolled in the 4Ps program.",
+            "A copy, encompassing the names of SHS Students who are participants in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will transmit a copy to BU Admissions, with the names of SHS Students benefiting from the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, comprising the names of SHS Students who are recipients of the 4Ps program.",
+            "A copy, listing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will send a copy to BU Admissions, containing the names of SHS Students who are part of the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are beneficiaries of the 4Ps program.",
+            "DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students who are participants in the 4Ps program.",
+            "BU Admissions will be provided with a copy by DSWD Regional Offices, encompassing the names of SHS Students benefiting from the 4Ps program.",
+            "A copy, including the names of SHS Students who are recipients of the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will transmit a copy to BU Admissions, comprising the names of SHS Students who are enrolled in the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are part of the 4Ps program.",
+            "DSWD Regional Offices will send a copy to BU Admissions, with the names of SHS Students who are recipients of the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, containing the names of SHS Students enrolled in the 4Ps program.",
+            "A copy, containing the names of SHS Students who are participants in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will provide BU Admissions with a copy, listing the names of SHS Students who are beneficiaries of the 4Ps program.",
+            "BU Admissions will be provided with a copy by DSWD Regional Offices, including the names of SHS Students who are recipients of the 4Ps program.",
+            "A copy, encompassing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will transmit a copy to BU Admissions, with the names of SHS Students who are part of the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, comprising the names of SHS Students who are beneficiaries of the 4Ps program.",
+            "DSWD Regional Offices will send a copy to BU Admissions, including the names of SHS Students who are participants in the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are recipients of the 4Ps program.",
+            "A copy, containing the names of SHS Students who are enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students who are part of the 4Ps program.",
+            "BU Admissions will be provided with a copy by DSWD Regional Offices, listing the names of SHS Students who are beneficiaries of the 4Ps program.",
+            "A copy, encompassing the names of SHS Students who are recipients of the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will transmit a copy to BU Admissions, including the names of SHS Students who are enrolled in the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, with the names of SHS Students who are participants in the 4Ps program.",
+            "DSWD Regional Offices will send a copy to BU Admissions, containing the names of SHS Students who are beneficiaries of the 4Ps program.",
+            "The DSWD Regional Offices will forward a copy to BU Admissions, listing the names of SHS Students who are participants in the 4Ps program.",
+            "DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students benefiting from the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, which will include the names of SHS Students enrolled in the 4Ps program.",
+            "A copy, including the names of SHS Students enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will furnish BU Admissions with a copy, containing the names of SHS Students who are part of the 4Ps program.",
+            "BU Admissions will be provided with a copy by DSWD Regional Offices, encompassing the names of SHS Students benefiting from the 4Ps program.",
+            "DSWD Regional Offices will transmit a copy to BU Admissions, comprising the names of SHS Students who are recipients of the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, including the names of SHS Students who are participants in the 4Ps program.",
+            "A copy, containing the names of SHS Students benefiting from the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+            "DSWD Regional Offices will send a copy to BU Admissions, with the names of SHS Students who are enrolled in the 4Ps program.",
+            "BU Admissions will receive a copy from DSWD Regional Offices, listing the names of SHS Students who are part of the 4Ps program."
+        ]
+    },
+    {
+        "label": "guardian",
+        "answers": [
+            "Remember to provide your guardian's tax exemption certificate.",
+            "Don't forget to submit your guardian's certificate of tax exemption.",
+            "Make sure your guardian's tax exemption certificate is included.",
+            "Please ensure your guardian's certificate of tax exemption is included.",
+            "Submit your guardian's tax exemption certificate along with your application.",
+            "Your guardian's tax exemption certificate is a required document.",
+            "Make sure to submit your guardian's tax exemption certificate.",
+            "Please don't forget to provide your guardian's tax exemption certificate.",
+            "Remember to submit your guardian's tax exemption certificate.",
+            "Please ensure your guardian's certificate of tax exemption is submitted.",
+            "Your guardian's certificate of tax exemption must be included in your submission.",
+            "Please ensure your guardian's tax exemption certificate is included.",
+            "Submit your guardian's certificate of tax exemption along with your application.",
+            "Your guardian's tax exemption certificate must be included in your submission.",
+            "Remember to ensure your guardian's certificate of tax exemption is submitted.",
+            "Your guardian's certificate of tax exemption is necessary for your application.",
+            "Make sure your guardian's certificate of tax exemption is included in your submission.",
+            "Please don't forget to ensure your guardian's tax exemption certificate is submitted.",
+            "Remember to include your guardian's tax exemption certificate in your submission.",
+            "Your guardian's tax exemption certificate is required for your application.",
+            "Ensure your guardian's certificate of tax exemption is included with your submission.",
+            "Please ensure your guardian's tax exemption certificate is included in your submission.",
+            "Make sure your guardian's tax exemption certificate is submitted.",
+            "Don't forget to ensure your guardian's certificate of tax exemption is included.",
+            "Your guardian's tax exemption certificate must be submitted.",
+            "Please don't forget to include your guardian's certificate of tax exemption.",
+            "Your guardian's certificate of tax exemption is necessary for submission.",
+            "Make sure your guardian's certificate of tax exemption is submitted.",
+            "Please ensure the submission of your guardian's certificate of tax exemption.",
+            "Your guardian's certificate of tax exemption needs to be submitted.",
+            "Make sure to include your guardian's certificate of tax exemption.",
+            "Your guardian's certificate of tax exemption is required for submission.",
+            "Ensure the submission of your guardian's tax exemption certificate.",
+            "Your guardian's tax exemption certificate needs to be submitted.",
+            "Make sure to include your guardian's tax exemption certificate.",
+            "Your guardian's tax exemption certificate is required for submission.",
+            "Please don't forget to submit your guardian's tax exemption certificate.",
+            "It's necessary to provide your guardian's certificate of tax exemption.",
+            "Don't forget to include your guardian's certificate of tax exemption.",
+            "Your guardian's certificate of tax exemption must be submitted."
+        ]
+    },
+    {
+        "label": "concerns",
+        "answers": [
+            "You can email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099",
+            "To address your concerns, you may contact the BUAO.BUCET@GMAIL.COM or call at (052)742-5099",
+            "For reaching out your concerns, you may email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099",
+            "The email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 is at your service to address your concerns",
+            "You may email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 for your personal concerns"
+        ]
+    },
+    {
+        "label": "purpose",
+        "answers": [
+            "The University Registrar notes that the intention is to send the request letter for Form 137 from the student's prior academic institution.",
+            "As per the University Registrar, the objective is to mail the request letter for Form 137 from the student's former educational establishment.",
+            "According to the University Registrar, it is intended for mailing the request letter for Form 137 from the student's previous academic institution.",
+            "The University Registrar clarifies that it is for mailing the request letter for Form 137 from the student's former educational institution.",
+            "It is conveyed by the University Registrar that the purpose is to mail the request letter for Form 137 from the student's prior school.",
+            "According to the University Registrar, the intention is to send the request letter for Form 137 from the student's previous academic establishment.",
+            "The University Registrar states that it is for mailing the request letter for Form 137 from the student's previous academic institution.",
+            "As stated by the University Registrar, the objective is to mail the request letter for Form 137 from the student's prior educational establishment.",
+            "According to the University Registrar, it is meant for mailing the request letter for Form 137 from the student's previous educational institution.",
+            "The University Registrar mentions that it is for mailing the request letter for Form 137 from the student's prior academic establishment.",
+            "As per the University Registrar, the purpose is to mail the request letter for Form 137 from the student's former academic institution.",
+            "According to the University Registrar, it is for mailing the request letter for Form 137 from the student's prior academic institution.",
+            "According to the University Registrar, it is for mailing the request letter to Form 137 from the previous school of the student.",
+            "As stated by the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous school.",
+            "The University Registrar has indicated that the intention is to send the request letter for Form 137 from the student's prior educational institution.",
+            "According to the University Registrar, the objective is to mail the request letter concerning Form 137 from the student's former school.",
+            "It is communicated by the University Registrar that the reason is to mail the request letter for Form 137 from the student's previous educational institution.",
+            "The University Registrar specifies that the aim is to send the request letter for Form 137 from the student's previous school.",
+            "According to the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous educational establishment."
+        ]
+    },
+    {
+        "label": "more than",
+        "answers": [
+            "Affirmative, the postage stamp is allowed to be over 40 pesos, but it must not be less than 40 pesos.",
+            "Yes, the mailing stamp can exceed 40 pesos in value, but it must not be lower than 40 pesos.",
+            "Indeed, the postage stamp's price can surpass 40 pesos, as long as it remains at or above 40 pesos.",
+            "Absolutely, the mailing stamp's value can be higher than 40 pesos, but it cannot be less than 40 pesos.",
+            "Correct, the postage stamp's cost may surpass 40 pesos, provided it does not fall below 40 pesos.",
+            "Yes, the mailing stamp can be valued at more than 40 pesos, but it cannot be less than 40 pesos.",
+            "Affirmative, the postage stamp's price can exceed 40 pesos, but it should not be less than 40 pesos.",
+            "Indeed, the mailing stamp's value may go beyond 40 pesos, but it should not be lower than 40 pesos.",
+            "Yes, the postage stamp can be priced higher than 40 pesos, but it must not be less than 40 pesos.",
+            "Correct, the mailing stamp's cost can be greater than 40 pesos, but it should not be less than 40 pesos.",
+            "Absolutely, the postage stamp's value can surpass 40 pesos, provided it does not drop below 40 pesos.",
+            "Affirmative, the mailing stamp can exceed 40 pesos in value, but it should not be less than 40 pesos.",
+            "Yes, the postage stamp's price may go over 40 pesos, but it must not be less than 40 pesos.",
+            "Indeed, the mailing stamp can be valued at more than 40 pesos, but it cannot be lower than 40 pesos.",
+            "Yes, the mailing stamp can be more than 40 pesos but not less than 40 pesos.",
+            "Indeed, the postage stamp's value may exceed 40 pesos but must not fall below this amount.",
+            "Affirmative, the mailing stamp's price can surpass 40 pesos but should not go under 40 pesos.",
+            "Yes, it's acceptable for the postage stamp to exceed 40 pesos, provided it doesn't go below that amount.",
+            "Correct, the mailing stamp can have a value greater than 40 pesos but should not be lower than 40 pesos.",
+            "Yes, the postage stamp's cost may go beyond 40 pesos, as long as it doesn't dip below 40 pesos",
+            "Absolutely, the mailing stamp can be priced higher than 40 pesos, but it should not be less than 40 pesos."
+        ]
+    },
+    {
+        "label": "less than",
+        "answers": [
+            "The postage cost should be 40 pesos, either precisely 40 pesos or greater.",
+            "The price of the mailing stamp should be 40 pesos, a total of 40 pesos or higher.",
+            "The postage fee must amount to 40 pesos, totaling either 40 pesos or more.",
+            "The mailing stamp should cost 40 pesos, totaling either 40 pesos or surpassing it.",
+            "The postage cost needs to be 40 pesos, either precisely 40 pesos or more than this amount.",
+            "The price of the mailing stamp should be 40 pesos, totaling either 40 pesos or exceeding this sum.",
+            "The postage fee should be 40 pesos, either exactly 40 pesos or higher than this amount.",
+            "The cost of the mailing stamp should amount to 40 pesos, totaling either 40 pesos or greater.",
+            "The mailing stamp should be priced at 40 pesos, a sum totaling either 40 pesos or more.",
+            "The postage cost should be 40 pesos, either precisely 40 pesos or exceeding this amount.",
+            "The price of the mailing stamp should be 40 pesos, a total of 40 pesos or more.",
+            "The postage fee must amount to 40 pesos, totaling either 40 pesos or surpassing this amount.",
+            "The mailing stamp should cost 40 pesos, totaling either 40 pesos or more than this sum.",
+            "The mailing stamp should be 40 pesos, a total of 40 pesos or more than 40 pesos.",
+            "The postage fee must amount to 40 pesos, either exactly 40 pesos or exceeding 40 pesos.",
+            "The mailing stamp should cost 40 pesos, totaling either 40 pesos or in excess of 40 pesos.",
+            "The postage cost needs to be 40 pesos, either precisely 40 pesos or above 40 pesos.",
+            "The price of the mailing stamp should be 40 pesos, totaling either 40 pesos or more.",
+            "The postage fee should be 40 pesos, either exactly 40 pesos or higher than 40 pesos.",
+            "The cost of the mailing stamp should amount to 40 pesos, totaling either 40 pesos or exceeding this amount.",
+            "The mailing stamp should be priced at 40 pesos, a sum totaling either 40 pesos or surpassing it."
+        ]
+    },
+    {
+        "label": "medical",
+        "answers": [
+            "As per the new Administrative Order from the University President, the requirement of a Medical Certificate for enrollment will be temporarily suspended, recognizing the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "The recent Administrative Order issued by the University President specifies that the necessity of a Medical Certificate for enrollment will be temporarily lifted, taking into account the prevailing circumstances and compliance with the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "In line with the recent Administrative Order by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily waived, considering the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "The University President's recent Administrative Order indicates that the requirement for a Medical Certificate for enrollment will be temporarily suspended, acknowledging the ongoing circumstances and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily exempted, considering the present situation and adherence to the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "Per the recent Administrative Order issued by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily disregarded, recognizing the current situation and compliance with the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "According to the new Administrative Order from the University President, the requirement of a Medical Certificate for enrollment will be temporarily waived, considering the prevailing circumstances and adherence to the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "As per the recent Administrative Order issued by the University President, the necessity of a Medical Certificate for enrollment will be temporarily suspended, recognizing the current situation and adherence to the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "The University President's recent Administrative Order specifies that the requirement for a Medical Certificate for enrollment will be temporarily lifted, considering the ongoing circumstances and compliance with the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "In line with the recent Administrative Order by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily waived, considering the current situation and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "The University President's recent Administrative Order indicates that the requirement for a Medical Certificate for enrollment will be temporarily suspended, acknowledging the prevailing circumstances and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily exempted, recognizing the current situation and adherence to the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "According to the new Administrative Order by the University President, the Medical Certificate as part of the requirement needed for enrollment shall be temporarily waived in consideration of the present situation and compliance with the standing policy of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).\nFor those who have already a Medical Certificate, the Health Services Office said that students will only need to mail/send through courier the Medical Certificate together with the other requirements. The Chest X-ray film and Result together with the Hepa B Screening Result will be checked by the University Physician (Dr. Abainza) on a later date (will be scheduled).",
+            "Per the new Administrative Order issued by the University President, the requirement of a Medical Certificate for enrollment will be temporarily waived, considering the current circumstances and in alignment with the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "In accordance with the recent Administrative Order from the University President, the necessity of presenting a Medical Certificate for enrollment will be temporarily suspended, taking into account the prevailing conditions and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "The University President's recent Administrative Order stipulates that the requirement for a Medical Certificate for enrollment will be temporarily set aside, acknowledging the current situation and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the ongoing circumstances and adherence to the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "Per the recent Administrative Order issued by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily exempted, given the prevailing conditions and adherence to the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "In light of the new Administrative Order from the University President, the requirement for a Medical Certificate for enrollment will be temporarily disregarded, taking into account the current situation and compliance with the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+            "According to the recent Administrative Order issued by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the present circumstances and adherence to the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID)."
+        ]
+    },
+    {
+        "label": "requirements",
+        "answers": [
+            "Documents to be passed through scanned copy:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture",
+            "Documents to be submitted in digital form:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture",
+            "List of documents to be passed in digital/scanned form:\n 1. BUCET Result\n 2. SHS Report Card\n 3. Medical Certificate (only to those who can provide now)\n 4. Birth Certificate\n 5. 2 pcs of 2x2 picture",
+            "Documents to be passed via submissions of digital/scanned copy:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture",
+            "Documents to be submitted in digital/scanned copy form:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture",
+            "List of documents to be passed in digital/scanned copy form:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture"
+        ]
+    },
+    {
+        "label": "satellite",
+        "answers": [
+            "Yes, there will be available dropboxes in satellite campuses of Bicol University.",
+            "Yes, drop-off points will be provided at the satellite campuses of Bicol University.",
+            "Indeed, dropboxes will be accessible at the satellite campuses of Bicol University.",
+            "Certainly, there will be designated drop-off locations at Bicol University's satellite campuses.",
+            "Absolutely, dropboxes will be installed at the satellite campuses of Bicol University.",
+            "Without a doubt, there will be drop-off facilities at Bicol University's satellite campuses.",
+            "Certainly, dropboxes will be set up at the satellite campuses of Bicol University.",
+            "It is confirmed that drop-off points will be available at Bicol University's satellite campuses.",
+            "Indeed, dropboxes will be present at the satellite campuses of Bicol University.",
+            "Without question, drop-off boxes will be placed at Bicol University's satellite campuses.",
+            "Certainly, there will be accessible drop-off locations at Bicol University's satellite campuses.",
+            "Affirmative, there will be designated drop-off areas at Bicol University's satellite campuses.",
+            "Absolutely, dropboxes will be provided at the satellite campuses of Bicol University.",
+            "It is confirmed that drop-off points will be accessible at Bicol University's satellite campuses.",
+            "Indeed, drop-off boxes will be installed at the satellite campuses of Bicol University.",
+            "Without a doubt, there will be drop-off locations at Bicol University's satellite campuses.",
+            "Certainly, dropboxes will be positioned at the satellite campuses of Bicol University.",
+            "It is confirmed that drop-off facilities will be available at Bicol University's satellite campuses.",
+            "Indeed, dropboxes will be situated at the satellite campuses of Bicol University.",
+            "Without question, there will be designated drop-off spots at Bicol University's satellite campuses.",
+            "Certainly, there will be accessible drop-off points at Bicol University's satellite campuses.",
+            "According to the University Registrar, aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",
+            "According to the University Registrar, they will be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",
+            "Aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar."
+        ]
+    },
+    {
+        "label": "form 138",
+        "answers": [
+            "The University Registrar has made it clear that the Grade 12 Report Card is obligatory for enrollment.",
+            "According to the University Registrar's instructions, your Grade 12 Report Card must be sent.",
+            "The Grade 12 Report Card stands out as a fundamental requisite for university enrollment, as emphasized by the office.",
+            "As per the University Registrar's guidelines, only the Grade 12 Report Card is needed.",
+            "The Grade 12 Report Card is highlighted as a primary condition for enrollment at the university, as per the University Registrar.",
+            "The University Registrar has specified that sending your Grade 12 Report Card suffices.",
+            "In line with the University Registrar's directives, the Grade 12 Report Card is indispensable.",
+            "The University Registrar underscores the necessity of providing the Grade 12 Report Card for enrollment purposes.",
+            "The Grade 12 Report Card is identified by the university office as a foundational requirement for enrollment.",
+            "According to the University Registrar, enrollment necessitates the submission of the Grade 12 Report Card exclusively.",
+            "The University Registrar emphasizes the importance of including the Grade 12 Report Card in your submission.",
+            "As per the University Registrar's communication, your Grade 12 Report Card is the primary document required.",
+            "The Grade 12 Report Card is stressed as a crucial document for university enrollment, according to the University Registrar.",
+            "According to the University Registrar, you will only need to send your Grade 12 Report Card. The office emphasized that the Report Card is a Basic Requirement for enrolment in the University.",
+            "As per the University Registrar, solely the submission of your Grade 12 Report Card is necessary.",
+            "The University Registrar highlighted that presenting the Grade 12 Report Card is mandatory for university enrollment.",
+            "The Grade 12 Report Card is underscored by the university office as an essential document for enrollment.",
+            "In accordance with the University Registrar, only the Grade 12 Report Card needs to be forwarded.",
+            "The University Registrar stresses the importance of furnishing the Grade 12 Report Card for enrollment purposes.",
+            "The submission of the Grade 12 Report Card alone suffices, as stated by the University Registrar.",
+            "It has been indicated by the University Registrar that solely the Grade 12 Report Card is required."
+        ]
+    },
+    {
+        "label": "CS",
+        "answers": [
+            "College of Science Courses(CS):\n 1. Bachelor of Science in Biology\n 2. Bachelor of Science in Chemistry\n 3. Bachelor of Science in Computer Science\n 4. Bachelor of Science in Information Technology\n 5. Bachelor of Science in Meteorology",
+            "Courses Available in College of Science (CS):\n 1. Bachelor of Science in Biology\n 2. Bachelor of Science in Chemistry\n 3. Bachelor of Science in Computer Science\n 4. Bachelor of Science in Information Technology\n 5. Bachelor of Science in Meteorology",
+            "Here is the list of available courses in College of Science (CS):\n 1. Bachelor of Science in Biology\n 2. Bachelor of Science in Chemistry\n 3. Bachelor of Science in Computer Science\n 4. Bachelor of Science in Information Technology\n 5. Bachelor of Science in Meteorology",
+            "Courses Available at College of Science (CS):\\n 1. Bachelor of Science in Biology\\n 2. Bachelor of Science in Chemistry\\n 3. Bachelor of Science in Computer Science\\n 4. Bachelor of Science in Information Technology\\n 5. Bachelor of Science in Meteorology"
+        ]
+    },
+    {
+        "label": "CSSP",
+        "answers": [
+            "College of Social Sciences and Philosophy (CSSP) Courses:\n 1. AB Peace Studies\n 2. AB Philosophy\n 3. AB Political Science\n 4. AB Sociology\n 5. BS Psychology\n 6. BS Social Work",
+            "Courses Available in Collge of Social Sciences and Philosophy (CSSP):\n 1. AB Peace Studies\n 2. AB Philosophy\n 3. AB Political Science\n 4. AB Sociology\n 5. BS Psychology\n 6. BS Social Work",
+            "List of available courses in College of Social Sciences and Philosophy (CSSP):\n 1. AB Peace Studies\n 2. AB Philosophy\n 3. AB Political Science\n 4. AB Sociology\n 5. BS Psychology\n 6. BS Social Work",
+            "Courses Available at College of Social Sciences and Philosophy (CSSP):\\n 1. AB Peace Studies\\n 2. AB Philosophy\\n 3. AB Political Science\\n 4. AB Sociology\\n 5. BS Psychology\\n 6. BS Social Work"
+        ]
+    },
+    {
+        "label": "BUTC",
+        "answers": [
+            "BU Tabaco (BUTC Courses:\n 1. Secondary Education Major in Science\n 2. Secondary Education Major in Math\n 3. BS Entrepreneurship\n 4. BS Fisheries\n 5.  BS Food Technology\n 6. BS Nursing\n 7.  BS Social Work",
+            "Courses Available in BU Tabaco (BUTC:\n 1. Secondary Education Major in Science\n 2. Secondary Education Major in Math\n 3. BS Entrepreneurship\n 4. BS Fisheries\n 5.  BS Food Technology\n 6. BS Nursing\n 7.  BS Social Work",
+            "List of courses at BU Tabaco (BUTC:\n 1. Secondary Education Major in Science\n 2. Secondary Education Major in Math\n 3. BS Entrepreneurship\n 4. BS Fisheries\n 5.  BS Food Technology\n 6. BS Nursing\n 7.  BS Social Work",
+            "Courses Available at BU Tabaco (BUTC):\\n 1. Secondary Education Major in Science\\n 2. Secondary Education Major in Math\\n 3. BS Entrepreneurship\\n 4. BS Fisheries\\n 5.  BS Food Technology\\n 6. BS Nursing\\n 7.  BS Social Work"
+        ]
+    },
+    {
+        "label": "CE",
+        "answers": [
+            "College of Education (CE) Courses:\n 1. Early Childhood Education\n 2. Elementary Education\n 3. Secondary Education\n 4. Bachelor of Culture and Arts Education",
+            "Courses Available in College of Education (CE):\n 1. Early Childhood Education\n 2. Elementary Education\n 3. Secondary Education\n 4. Bachelor of Culture and Arts Education",
+            "List of courses in College of Education (CE):\n 1. Early Childhood Education\n 2. Elementary Education\n 3. Secondary Education\n 4. Bachelor of Culture and Arts Education",
+            "Courses Available at College of Education (CE):\\n 1. Early Childhood Education\\n 2. Elementary Education\\n 3. Secondary Education\\n 4. Bachelor of Culture and Arts Education"
+        ]
+    },
+    {
+        "label": "BUGC",
+        "answers": [
+            "BU Gubat Campus (GC Courses:\n 1. Elementary Education\n 2. Secondary Education major in Filipino\n 3. Secondary Education major in Social Studies\n 4. BS Entrepreneurship\n 5. BSBA Major in Microfinance",
+            "Courses in BU Gubat Campus (GC:\n 1. Elementary Education\n 2. Secondary Education major in Filipino\n 3. Secondary Education major in Social Studies\n 4. BS Entrepreneurship\n 5. BSBA Major in Microfinance",
+            "List of courses in BU Gubat Campus (GC:\n 1. Elementary Education\n 2. Secondary Education major in Filipino\n 3. Secondary Education major in Social Studies\n 4. BS Entrepreneurship\n 5. BSBA Major in Microfinance",
+            "Courses Available at BU Gubat Campus (GC):\\n 1. Elementary Education\\n 2. Secondary Education major in Filipino\\n 3. Secondary Education major in Social Studies\\n 4. BS Entrepreneurship\\n 5. BSBA Major in Microfinance"
+        ]
+    },
+    {
+        "label": "CAL",
+        "answers": [
+            "College of Arts and Letters (CAL) Courses:\n 1. AB Broadcasting\n 2. AB Communication\n 3.  AB English Language\n 4. AB Journalism\n 5. AB Performing Arts (BPeA) Theater\n 6. AB Literature",
+            "Courses in College of Arts and Letters (CAL):\n 1. AB Broadcasting\n 2. AB Communication\n 3.  AB English Language\n 4. AB Journalism\n 5. AB Performing Arts (BPeA) Theater\n 6. AB Literature",
+            "List of courses College of Arts and Letters (CAL):\n 1. AB Broadcasting\n 2. AB Communication\n 3.  AB English Language\n 4. AB Journalism\n 5. AB Performing Arts (BPeA) Theater\n 6. AB Literature",
+            "Courses Available at College of Arts and Letters (CAL):\\n 1. AB Broadcasting\\n 2. AB Communication\\n 3.  AB English Language\\n 4. AB Journalism\\n 5. AB Performing Arts (BPeA) Theater\\n 6. AB Literature"
+        ]
+    },
+    {
+        "label": "IDeA",
+        "answers": [
+            "Institute of Design and Architecture (IDeA) Courses:\n 1. BS Architecture",
+            "Courses in Institute of Design and Architecture (IDeA):\n 1. BS Architecture",
+            "List of available courses in Institute of Design and Architecture (IDeA):\n 1. BS Architecture",
+            "Courses Available at Institute of Design and Architecture (IDeA):\\n 1. BS Architecture"
+        ]
+    },
+    {
+        "label": "CN",
+        "answers": [
+            "College of Nursing (CN) Courses:\n 1. BS Nursing",
+            "Courses in College of Nursing (CN):\n 1. BS Nursing",
+            "List of courses College of Nursing (CN):\n 1. BS Nursing",
+            "Courses Available at College of Nursing (CN):\\n 1. BS Nursing"
+        ]
+    },
+    {
+        "label": "JMRIGD",
+        "answers": [
+            "Jesse M. Robredo Institute of Governance and Development (JMRIGD) Courses:\n 1. Public Administration",
+            "Courses in Jesse M. Robredo Institute of Governance and Development (JMRIGD):\n 1. Public Administration",
+            "List of courses in Jesse M. Robredo Institute of Governance and Development (JMRIGD):\n 1. Public Administration",
+            "Courses Available at Jesse M. Robredo Institute of Governance and Development (JMRIGD):\\n 1. Public Administration"
+        ]
+    },
+    {
+        "label": "IPESR",
+        "answers": [
+            "Institute of Physical Education, Sports and Recreation (IPESR) Courses:\n 1. BS in Exercise & Sports Sciences\n 2. Bachelor of Physical Education",
+            "Courses in Institute of Physical Education, Sports and Recreation (IPESR)?:\n 1. BS in Exercise & Sports Sciences\n 2. Bachelor of Physical Education",
+            "List of courses in Institute of Physical Education, Sports and Recreation (IPESR)?:\n 1. BS in Exercise & Sports Sciences\n 2. Bachelor of Physical Education",
+            "Courses Available at Institute of Physical Education, Sports and Recreation (IPESR)?:\\n 1. BS in Exercise & Sports Sciences\\n 2. Bachelor of Physical Education"
+        ]
+    },
+    {
+        "label": "CBEM",
+        "answers": [
+            "College of Business, Economics and Management (CBEM) Courses:\n 1. BS Accountancy\n 2. BS Economics\n 3. BS Entrepreneurship\n 4. BSBA Major in Financial Management\n 5. BSBA Major in Human Resource Management\n 6. BS Management\n 7. BSBA Major in Marketing Management\n 8. BSBA Microfinance\n 9. BSBA Major in Operations Management",
+            "Courses at College of Business, Economics and Management (CBEM):\n 1. BS Accountancy\n 2. BS Economics\n 3. BS Entrepreneurship\n 4. BSBA Major in Financial Management\n 5. BSBA Major in Human Resource Management\n 6. BS Management\n 7. BSBA Major in Marketing Management\n 8. BSBA Microfinance\n 9. BSBA Major in Operations Management",
+            "List of courses in College of Business, Economics and Management (CBEM):\n 1. BS Accountancy\n 2. BS Economics\n 3. BS Entrepreneurship\n 4. BSBA Major in Financial Management\n 5. BSBA Major in Human Resource Management\n 6. BS Management\n 7. BSBA Major in Marketing Management\n 8. BSBA Microfinance\n 9. BSBA Major in Operations Management",
+            "Courses Available at College of Business, Economics and Management (CBEM):\\n 1. BS Accountancy\\n 2. BS Economics\\n 3. BS Entrepreneurship\\n 4. BSBA Major in Financial Management\\n 5. BSBA Major in Human Resource Management\\n 6. BS Management\\n 7. BSBA Major in Marketing Management\\n 8. BSBA Microfinance\\n 9. BSBA Major in Operations Management"
+        ]
+    },
+    {
+        "label": "CIT",
+        "answers": [
+            "College of Industrial Technology (CIT) Courses:\n 1. BS Automotive Technology\n 2. BS Civil Technology\n 3. BS Electrical Technology\n 4. BS Electronics Technology\n 5. BS Mechanical Technology\n 6. BS Food Technology\n 7. Industrial Design\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",
+            "Courses in College of Industrial Technology (CIT):\n 1. BS Automotive Technology\n 2. BS Civil Technology\n 3. BS Electrical Technology\n 4. BS Electronics Technology\n 5. BS Mechanical Technology\n 6. BS Food Technology\n 7. Industrial Design\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",
+            "List of courses College of Industrial Technology (CIT):\n 1. BS Automotive Technology\n 2. BS Civil Technology\n 3. BS Electrical Technology\n 4. BS Electronics Technology\n 5. BS Mechanical Technology\n 6. BS Food Technology\n 7. Industrial Design\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design",
+            "Courses Available at College of Industrial Technology (CIT):\\n 1. BS Automotive Technology\\n 2. BS Civil Technology\\n 3. BS Electrical Technology\\n 4. BS Electronics Technology\\n 5. BS Mechanical Technology\\n 6. BS Food Technology\\n 7. Industrial Design\\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design"
+        ]
+    },
+    {
+        "label": "CENG",
+        "answers": [
+            "College of Engineering (CENG) Courses:\n 1. BS Chemical Engineering\n 2. BS Civil Engineering\n 3. BS Electrical Engineering\n 4. BS Geodetic Engineering\n 5. BS Mechanical Engineering\n 6. BS Mining Engineering",
+            "Courses in College of Engineering (CENG):\n 1. BS Chemical Engineering\n 2. BS Civil Engineering\n 3. BS Electrical Engineering\n 4. BS Geodetic Engineering\n 5. BS Mechanical Engineering\n 6. BS Mining Engineering",
+            "List of courses in College of Engineering (CENG):\n 1. BS Chemical Engineering\n 2. BS Civil Engineering\n 3. BS Electrical Engineering\n 4. BS Geodetic Engineering\n 5. BS Mechanical Engineering\n 6. BS Mining Engineering",
+            "Courses Available at College of Engineering (CENG):\\n 1. BS Chemical Engineering\\n 2. BS Civil Engineering\\n 3. BS Electrical Engineering\\n 4. BS Geodetic Engineering\\n 5. BS Mechanical Engineering\\n 6. BS Mining Engineering"
+        ]
+    },
+    {
+        "label": "BUCAF",
+        "answers": [
+            "Bicol University Guinobatan Courses:\n 1. BS Agribusiness\n 2. BS Agricultural & Biosystems Engineering\n 3. BS Agriculture\n 4. BS Forestry\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\n 7. BS Food Technology\n 8. Doctor of Veterinary Medicine",
+            "Courses in Bicol University Guinobatan:\n 1. BS Agribusiness\n 2. BS Agricultural & Biosystems Engineering\n 3. BS Agriculture\n 4. BS Forestry\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\n 7. BS Food Technology\n 8. Doctor of Veterinary Medicine",
+            "List of courses in Bicol University Guinobatan:\n 1. BS Agribusiness\n 2. BS Agricultural & Biosystems Engineering\n 3. BS Agriculture\n 4. BS Forestry\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\n 7. BS Food Technology\n 8. Doctor of Veterinary Medicine",
+            "Courses Available at Bicol University Guinobatan:\\n 1. BS Agribusiness\\n 2. BS Agricultural & Biosystems Engineering\\n 3. BS Agriculture\\n 4. BS Forestry\\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\\n 7. BS Food Technology\\n 8. Doctor of Veterinary Medicine"
+        ]
+    },
+    {
+        "label": "BUPC",
+        "answers": [
+            "Bicol University Polangui Courses:\n 1. Elementary Education\n 2. Secondary Education Major in English\n 3. Secondary Education Major in Math\n 4. BS Automotive Technology\n 5. BS Computer Engineering\n 6. BS Computer Science\n 7. BS Electronics Engineering\n 8. BS Electronics Technology\n 9. BS Entrepreneurship\n 10. BS Information System\n 11. BS Information Technology\n 12. BS Information Technology (Animation)\n 13. BS Mechanical Technology\n 14. BS Nursing\n 15. Technology and Livelihood Education (BTLed-ICT)\n 16. Technology and Livelihood Education (BTLEd-Home Economics)",
+            "Courses in Bicol University Polangui:\n 1. Elementary Education\n 2. Secondary Education Major in English\n 3. Secondary Education Major in Math\n 4. BS Automotive Technology\n 5. BS Computer Engineering\n 6. BS Computer Science\n 7. BS Electronics Engineering\n 8. BS Electronics Technology\n 9. BS Entrepreneurship\n 10. BS Information System\n 11. BS Information Technology\n 12. BS Information Technology (Animation)\n 13. BS Mechanical Technology\n 14. BS Nursing\n 15. Technology and Livelihood Education (BTLed-ICT)\n 16. Technology and Livelihood Education (BTLEd-Home Economics)",
+            "List of courses in Bicol University Polangui:\n 1. Elementary Education\n 2. Secondary Education Major in English\n 3. Secondary Education Major in Math\n 4. BS Automotive Technology\n 5. BS Computer Engineering\n 6. BS Computer Science\n 7. BS Electronics Engineering\n 8. BS Electronics Technology\n 9. BS Entrepreneurship\n 10. BS Information System\n 11. BS Information Technology\n 12. BS Information Technology (Animation)\n 13. BS Mechanical Technology\n 14. BS Nursing\n 15. Technology and Livelihood Education (BTLed-ICT)\n 16. Technology and Livelihood Education (BTLEd-Home Economics)",
+            "Courses Available at Bicol University Polangui:\\n 1. Elementary Education\\n 2. Secondary Education Major in English\\n 3. Secondary Education Major in Math\\n 4. BS Automotive Technology\\n 5. BS Computer Engineering\\n 6. BS Computer Science\\n 7. BS Electronics Engineering\\n 8. BS Electronics Technology\\n 9. BS Entrepreneurship\\n 10. BS Information System\\n 11. BS Information Technology\\n 12. BS Information Technology (Animation)\\n 13. BS Mechanical Technology\\n 14. BS Nursing\\n 15. Technology and Livelihood Education (BTLed-ICT)\\n 16. Technology and Livelihood Education (BTLEd-Home Economics)"
+        ]
+    },
+    {
+        "label": "CDM",
+        "answers": [
+            "Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine",
+            "Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine",
+            "Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine",
+            "Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine"
+        ]
+    },
+    {
+        "label": "general requirements",
+        "answers": [
+            "Check out the following! \n I. General Requirements:\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\n II. Specific Requirements:\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\n 2. Two(2) copies of \u201c2x2\u201d recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\n",
+            "I hope this helps!\n I. General Requirements:\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\n II. Specific Requirements:\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\n 2. Two(2) copies of \u201c2x2\u201d recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\n",
+            "Check this out.\n I. General Requirements:\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\n II. Specific Requirements:\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\n 2. Two(2) copies of \u201c2x2\u201d recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\n",
+            "I. General Requirements:\\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\\n II. Specific Requirements:\\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\\n 2. Two(2) copies of \u201c2x2\u201d recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\\n"
+        ]
+    },
+    {
+        "label": "submitting requirements",
+        "answers": [
+            "To submit your BUCET requirements, check out the steps below\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5\u201dx13\u201d) bond paper for printing the form;\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\n 3. The following options are provided on how to submit your BUCET application documents:\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\n 4. Assigned BUAO personnel will check and validate your requirements;\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",
+            "How to submit BUCET requirements?\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5\u201dx13\u201d) bond paper for printing the form;\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\n 3. The following options are provided on how to submit your BUCET application documents:\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\n 4. Assigned BUAO personnel will check and validate your requirements;\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",
+            "Submission steps of BUCET requirements\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5\u201dx13\u201d) bond paper for printing the form;\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\n 3. The following options are provided on how to submit your BUCET application documents:\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\n 4. Assigned BUAO personnel will check and validate your requirements;\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled.",
+            "Steps to submit your BUCET requirements\\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5\u201dx13\u201d) bond paper for printing the form;\\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\\n 3. The following options are provided on how to submit your BUCET application documents:\\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\\n 4. Assigned BUAO personnel will check and validate your requirements;\\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled."
+        ]
+    },
+    {
+        "label": "announcement",
+        "answers": [
+            "The Bicol University Admissions Office will publish the list of passers on their official webpage, and you will also receive an email notification at your official email address.",
+            "Expect to see the names of those who passed on the official page of the Bicol University Admissions Office, and simultaneously, an email will be sent to your official email address.",
+            "The list of successful candidates will be available on the official webpage of the Bicol University Admissions Office, and you will also receive an email notification at your official email address.",
+            "On their official page, the Bicol University Admissions Office will post the roster of passers, and you will simultaneously receive an email at your official email address.",
+            "Check the official webpage of the Bicol University Admissions Office for the list of successful candidates, and simultaneously, an email will be sent to your official email address.",
+            "The Bicol University Admissions Office will display the list of passers on their official page, and you will concurrently receive an email at your official email address.",
+            "Look for the list of individuals who passed on the official webpage of the Bicol University Admissions Office, and you will also receive an email notification at your official email address.",
+            "The roster of successful candidates will be published on the official page of the Bicol University Admissions Office, and an email will be sent to your official email address simultaneously.",
+            "The Bicol University Admissions Office will release the list of passers on their official webpage, and you will receive an email notification at your official email address at the same time.",
+            "On the official webpage of the Bicol University Admissions Office, you will find the list of individuals who passed, and simultaneously, an email will be sent to your official email address.",
+            "The list of successful candidates will be posted on the official webpage of the Bicol University Admissions Office, and you will receive an email notification at your official email address simultaneously.",
+            "Check the official page of the Bicol University Admissions Office for the roster of passers, and expect to receive an email at your official email address simultaneously.",
+            "The Bicol University Admissions Office will post the list of passers on their official page, also you will receive an email at your official email address.",
+            "The official page of the Bicol University Admissions Office will host the roster of successful candidates, and simultaneously, an email will be sent to your designated email address.",
+            "The list of successful candidates will be published on the official webpage of the Bicol University Admissions Office, alongside an email notification sent to your official email.",
+            "Expect to find the list of individuals who passed on the official webpage of the Bicol University Admissions Office, with a corresponding email dispatched to your official email address.",
+            "The Bicol University Admissions Office will make the list of passers available on their official page, and concurrently, they will send you an email to your official email address.",
+            "On their official webpage, the Bicol University Admissions Office will display the names of those who passed, and simultaneously, an email notification will be sent to your official email.",
+            "Look out for the list of successful candidates on the official page of the Bicol University Admissions Office, and expect to receive an email at your official email address.",
+            "The roster of passers will be posted on the official webpage of the Bicol University Admissions Office, and concurrently, an email notification will be sent to your official email.",
+            "You can find the list of successful candidates on the official page of the Bicol University Admissions Office, and at the same time, an email will be sent to your official email address."
+        ]
+    },
+    {
+        "label": "qualification",
+        "answers": [
+            "To check:\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",
+            "Check out the pre-requisites:\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",
+            "To confirm if your qualified:\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply.",
+            "To qualify:\\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply."
+        ]
+    },
+    {
+        "label": "topics",
+        "answers": [
+            "Within the examination, sub-tests assess proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "The assessment consists of sections examining proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "The examination is structured with sub-tests in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "Sub-tests within the exam evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",
+            "The test comprises sections on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The examination includes sub-tests assessing proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "Within the exam, there are sections focused on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The assessment involves sub-tests covering proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "Sub-tests within the examination evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",
+            "The test includes sections for evaluating proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "Within the examination, sub-tests assess proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "The assessment consists of sections examining proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "The examination is structured with sub-tests in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The examination consists of sub-tests in Language Proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "The test includes sections on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The examination comprises assessments in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "Within the exam, there are sub-tests covering English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The assessment involves sub-tests focused on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+            "The examination is composed of sub-tests assessing proficiency in English, Mathematics, Science, and Reading Comprehension.",
+            "Sub-tests within the examination evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",
+            "The test includes sections for evaluating proficiency in English, Mathematics, Science, and Reading Comprehension."
+        ]
+    },
+    {
+        "label": "date of release",
+        "answers": [
+            "Refer to the paper that was handed to you after your examination.",
+            "Look to your paper that was handed to you after your examination.",
+            "You can found on the paper given to you after an examination.",
+            "Please refer to the paper that was handed to you after your examination.",
+            "You can refer to your paper that was handed to you after your examination.",
+            "The date can be found on the paper given to you."
+        ]
+    },
+    {
+        "label": "test centers",
+        "answers": [
+            "To ascertain your examination venue, consult the test permit issued by BUAO.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Bicol hosts numerous test centers for examination purposes.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "The test permit, distributed by BUAO personnel, contains details of the allocated test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Across Bicol, test centers are strategically positioned.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Identifying your exam venue in Bicol is facilitated by the test permit.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "The test permit, handed out by BUAO personnel, specifies the test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Throughout Bicol, test centers are established to serve examinees.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "The test permit issued by BUAO personnel indicates the designated test center.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Across Bicol, there are multiple locations designated as test centers.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "To locate your exam venue, refer to the test permit provided by BUAO personnel.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Bicol University offers various test centers, with details provided in the test permit distributed by BUAO personnel.",
+            "The test centers are located throughout Bicol. To find the test center allocated for your exam, the test center is indicated in the test permit that was handed by the BUAO personnel.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Throughout Bicol, test centers are distributed for convenience.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Test centers are spread across Bicol to accommodate examinees.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Discovering your designated test center in Bicol is facilitated by referencing the test permit.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "The test permit, provided by BUAO personnel, denotes the allocated test center. Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+            "Test centers are situated across various locations within Bicol.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php"
+        ]
+    },
+    {
+        "label": "mobile phone",
+        "answers": [
+            "Yes, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",
+            "We advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files, but yes, you can.",
+            "You can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",
+            "Yes you can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files."
+        ]
+    }
+]

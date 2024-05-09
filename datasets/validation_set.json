@@ -1,0 +1,1390 @@
+{
+    "intents": [
+        {
+            "tag": "form",
+            "patterns": [
+                "Where can I get the BUCET application form?",
+                "Where is it possible to obtain the application form for the BUCET?",
+                "Could you please inform me where I can acquire the BUCET application form?",
+                "I'm looking for the BUCET application form, do you know where I can find it?",
+                "Can you guide me on where to access the application form for BUCET?",
+                "Where should I go to secure the application form for BUCET?",
+                "I need to find out where I can pick up the BUCET application form?",
+                "Could you direct me to the source for the BUCET application form?",
+                "Where can the application form for BUCET be acquired?"
+            ],
+            "responses": [
+                "Oh sure! To get the BUCET application form , you can visit this link https://buao.bicol-u.edu.ph.",
+                "Hello there! Here is the link to apply: https://buao.bicol-u.edu.ph. Goodluck!:",
+                "Okay! If you're interested to apply, you can go to https://buao.bicol-u.edu.ph.",
+                "To get started with the application process, you can head over to https://buao.bicol-u.edu.ph.:",
+                "I'd be happy to help you apply! Just visit this link https://buao.bicol-u.edu.ph.",
+                "If you want to apply, you can follow this link https://buao.bicol-u.edu.ph.",
+                "Good to hear! Here's the link to apply: https://buao.bicol-u.edu.ph.",
+                "To apply, simply head over to https://buao.bicol-u.edu.ph.",
+                "Looks like your're interested to apply! To get started, you can visit https://buao.bicol-u.edu.ph to apply.",
+                "Hello user! To proceed with the application, you can follow the link to https://buao.bicol-u.edu.ph.",
+                "To start your application process, you can visit https://buao.bicol-u.edu.ph.",
+                "Hello, Aspiring BUEÑO! To apply, you can visit this link https://buao.bicol-u.edu.ph.",
+                "Great! If you want to apply, You can go to this site https://buao.bicol-u.edu.ph.",
+                "Nice! To begin the application process, you can visit [https://buao.bicol-u.edu.ph](https://buao."
+            ]
+        },
+        {
+            "tag": "reschedule",
+            "patterns": [
+                "How do I reschedule my appointment date?",
+                "What is the process for changing my appointment date?",
+                "Can you guide me on rescheduling my appointment?",
+                "I need assistance in rescheduling my appointment date, how can I do that?",
+                "What steps should I take to rescheduled the date of my scheduled appointment?",
+                "Could you provide instructions on adjusting my appointment date?",
+                "I'm looking to reschedule my appointment, what's the procedure?",
+                "Is there a specific way I should go about rescheduling my appointment date?",
+                "What options do I have for shifting my appointment to a different date?",
+                "Can you help me understand the steps in changing my appointment date?",
+                "I would like to know the proper protocol for rescheduling my appointment, could you please advise?",
+                "What is the process for rescheduling my appointment date?",
+                "Can you guide me on how to reschedule my appointment date?",
+                "What steps should I take to reschedule my appointment date?"
+            ],
+            "responses": [
+                "Visit the link to reschedule appointment date https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "To reschedule your appointment date, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Reschedule your appointment date by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "If you need to change your appointment date, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "For appointment date changes, please go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "To adjust your appointment date, simply visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Need to reschedule? Click the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "You can reschedule your appointment date by navigating to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Change your appointment date by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Want to reschedule? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Adjust your appointment date by accessing: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Reschedule your appointment date with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "To change your appointment date, go to: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Need to change the date? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php"
+            ]
+        },
+        {
+            "tag": "retrieve",
+            "patterns": [
+                "How do I retrieve the BUCET application form?",
+                "Could you guide me on where to access the BUCET application form?",
+                "Where can I find the BUCET application form for retrieval?",
+                "What are the steps to retrieve the BUCET application form?",
+                "Is there a specific website to visit in order to get the BUCET application form?",
+                "I'm interested in applying for BUCET, can you provide information on how to retrieve the application form?",
+                "What steps do I need to take to obtain the BUCET application form?",
+                "What are the steps to retrieve the BUCET application form?",
+                "Could you please elaborate on the procedure for obtaining the BUCET application form?",
+                "Where should I go or what website should I visit to get the BUCET application form?",
+                "What's the process for retrieving the BUCET application form?",
+                "Can you guide me on how to access and retrieve the BUCET application form?",
+                "Could you provide instructions on how to download and retrieve the BUCET application form?",
+                "What is the proper procedure for obtaining and retrieving the BUCET application form?",
+                "Can you inform me about the protocol for retrieving the BUCET application form?"
+            ],
+            "responses": [
+                "Discover and download your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Retrieve your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Find and download your application form by clicking on the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "To find and download your application form visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Visit the link to locate and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Retrieve and download your application form by following the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Visit the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Access and download your application form by clicking here: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Obtain your application form by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Click the link to find and download your application form: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Discover your application form by visiting: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Find and download your application form via link visit: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Locate your application form by accessing the link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Visit the link to find your application form for download: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php",
+                "Retrieve your application form by clicking this link: https://buao.bicol-u.edu.ph/bucet_online/retrieve.php"
+            ]
+        },
+        {
+            "tag": "edit",
+            "patterns": [
+                "How do I edit my online submitted picture?",
+                "Can you guide me through the steps to modify the picture I submitted online?",
+                "What's the process for making edits to the picture I uploaded on the online platform?",
+                "Is there an option to update or replace the picture in my online submission?",
+                "How can I go back and edit the image I attached during the online submission?",
+                "Can you provide instructions on how to edit the photo after it has been submitted online?",
+                "Could you provide instructions on how to replace or update the image I previously submitted online?",
+                "Is there an edit option available for the uploaded picture in my online profile?",
+                "What tools or resources are available for users who need to make changes to their submitted pictures?",
+                "Could you guide me through the process of editing the picture I uploaded for my online submission?",
+                "Is it possible to make changes to the photo I submitted online, and if so, how?",
+                "What steps should I follow to edit the picture I submitted online?",
+                "Can you guide me on how to make changes to the picture I uploaded online?",
+                "How do I go about editing the photo I submitted through the online platform?",
+                "What's the process for making edits to the picture I already submitted online?"
+            ],
+            "responses": [
+                "To change or re-upload your picture, visit the following link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Change or re-upload your picture accessing the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "If you need to update your picture, you can click on the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "For picture changes or re-uploads, please go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "To adjust or re-upload your picture, simply visit: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Need to change or re-upload? Click the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "You can change or re-upload your picture by navigating to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Update your picture by visiting the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Want to change or re-upload? Visit this link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Adjust or re-upload your picture by accessing: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Change or re-upload your picture with ease by clicking here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "To update your picture, go to: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Need to change or re-upload? Follow the link: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "Adjust or re-upload your picture easily by visiting: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php",
+                "For picture changes or re-uploads, click here: https://buao.bicol-u.edu.ph/bucet_online/edit_pic.php"
+            ]
+        },
+        {
+            "tag": "deadline",
+            "patterns": [
+                "When is the deadline for submission of all documentary requirements?",
+                "Could you please specify the deadline for submitting all required documents?",
+                "What is the cutoff date for the submission of the necessary documentation?",
+                "Is there a specific timeline by which all documentary requirements must be submitted?",
+                "Can you provide information on the final date for completing the submission of required documents?",
+                "Is there a specific deadline for submitting the documentary requirements?",
+                "When is the deadline for turning in all the necessary documents?",
+                "What is the final date by which I need to complete the submission of all necessary documents?",
+                "Are there different deadlines for specific types of documents, or is there a unified submission date?",
+                "When is the last day I can submit all the required documents for consideration?",
+                "What is the cutoff date for submitting all required documents?",
+                "Can you provide information on the deadline for the submission of all documentary requirements?"
+            ],
+            "responses": [
+                "The submission of all documentary requirements is on a week before the examination day per test center.",
+                "A week before the examination day per test center, is the submission of all necessary requirements.",
+                "Submission is a week before the examination day per test center",
+                "The submission for all requirements is a week before the examination day per test center",
+                "The passing of all the requirements needed is on aweek before the examination day per test center",
+                "You can submit it on a week before the examination day per test center",
+                "Deadline for submission of all documentary requirements is on a week before the examination day per test center",
+                "Marked on your calendar it is on a week before the examination day per test center",
+                "Submit it on a week before the examination day per test center",
+                "A week before the examination day per test center is the deadline for submitting the requirements.", 
+                "It is on a week before the examination day per test center",
+                "A week before the examination day per test center"
+            ]
+        },
+        {
+            "tag": "fee",
+            "patterns": [
+                "How much is the BUCET application fee?",
+                "Could you please inform me about the specific amount required for the BUCET application fee?",
+                "What is the cost associated with the application fee for the BUCET?",
+                "I’m curious to know the exact fee amount for the BUCET application process?",
+                "Could you clarify the financial requirement for the BUCET application fee?",
+                "What is the prescribed fee for submitting the BUCET application for consideration?",
+                "What is the total amount I need to pay as the application fee for the BUCET?",
+                "Is there a specific fee associated with the BUCET application, and if so, how much is it?",
+                "Can you clarify the cost of the BUCET application and any processing fees?",
+                "Can you provide details for the payment of the BUCET application fee?"
+            ],
+            "responses": [
+                "FREE, the fee of PHP 250.00 is free for Filipino freshmen applicants pursuant to R.A. NO. 10931",
+                "The registration fee of PHP 250.00 is waived for Filipino freshmen applicants under the provisions of R.A. NO. 10931.",
+                "Filipino freshmen applicants are exempt from the PHP 250.00 fee in accordance with R.A. NO. 10931.",
+                "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee.",
+                "Under R.A. NO. 10931, Filipino freshmen applicants are entitled to a waiver of the PHP 250.00 registration fee.",
+                "The PHP 250.00 registration fee is waived for Filipino freshmen applicants in compliance with R.A. NO. 10931.",
+                "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are granted exemption from the PHP 250.00 registration fee.",
+                "Filipino freshmen applicants are eligible for a waiver of the PHP 250.00 registration fee under the provisions of R.A. NO. 10931.",
+                "The PHP 250.00 registration fee is waived for Filipino freshmen applicants pursuant to R.A. NO. 10931.",
+                "In accordance with R.A. NO. 10931, Filipino freshmen applicants are not required to pay the PHP 250.00 registration fee.",
+                "Pursuant to R.A. NO. 10931, Filipino freshmen applicants are exempted from the PHP 250.00 registration fee."
+            ]
+        },
+        {
+            "tag": "authorized personnel",
+            "patterns": [
+                "Who can submit my BUCET application requirements?",
+                "Who has the authority to submit my BUCET application requirements on my behalf?",
+                "Can someone else be designated to submit the necessary documents for my BUCET application?",
+                "Is it permissible for a representative to handle the submission of my BUCET application requirements?",
+                "Who is allowed to act as a proxy for the submission of my BUCET application documents?",
+                "Can I enlist someone to submit my BUCET application requirements in my absence?",
+                "Is it permissible to have someone submit my requirements on my behalf?",
+                "Who else, besides the applicant, is authorized to deliver the BUCET application documents?",
+                "Are there any restrictions on who can submit my BUCET application requirements for me?",
+                "Can a family member or friend take responsibility for submitting my BUCET application documents?",
+                "Is there a formal process for appointing someone to submit my BUCET application requirements on my behalf?",
+                "Can someone else submit my BUCET application requirements on my behalf?"
+            ],
+            "responses": [
+                "Your complete BUCET requirements can be submitted by any authorized representative.",
+                "Authorized representatives are permitted to submit your full BUCET requirements.",
+                "Any designated representative is welcome to submit your entire BUCET requirements.",
+                "Your complete BUCET requirements may be submitted by any representative authorized to do so.",
+                "Authorized representatives have the privilege of submitting your full BUCET requirements.",
+                "Any representative with authorization is allowed to submit your complete BUCET requirements.",
+                "Representatives with proper authorization are permitted to submit your entire BUCET requirements.",
+                "You have the option of having any authorized representative submit your complete BUCET requirements.",
+                "Submission of your complete BUCET requirements is allowed by any representative with proper authorization.",
+                "Any representative who is duly authorized is permitted to submit your entire BUCET requirements.",
+                "You can authorize any representative to submit your complete BUCET requirements.",
+                "Submission of your complete BUCET requirements is open to any authorized representative."
+            ]
+        },
+        {
+            "tag": "reapply",
+            "patterns": [
+                "Can I re-apply since I mistakenly filled out my application form?",
+                "Can I submit a new application since I mistakenly completed my initial application form?",
+                "In the event of errors on my application form, am I allowed to submit a corrected re-application?",
+                "Is there a process for reapplying if I made mistakes on my original application form?",
+                "If I filled out my application form incorrectly, can I initiate a new application process?",
+                "What steps can I take to correct my application form and submit a fresh application?",
+                "Am I eligible to reapply if I made inadvertent mistakes on my initial application form?",
+                "Is there a specific protocol for applicants who need to reapply due to errors on the form?",
+                "Can I correct mistakes and resubmit my application, or do I need to start a new application altogether?",
+                "If errors were made on my application form, can I apply again with the correct information",
+                "Is it possible to submit a new application after mistakenly filling out the previous one?"
+            ],
+            "responses": [
+                "Do not re-apply. If you would like to make changes, print out your application form and edit it with a correction tape and use a blue ballpen.",
+                "Do not re-apply. If adjustments are needed, kindly print your application form and make edits using correction tape alongside a blue ballpen.",
+                "Do not re-apply. Should any modifications be necessary, please print out your application form and apply corrections with correction tape, utilizing a blue ballpen.",
+                "Do not re-apply. In case of any alterations, it's recommended to print your application form and amend it using correction tape, ensuring to use a blue ballpen.",
+                "Do not re-apply. For any revisions, we advise printing your application form and making changes using correction tape, employing a blue ballpen.",
+                "Do not re-apply. In the event of changes, it is best to print your application form and make corrections with correction tape, making use of a blue ballpen.",
+                "Do not re-apply. Should you need to make modifications, kindly print your application form and adjust it with correction tape, utilizing a blue ballpen.",
+                "Do not re-apply. If adjustments are necessary, please print out your application form and modify it with correction tape, using a blue ballpen.",
+                "Do not re-apply. Should you wish to make changes, it's recommended to print your application form and edit it with correction tape, ensuring to use a blue ballpen.",
+                "Do not re-apply. The case of any alterations, we suggest printing your application form and applying corrections with correction tape, using a blue ballpen.",
+                "Do not re-apply. For any revisions, it's advisable to print your application form and make adjustments with correction tape, employing a blue ballpen."
+            ]
+        },
+        {
+            "tag": "correcting",
+            "patterns": [
+                "Could you guide me on the procedure for correcting a mistakenly filled-out application form?",
+                "What steps should I take to rectify errors on an application form that was incorrectly completed?",
+                "Is there a specific process in place for applicants to correct inaccuracies on their application forms?",
+                "How can I go about making corrections to an application form that I filled out incorrectly?",
+                "Is there a designated mechanism for applicants to amend errors on their completed application forms?",
+                "Could you provide instructions on how to make necessary corrections to a wrongly completed application form?",
+                "Are there any forms or documentation required to accompany the correction of an application form?",
+                "What is the recommended approach for applicants seeking to fix mistakes on their application forms?",
+                "Is there a timeframe within which corrections to a wrongly completed application form must be made?",
+                "Can you advise on the appropriate channels or contacts to notify regarding corrections to an application form?",
+                "What steps should I take to rectify errors in a wrongly completed application form?"
+            ],
+            "responses": [
+                "To correct mistakenly filled-out application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor",
+                "To fix mistakenly filled-out application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor",
+                "For the correction in application form, follow the procedure below.\\n 1. Print your application form. Use legal size (8.5”X 13”) bond paper for printing the form.\\n 2. To remove errors, use correction tape. Write neatly the correct using a blue ballpen.\\n 3. Add your initials or signature next to the updated information.\\n Note: Do not use pdf editor"
+            ]
+        },
+        {
+            "tag": "submit",
+            "patterns": [
+                "How do I submit my BUCET application requirements?",
+                "What is the process for submitting my BUCET application requirements?",
+                "Could you guide me on the steps to follow when submitting my BUCET application documents?",
+                "Can you provide instructions on the proper way to submit my application requirements for BUCET?",
+                "What channels or methods are available for me to submit my BUCET application documents?",
+                "Is there a specific portal or platform where I should upload my BUCET application requirements?",
+                "Could you clarify the submission procedure for the BUCET application requirements?",
+                "Are there any specific guidelines or deadlines for submitting my BUCET application documents?",
+                "What documentation is required, and how should I go about submitting it for the BUCET application?",
+                "Can you outline the steps involved in the submission of my application requirements for BUCET?"
+            ],
+            "responses": [
+                "There's three option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+                "There's an option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+                "Here's the option you can make\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+                "Here's the list you can do\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality",
+                "To submit, you have three options\\n Option 1: Submit your BUCET application requirements to your High School Counselor or to any authorized school representative.\\n Option 2: Submit your BUCET application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submissions date.\\n Option 3: Mail your BUCET application documents through any courier service available in your locality"
+            ]
+        },
+        {
+            "tag": "claim",
+            "patterns": [
+                "How to claim my BUCET test permit?",
+                "What steps should I take to claim my BUCET test permit?",
+                "Could you provide guidance on the process of claiming my BUCET test permit?",
+                "Is there a specific protocol for applicants to follow in order to claim their BUCET test permits?",
+                "How do I go about obtaining and claiming my BUCET test permit?",
+                "Can you explain the procedures involved in claiming my BUCET test permit?",
+                "What is the recommended method for applicants to officially claim their BUCET test permits?",
+                "Are there any documents or identification requirements for claiming my BUCET test permit?",
+                "Could you clarify the timeline for when and how I can claim my BUCET test permit?",
+                "Is there a designated location or online portal for claiming my BUCET test permit?",
+                "Where can I find detailed information on claiming my BUCET test permit and any associated deadlines?",
+                "What is the process for claiming my BUCET test permit?"
+            ],
+            "responses": [
+                "There's three option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+                "There's an option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+                "Here's the option you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+                "Here's the list you can do\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form.",
+                "To claim, you have three options\\n Option 1:   Claim your test permit from your High School Counselor or authorized school representative.\\n Option 2: BU Admissions office (Onsite during appointment date)\\n Option 3:  Your temporary test permit will be emailed to you at your official email address indicated in the form."
+            ]
+        },
+        {
+            "tag": "appointment",
+            "patterns": [
+                "Should I follow my appointment date if I choose option 1 or option 3?",
+                "If I select option 1 or option 3, should I adhere to the scheduled appointment date?",
+                "Do I need to follow the appointed date if I opt for either option 1 or option 3?",
+                "Is it necessary to stick to the appointment date if I choose option 1 or option 3?",
+                "Should I honor the specified appointment date when selecting either option 1 or option 3?",
+                "If I decide on option 1 or option 3, is it mandatory to observe the appointment date?",
+                "Do I have to abide by the appointment date if I go for option 1 or option 3?",
+                "When selecting option 1 or option 3, is following the appointment date a requirement?",
+                "In the case of option 1 or option 3, is it recommended to follow the appointment date?",
+                "If I opt for either option 1 or option 3, do I still need to adhere to the appointment date?",
+                "Should I adhere to the appointment date if I choose either option 1 or option 3?",
+                "Does following option 1 or option 3 require me to keep my initially assigned appointment date?"
+            ],
+            "responses": [
+                "No need, But please ensure that your application requirements reach the admissions office before the scheduled deadline for the test center.",
+                "No need, But it is important to confirm that your application requirements have been received by the admissions office before the scheduled deadline for the test center.",
+                "No need, But make sure that your application requirements are received by the admissions office before the scheduled deadline for the test center.",
+                "No need, But verify that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+                "No need, But check to ensure that your application requirements have been submitted to the admissions office before the scheduled deadline for the test center.",
+                "No need, But double-check that your application requirements have reached the admissions office before the scheduled deadline for the test center.",
+                "No need, But confirm that your application requirements have been delivered to the admissions office before the scheduled deadline for the test center.",
+                "No need, But ensure that your application requirements have been sent to the admissions office before the scheduled deadline for the test center.",
+                "No need, But validate that your application requirements have been dispatched to the admissions office before the scheduled deadline for the test center.",
+                "No need, But be certain that your application requirements have been forwarded to the admissions office before the scheduled deadline for the test center.",
+                "No need, But make certain that your application requirements have been transmitted to the admissions office before the scheduled deadline for the test center.",
+                "No need, But it is imperative to ascertain that your application requirements have reached the admissions office before the scheduled deadline for the test center."
+            ]
+        },
+        {
+            "tag": "follow",
+            "patterns": [
+                "If my appointment date falls beyond the scheduled deadline for the test center, should I still adhere to it?",
+                "Should I follow the appointment date even if it extends past the initially scheduled deadline for the test center?",
+                "Is it advisable to honor the appointment date, even if it surpasses the originally set deadline for the test center?",
+                "If the appointment date is beyond the initial deadline for the test center, do I still need to follow it?",
+                "Given that the test center's deadline has passed, do I still need to adhere to my appointment date?",
+                "Should I stick to the appointment date, even if it is already beyond the test center's initial deadline?",
+                "Is it mandatory to follow the appointment date, even if it surpasses the initially set deadline for the test center?",
+                "If the appointment date falls beyond the scheduled deadline for the test center, is it still applicable?",
+                "Do I need to adhere to the appointment date, even if it is beyond the initially scheduled deadline for the test center?",
+                "Should I follow my appointment date, even if it is beyond the specified deadline for the test center?",
+                "Is it advisable to adhere to my appointment date even if it exceeds the scheduled deadline for the test center?",
+                "What should I do if my appointment date has passed the designated deadline for the test center?"
+            ],
+            "responses": [
+                "No need, But make sure to double-check and confirm that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+                "No need, But it is crucial to verify with certainty that your application requirements have been properly received and documented by the admissions office before the scheduled deadline for the test center.",
+                "No need, But double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+                "No need, But ensure with certainty that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+                "No need, But make sure to verify that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+                "No need, But it is essential to double-check and confirm that your application requirements have been properly received and recorded by the admissions office before the scheduled deadline for the test center.",
+                "No need, But verify with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+                "No need, But make sure to double-check and confirm that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+                "No need, But it is crucial to ensure with certainty that your application requirements have been properly received and acknowledged by the admissions office before the scheduled deadline for the test center.",
+                "No need, But ensure your application requirements are received by the admissions office prior to the test center's deadline.",
+                "No need, But make certain your application materials are submitted to the admissions office before the test center's deadline.",
+                "No need, But verify that your application documents have been received by the admissions office ahead of the test center's deadline."
+            ]
+        },
+        {
+            "tag": "address",
+            "patterns": [
+                "What is the address of the BU admissions office?",
+                "Could you please provide me with the address of the BU admissions office?",
+                "What is the specific location or street address of the BU admissions office?",
+                "Can you share the physical address where I can find the BU admissions office?",
+                "Where is the BU admissions office located, and what is its mailing address?",
+                "Could you offer details on the exact address of the BU admissions office for in-person visits?",
+                "What is the street address and zip code for the BU admissions office?",
+                "Can you provide the complete address, including any relevant details, for the BU admissions office?",
+                "I'm looking for the precise address of the BU admissions office; could you assist me with that information?",
+                "Where can I find the official address for the BU admissions office for correspondence?",
+                "What are the details of the BU admissions office address, and is there any additional contact information?",
+                "Where can I find the physical address for the BU admissions office?"
+            ],
+            "responses": [
+                "The BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+                "It is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500",
+                "BU Admission office is located on Bicol University-Main Campus Gate 4, Ground Admissions Office Legazpi City, Albay, 4500"
+            ]                       
+        },
+        {
+            "tag": "format",
+            "patterns": [
+                "What is the correct picture format?",
+                "Could you specify the appropriate picture format for submission?",
+                "What is the recommended image format that should be used?"
+            ],
+            "responses": [
+                "Picture format must be:\\n Recent 2x2\\n Unedited or Unfiltere4d studio-taken\\n In white background\\n With Signature\\n With name tag"
+            ]
+        },
+        {
+            "tag": "mailing stamp",
+            "patterns": [
+                "Where do I buy mailing stamp?",
+                "Could you direct me to the location where I can purchase a mailing stamp?",
+                "Where is the designated place for buying a mailing stamp?",
+                "Can you provide information on where I can go to buy a mailing stamp?",
+                "I'm unsure where to purchase a mailing stamp; could you offer guidance?",
+                "Where can I find a facility or store to buy the necessary mailing stamp?",
+                "Could you point me in the right direction to acquire a mailing stamp?",
+                "What is the specific location where I should go to purchase a mailing stamp?",
+                "Can you suggest a convenient place for me to buy the required mailing stamp?",
+                "Where should I go in order to buy a stamp for mailing purposes?",
+                "I would appreciate guidance on the location or store where I can buy a mailing stamp?",
+                "Where can I purchase postage stamps for mailing?"
+            ],
+            "responses": [
+                "Purchase your postage stamp from the post office.",
+                "Get your postage stamp from the post office.",
+                "Obtain your postage stamp at the post office.",
+                "Procure your postage stamp at the post office.",
+                "Secure your postage stamp from the post office.",
+                "Acquire your postage stamp at the post office.",
+                "Pick up your postage stamp at the post office.",
+                "Collect your postage stamp from the post office.",
+                "Grab your postage stamp at the post office.",
+                "Buy your postage stamp from the post office.",
+                "You can get your postage stamp at the post office.",
+                "You can purchase your postage stamp from the post office."
+            ]
+        },
+        {
+            "tag": "exceed",
+            "patterns": [
+                "Is it okay if our mailing stamp is more than Php 50.00?",
+                "Is it acceptable if our mailing stamp exceeds the value of Php 50.00?",
+                "Is there a problem if the mailing stamp used is more than Php 50.00 in value?",
+                "Can we use a mailing stamp with a denomination exceeding Php 50.00?",
+                "Is it permissible to affix a mailing stamp that is valued higher than Php 50.00?",
+                "Are there any restrictions if our mailing stamp has a value exceeding Php 50.00?",
+                "Could you clarify whether using a mailing stamp over Php 50.00 is allowed?",
+                "Is it within the rules to use a mailing stamp with a value greater than Php 50.00?",
+                "Would it be acceptable if the mailing stamp we use is more than Php 50.00?",
+                "Is there a specific limit on the value of the mailing stamp, or can it exceed Php 50.00?",
+                "Could you provide information on whether there's a maximum value for the mailing stamp, and if so, what is it?"
+            ],
+            "responses": [
+                "The cost of the mailing stamp may exceed Php. 50, but it will not be less than Php. 50.00.",
+                "The price of the mailing stamp might go beyond Php. 50, but it won't fall below Php. 50.00.",
+                "The mailing stamp could cost more than Php. 50, but it won't be under Php. 50.00.",
+                "The mailing stamp's price may surpass Php. 50, but it won't be lower than Php. 50.00.",
+                "The mailing stamp might be priced higher than Php. 50, but it won't be less than Php. 50.00."
+            ]
+        },
+        {
+            "tag": "paste",
+            "patterns": [
+                "How do I paste the Php 50.00 mailing stamp?",
+                "Could you provide instructions on the proper method for affixing the Php 50.00 mailing stamp?",
+                "Can you guide me through the process of correctly pasting the Php 50.00 mailing stamp?",
+                "How should I go about adhering the Php 50.00 mailing stamp to the document or package?",
+                "What is the recommended procedure for pasting the Php 50.00 mailing stamp securely?",
+                "Could you share the steps involved in properly affixing the Php 50.00 mailing stamp?",
+                "Is there a specific location on the document where I should paste the Php 50.00 mailing stamp?",
+                "Can you provide details on the appropriate way to attach the Php 50.00 mailing stamp?",
+                "Are there any guidelines on the orientation or placement when pasting the Php 50.00 mailing stamp?",
+                "What are the recommended techniques for pasting the Php 50.00 mailing stamp effectively?",
+                "Could you offer insights on the best practices for ensuring the proper adhesion of the Php 50.00 mailing stamp?",
+                "What is the correct method for affixing the Php 50.00 mailing stamp?"
+            ],
+            "responses": [
+                "Affix it to the upper right-hand corner of the long-sized window mailing envelope.",
+                "Place it on the top right corner of the long-sized window mailing envelope.",
+                "Stick it on the upper-right corner of the long-sized window mailing envelope.",
+                "Adhere it to the upper right corner of the long-sized window mailing envelope.",
+                "Attach it to the upper right-hand corner of the long-sized window mailing envelope.",
+                "Position it on the top right-hand corner of the long-sized window mailing envelope.",
+                "Affix it to the top right corner of the long-sized window mailing envelope.",
+                "Place it in the upper right corner of the long-sized window mailing envelope.",
+                "Stick it in the upper-right corner of the long-sized window mailing envelope.",
+                "Adhere it in the upper right-hand corner of the long-sized window mailing envelope.",
+                "Position it at the top right-hand corner of the long-sized window mailing envelope.",
+                "Attach it to the top right corner of the long-sized window mailing envelope."
+            ]
+        },
+        {
+            "tag": "ofw",
+            "patterns": [
+                "What would I submit if my parent/s is an/are overseas Filipino workers (OFW)?",
+                "In the case that my parent/s is an/are overseas Filipino workers (OFW), what documents should I submit?",
+                "What specific requirements should I provide if my parent/s is/are overseas Filipino workers (OFW)?",
+                "Are there additional documents necessary when one or both of my parents are overseas Filipino workers (OFW)?",
+                "If my parent/s is an/are overseas Filipino workers (OFW), what supplemental materials should I submit?",
+                "Could you detail the additional submissions required if my parent/s is/are overseas Filipino workers (OFW)?",
+                "What are the specific documents needed when at least one of my parents is an overseas Filipino worker (OFW)?",
+                "In the scenario where my parent/s is/are overseas Filipino workers (OFW), what documentation is necessary?",
+                "Are there any extra forms or papers required if my parent/s is/are overseas Filipino workers (OFW)?",
+                "Could you provide information on the additional submissions needed for parents who are overseas Filipino workers (OFW)?",
+                "If my parent/s is/are overseas Filipino workers (OFW), what supplementary documents must I include in my submission?",
+                "What documentation is required when one or both of my parents work as overseas Filipino workers (OFWs)?"
+            ],
+            "responses": [
+                "Kindly provide your parents' certificate of contract.",
+                "Please ensure the submission of your parents' certificate of contract.",
+                "We require the certificate of contract from your parents.",
+                "Submit the certificate of contract signed by your parents, please.",
+                "Your parents' certificate of contract needs to be submitted.",
+                "Make sure to include your parents' certificate of contract.",
+                "Your parents' certificate of contract is required for submission.",
+                "Please don't forget to submit your parents' certificate of contract.",
+                "It's necessary to provide the certificate of contract from your parents.",
+                "Ensure the submission of your parents' certificate of contract.",
+                "Please submit the certificate of contract signed by your parents.",
+                "Remember to include your parents' certificate of contract."
+            ]
+        },
+        {
+            "tag": "4P's certificate",
+            "patterns": [
+                "Is there a need for us to secure a 4P's certificate?",
+                "Is it a requirement for us to obtain a 4P's certificate?",
+                "Do we need to secure a certificate from 4P's for any specific purpose?",
+                "Is obtaining a 4P's certificate necessary for our current situation?",
+                "Are we obligated to have a 4P's certificate for any official transactions or processes?",
+                "Is there a mandatory need for us to possess a 4P's certificate?",
+                "Do we have to secure a certificate from 4P's for compliance or verification purposes?",
+                "Is it a prerequisite for us to acquire a 4P's certificate in our current context?",
+                "Are there specific situations, where obtaining a 4P's certificate is mandatory?",
+                "Is a 4P's certificate required, or is it optional for our situation?",
+                "Could you clarify whether securing a 4P's certificate is essential or discretionary for us?",
+                "Why is it necessary for us to obtain a 4P's certificate?"
+            ],
+            "responses": [
+                "DSWD Regional Offices will send a copy to BU Admissions, containing the names of SHS Students who are beneficiaries of the 4Ps program.",
+                "The DSWD Regional Offices will forward a copy to BU Admissions, listing the names of SHS Students who are participants in the 4Ps program.",
+                "DSWD Regional Offices will provide BU Admissions with a copy, which includes the names of SHS Students benefiting from the 4Ps program.",
+                "BU Admissions will receive a copy from DSWD Regional Offices, which will include the names of SHS Students enrolled in the 4Ps program.",
+                "A copy, including the names of SHS Students enrolled in the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+                "DSWD Regional Offices will furnish BU Admissions with a copy, containing the names of SHS Students who are part of the 4Ps program.",
+                "BU Admissions will be provided with a copy by DSWD Regional Offices, encompassing the names of SHS Students benefiting from the 4Ps program.",
+                "DSWD Regional Offices will transmit a copy to BU Admissions, comprising the names of SHS Students who are recipients of the 4Ps program.",
+                "BU Admissions will receive a copy from DSWD Regional Offices, including the names of SHS Students who are participants in the 4Ps program.",
+                "A copy, containing the names of SHS Students benefiting from the 4Ps program, will be submitted to BU Admissions by DSWD Regional Offices.",
+                "DSWD Regional Offices will send a copy to BU Admissions, with the names of SHS Students who are enrolled in the 4Ps program.",
+                "BU Admissions will receive a copy from DSWD Regional Offices, listing the names of SHS Students who are part of the 4Ps program."
+            ]
+        },
+        {
+            "tag": "guardian",
+            "patterns": [
+                "Am I required to submit ITR if my parent/Guardian is a senior citizen/pwd?",
+                "Is it mandatory for me to submit an ITR if my parent or guardian is a senior citizen or PWD?",
+                "Do I need to provide an ITR if one of my parents or guardians qualifies as a senior citizen or PWD?",
+                "Is the submission of an ITR necessary when a parent or guardian is classified as a senior citizen or PWD?",
+                "Should I include an ITR in my submission if my parent or guardian falls under the senior citizen or PWD category?",
+                "Is the requirement to submit an ITR applicable when a parent or guardian is a senior citizen or PWD?",
+                "Do I have to furnish an ITR as part of the documentation if my parent or guardian is a senior citizen or PWD?",
+                "Is the submission of an ITR obligatory when my parent or guardian qualifies as a senior citizen or PWD?",
+                "Should I include an ITR in my application if my parent or guardian is a senior citizen or PWD?",
+                "Is the provision of an ITR a necessary component when a parent or guardian is a senior citizen or PWD?",
+                "Do I need to submit an ITR, considering that my parent or guardian is classified as a senior citizen or PWD?",
+                "Is it mandatory to submit an Income Tax Return (ITR) if my parent or guardian is a senior citizen or person with a disability (PWD)?"
+            ],
+            "responses": [
+                "Please ensure the submission of your guardian's certificate of tax exemption.",
+                "Your guardian's certificate of tax exemption needs to be submitted.",
+                "Make sure to include your guardian's certificate of tax exemption.",
+                "Your guardian's certificate of tax exemption is required for submission.",
+                "Ensure the submission of your guardian's tax exemption certificate.",
+                "Your guardian's tax exemption certificate needs to be submitted.",
+                "Make sure to include your guardian's tax exemption certificate.",
+                "Your guardian's tax exemption certificate is required for submission.",
+                "Please don't forget to submit your guardian's tax exemption certificate.",
+                "It's necessary to provide your guardian's certificate of tax exemption.",
+                "Don't forget to include your guardian's certificate of tax exemption.",
+                "Your guardian's certificate of tax exemption must be submitted."
+            ]
+        },
+        {
+            "tag": "concerns",
+            "patterns": [
+                "Where do I address BUCET concerns?",
+                "To whom should I direct my concerns regarding BUCET, and where is the appropriate address?",
+                "Could you guide me on where to address my concerns related to BUCET?",
+                "Where is the designated location to address concerns regarding the BUCET examination?",
+                "What is the correct channel for me to address my BUCET-related concerns, and where is it located?",
+                "Could you provide information on the proper address for expressing concerns about BUCET?",
+                "Where should I direct my questions or concerns regarding BUCET, and what is the address for that?",
+                "What is the official address for addressing concerns or inquiries about BUCET?",
+                "Where can I find the appropriate contact information or address to voice my BUCET concerns?",
+                "Is there a specific office or location where I should address my concerns about BUCET?",
+                "Could you please provide details on the address for addressing concerns related to BUCET?",
+                "To whom should I direct my questions about BUCET?",
+                "Where can I seek assistance for concerns related to BUCET?",
+                "What is the designated channel for addressing BUCET-related inquiries?",
+                "To whom do I reach out for resolving BUCET concerns?",
+                "Where should I go to express my concerns or questions about BUCET?",
+                "What office handles queries and concerns regarding BUCET?",
+                "Can you guide me on where to address specific BUCET-related concerns?"
+            ],
+            "responses": [
+                "The email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 is at your service to address your concerns",
+                "You may email the BUAO.BUCET@GMAIL.COM or call at (052)742-5099 for your personal concerns"
+            ]
+        },
+        {
+            "tag": "purpose",
+            "patterns": [
+                "What is the mailing envelope and mailing stamp worth 40 pesos for?",
+                "What is the purpose of the mailing stamp worth 40 pesos in passing the requirements?",
+                "What's the point of paying 40 pesos for a mailing stamp?",
+                "Is the 40 pesos mailing stamp important/required?",
+                "Why do we need a 40-peso mailing stamp for passing requirements?",
+                "What does a 40-peso stamp do when passing requirements?",
+                "How does the 40-peso mailing stamp help with submitting requirements?",
+                "What is the reason for using a 40-peso mailing stamp in submitting documents?",
+                "What's the significance of the 40-peso stamp in passing requirements?",
+                "Do I need to include the 40 pesos mailing stamp?",
+                "Is the 40 pesos postage stamp necessary?",
+                "Is it compulsory to affix the 40 pesos mailing stamp?",
+                "Must I use the 40 pesos postage stamp?",
+                "Is the 40 pesos stamp a requirement for mailing?",
+                "Do I have to attach the 40 pesos mailing stamp?",
+                "Is the 40 pesos postage stamp mandatory?",
+                "Is the 40 pesos stamp vital for mailing?",
+                "Should I include the 40 pesos mailing stamp?",
+                "Is the 40 pesos postage stamp obligatory?"
+            ],
+            "responses": [
+                "According to the University Registrar, it is for mailing the request letter to Form 137 from the previous school of the student.",
+                "As stated by the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous school.",
+                "The University Registrar has indicated that the intention is to send the request letter for Form 137 from the student's prior educational institution.",
+                "According to the University Registrar, the objective is to mail the request letter concerning Form 137 from the student's former school.",
+                "It is communicated by the University Registrar that the reason is to mail the request letter for Form 137 from the student's previous educational institution.",
+                "The University Registrar specifies that the aim is to send the request letter for Form 137 from the student's previous school.",
+                "According to the University Registrar, the purpose is to mail the request letter for Form 137 from the student's previous educational establishment."
+            ]
+        },
+        {
+            "tag": "more than",
+            "patterns": [
+                "Is it okay if the mailing stamp is more than 40 pesos?",
+                "Is it fine if the stamp costs more than 40 pesos?",
+                "Can I use a stamp that's higher than 40 pesos?",
+                "Is it alright to go over 40 pesos for the stamp?",
+                "Is it acceptable to use a stamp that exceeds 40 pesos?",
+                "Can the postage stamp be more than 40 pesos?",
+                "Is it alright to use stamp that's worth more than 40 pesos?",
+                "Can I use a stamp that's valued above 40 pesos?",
+                "Would it be acceptable if the postage stamp exceeded 40 pesos?",
+                "Is it permissible for the postage stamp to be greater than 40 pesos?",
+                "Could the mailing stamp surpass the 40 pesos limit without issue?",
+                "Is there any problem with the postage stamp costing more than 40 pesos?",
+                "Would it pose a concern if the mailing stamp exceeded the 40 pesos threshold?",
+                "Is there any objection to the postage stamp going beyond 40 pesos in value?",
+                "Is it within the rules for the postage stamp to be valued at more than 40 pesos?",
+                "Can the postage stamp's value be higher than 40 pesos without any trouble?",
+                "Is it acceptable for the mailing stamp to cost more than 40 pesos?",
+                "Would there be any issue with the postage stamp being over 40 pesos?",
+                "Is there a problem if the mailing stamp's value surpasses 40 pesos?",
+                "Would it be alright for the postage stamp to exceed the 40 pesos limit?",
+                "Is there any restriction on the postage stamp being more than 40 pesos?",
+                "Can the mailing stamp's value go beyond 40 pesos without consequences?",
+                "Is it permissible for the postage stamp to go over the 40 pesos limit?",
+                "Would it be acceptable for the mailing stamp to cost more than 40 pesos?",
+                "Is there any objection to the postage stamp exceeding the 40 pesos limit?",
+                "Can the postage stamp's value be higher than 40 pesos without issue?",
+                "Is it within the rules for the mailing stamp to be valued at more than 40 pesos?",
+                "Can the postage stamp exceed 40 pesos in value without any trouble?",
+                "Is it acceptable for the mailing stamp to be priced at more than 40 pesos?",
+                "Would there be any issue with the postage stamp being valued over 40 pesos?",
+                "Is there a problem if the mailing stamp's value goes beyond 40 pesos?",
+                "Would it be alright for the postage stamp to be over the 40 pesos limit?"
+            ],
+            "responses": [
+                "Yes, the mailing stamp can be more than 40 pesos but not less than 40 pesos.",
+                "Indeed, the postage stamp's value may exceed 40 pesos but must not fall below this amount.",
+                "Affirmative, the mailing stamp's price can surpass 40 pesos but should not go under 40 pesos.",
+                "Yes, it's acceptable for the postage stamp to exceed 40 pesos, provided it doesn't go below that amount.",
+                "Correct, the mailing stamp can have a value greater than 40 pesos but should not be lower than 40 pesos.",
+                "Yes, the postage stamp's cost may go beyond 40 pesos, as long as it doesn't dip below 40 pesos",
+                "Absolutely, the mailing stamp can be priced higher than 40 pesos, but it should not be less than 40 pesos."
+            ]
+        },
+        {
+            "tag": "less than",
+            "patterns": [
+                "Is it okay if the mailing stamp is less than 40 pesos?",
+                "Would it be acceptable if the postage stamp falls below 40 pesos?",
+                "Is it permissible for the postage stamp to be under 40 pesos?",
+                "Can the mailing stamp amount be less than 40 pesos?",
+                "Is it fine if the postage stamp doesn't reach 40 pesos?",
+                "Would it be alright for the mailing stamp to be under 40 pesos?",
+                "Is it within the acceptable range if the postage falls short of 40 pesos?",
+                "Can the postage stamp value be lower than 40 pesos?",
+                "Is it permissible for the mailing stamp to be less than 40 pesos?",
+                "Would it be acceptable for the postage to be less than 40 pesos?",
+                "Is it okay if the postage doesn't meet the 40 pesos threshold?",
+                "Can the mailing stamp value be below 40 pesos?",
+                "Is it within the acceptable limit if the postage is under 40 pesos?",
+                "Would it be alright for the mailing stamp to be less than 40 pesos?",
+                "Is it permissible for the postage stamp to fall short of 40 pesos?",
+                "Can the postage be below 40 pesos and still be acceptable?",
+                "Is it within the limits if the mailing stamp is less than 40 pesos?",
+                "Would it be acceptable for the postage to be under 40 pesos?",
+                "Is it okay if the mailing stamp amount is less than 40 pesos?",
+                "Can the postage stamp value be lower than 40 pesos?",
+                "Is it fine if the postage doesn't reach 40 pesos?",
+                "Would it be alright for the mailing stamp to be below 40 pesos?",
+                "Is it permissible for the postage stamp to be less than 40 pesos?",
+                "Can the mailing stamp value fall short of 40 pesos?",
+                "Is it within the acceptable range if the postage is under 40 pesos?",
+                "Would it be acceptable if the postage stamp is less than 40 pesos?",
+                "Is it okay if the mailing stamp doesn't reach 40 pesos?",
+                "Can the postage stamp amount be less than 40 pesos?"
+            ],
+            "responses": [
+                "The mailing stamp should be 40 pesos, a total of 40 pesos or more than 40 pesos.",
+                "The postage fee must amount to 40 pesos, either exactly 40 pesos or exceeding 40 pesos.",
+                "The mailing stamp should cost 40 pesos, totaling either 40 pesos or in excess of 40 pesos.",
+                "The postage cost needs to be 40 pesos, either precisely 40 pesos or above 40 pesos.",
+                "The price of the mailing stamp should be 40 pesos, totaling either 40 pesos or more.",
+                "The postage fee should be 40 pesos, either exactly 40 pesos or higher than 40 pesos.",
+                "The cost of the mailing stamp should amount to 40 pesos, totaling either 40 pesos or exceeding this amount.",
+                "The mailing stamp should be priced at 40 pesos, a sum totaling either 40 pesos or surpassing it."
+            ]
+        },
+        {
+            "tag": "medical",
+            "patterns": [
+                "Do we need to include the Chest X-ray film and Result, Hepa B Screening Result, and Medical Certificate on the requirements we will submit through mail/courier?",
+                "Is it necessary to include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the package we're sending via mail or courier?",
+                "Should we enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when submitting documents through mail or courier?",
+                "Do we have to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when mailing or couriering the requirements?",
+                "Is the inclusion of Chest X-ray film, Hepa B Screening Result, and Medical Certificate required in the documents we send through mail/courier?",
+                "Are we required to send the Chest X-ray film, Hepa B Screening Result, and Medical Certificate along with the submission through mail or courier?",
+                "Must we incorporate the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the materials sent via mail or courier?",
+                "Is it mandatory to submit the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier?",
+                "Should the package sent by mail/courier contain the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+                "Do we need to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with other requirements?",
+                "Is including the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the mailed/couriered documents a prerequisite?",
+                "Is there a requirement to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending documents by mail or courier?",
+                "Should the package sent through mail/courier encompass the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+                "Is it compulsory to enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the submitted documents via mail or courier?",
+                "Do we need to send the Chest X-ray film, Hepa B Screening Result, and Medical Certificate by mail or courier as part of the submission?",
+                "Must the documents sent through mail/courier include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+                "Is there a requirement to include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending materials via mail or courier?",
+                "Should the submission through mail/courier consist of the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+                "Do we need to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when submitting documents via mail or courier service?",
+                "Is it necessary to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with the other requirements?"
+            ],
+            "responses": [
+                "According to the new Administrative Order by the University President, the Medical Certificate as part of the requirement needed for enrollment shall be temporarily waived in consideration of the present situation and compliance with the standing policy of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).\nFor those who have already a Medical Certificate, the Health Services Office said that students will only need to mail/send through courier the Medical Certificate together with the other requirements. The Chest X-ray film and Result together with the Hepa B Screening Result will be checked by the University Physician (Dr. Abainza) on a later date (will be scheduled).",
+                "Per the new Administrative Order issued by the University President, the requirement of a Medical Certificate for enrollment will be temporarily waived, considering the current circumstances and in alignment with the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "In accordance with the recent Administrative Order from the University President, the necessity of presenting a Medical Certificate for enrollment will be temporarily suspended, taking into account the prevailing conditions and adherence to the guidelines of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "The University President's recent Administrative Order stipulates that the requirement for a Medical Certificate for enrollment will be temporarily set aside, acknowledging the current situation and compliance with the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "As outlined in the latest Administrative Order by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the ongoing circumstances and adherence to the protocols of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "Per the recent Administrative Order issued by the University President, the inclusion of a Medical Certificate as part of the enrollment requirements will be temporarily exempted, given the prevailing conditions and adherence to the policies of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "In light of the new Administrative Order from the University President, the requirement for a Medical Certificate for enrollment will be temporarily disregarded, taking into account the current situation and compliance with the regulations of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID).",
+                "According to the recent Administrative Order issued by the University President, the necessity of a Medical Certificate for enrollment will be temporarily waived, considering the present circumstances and adherence to the directives of the Inter-Agency Task Force for the Management of the Emerging Infectious Disease (IAFT-MEID)."
+            ]
+        },
+        {
+            "tag": "requirements",
+            "patterns": [
+                "What documents should be passed online?",
+                "Which documents are required for online submission?",
+                "List the documents needed for online processing.",
+                "What paperwork is mandatory for online transactions?",
+                "Enumerate the online document prerequisites.",
+                "Specify the documents essential for online verification.",
+                "Provide a checklist of documents for online application.",
+                "Share the necessary online submission paperwork.",
+                "Outline the online documentation requirements.",
+                "Detail the documents to be submitted online.",
+                "Elaborate on the essential online document compilation.",
+                "What paperwork needs to be uploaded online?",
+                "State the mandatory online document lineup.",
+                "Clarify the documents expected for online validation.",
+                "Specify the online submission document criteria.",
+                "Mention the requisite documents for online procedures.",
+                "Discuss the online submission document prerequisites.",
+                "Provide a comprehensive list of online submission documents.",
+                "Outline the necessary paperwork for online transactions.",
+                "Enumerate the documents to be forwarded online.",
+                "Elaborate on the mandatory online document compilation.",
+                "What documents are compulsory for online submission?",
+                "Share the requisite online documentation details.",
+                "List the necessary documents for online processing.",
+                "Detail the mandatory online submission paperwork.",
+                "Describe the online document prerequisites.",
+                "Specify the documents needed for online verification.",
+                "Provide a checklist for online application documents.",
+                "Clarify the documents essential for online transactions.",
+                "Enumerate the online submission document requirements.",
+                "Discuss the essential online document lineup.",
+                "What paperwork should be submitted online?",
+                "State the mandatory online document criteria.",
+                "Clarify the documents expected for online procedures.",
+                "Outline the online submission document prerequisites.",
+                "Mention the requisite documents for online validation.",
+                "Provide a comprehensive list of online submission requirements.",
+                "Elaborate on the necessary paperwork for online transactions.",
+                "Enumerate the documents to be uploaded online.",
+                "What documents are needed for online submission?",
+                "Share the requisite online documentation criteria."
+            ],
+            "responses": [
+                "Documents to be passed via submissions of digital/scanned copy:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture",
+                "Documents to be submitted in digital/scanned copy form:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture",
+                "List of documents to be passed in digital/scanned copy form:\\n 1. BUCET Result\\n 2. SHS Report Card\\n 3. Medical Certificate (only to those who can provide now)\\n 4. Birth Certificate\\n 5. 2 pcs of 2x2 picture"
+            ]
+        },
+        {
+            "tag": "satellite",
+            "patterns": [
+                "Can students specifically use dropboxes specifically at the BU Main Campus to turn in their requirements conveniently?",
+                "Will specifically designated drop-off stations be established at the BU Main Campus for requirements?",
+                "Are specifically designated dropboxes strategically located specifically at the BU Main Campus for the submission of requirements?",
+                "Can students specifically conveniently drop off their requirements at specifically designated dropboxes specifically at the BU Main Campus?",
+                "Will specifically designated dropboxes be provided specifically for students submitting requirements at the BU Main Campus?",
+                "Are specifically designated drop-off options available for students to submit their requirements specifically at the BU Main Campus?",
+                "Can students specifically find designated dropboxes specifically for requirements specifically at the BU Main Campus?",
+                "Will specifically designated dropboxes specifically feature drop-off areas specifically for the ease of requirements submission at the BU Main Campus?",
+                "Are specifically designated dropboxes stationed specifically for requirements specifically at the BU Main Campus?",
+                "Can students specifically use drop-off bins specifically for requirements submission specifically at the BU Main Campus?",
+                "Will specifically designated dropboxes specifically be set up specifically for requirements submission specifically at the BU Main Campus?",
+                "Are specifically designated drop-off zones specifically designated specifically for requirements specifically at the BU Main Campus?",
+                "Can students specifically drop off their requirements specifically at specifically assigned dropboxes specifically at the BU Main Campus?",
+                "Will specifically designated dropboxes specifically be specifically accessible specifically for students submitting requirements specifically at the BU Main Campus?",
+                "Are specifically designated drop-off points specifically provided specifically for the convenience of requirements submission specifically at the BU Main Campus?",
+                "Can students specifically take advantage of specifically designated dropboxes specifically for submitting their requirements specifically at the BU Main Campus?",
+                "Will specifically designated drop-off locations specifically be established specifically for requirements submission specifically at the BU Main Campus?",
+                "Are specifically designated dropboxes available specifically for students to submit their requirements specifically at the BU Main Campus?"
+            ],
+            "responses": [
+                "According to the University Registrar, aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",
+                "According to the University Registrar, they will be providing a dropbox at the gate near the BU Admissions Office and University Registrar for applicants that live near the Main Campus.",
+                "Aside from the dropboxes that will be provided in the external(satellite) campuses of the University, they will also be providing a dropbox at the gate near the BU Admissions Office and University Registrar."
+            ]
+        },
+        {
+            "tag": "form 138",
+            "patterns": [
+                "Do we need to pass Form 138(Report Card) from both Grades 11 and 12?",
+                "Is it necessary to submit Form 138, which is the Report Card, for both Grade 11 and Grade 12?",
+                "Do we have to provide Form 138 for both Grade 11 and Grade 12?",
+                "Should Form 138 (Report Card) be passed for both Grades 11 and 12?",
+                "Are Form 138 submissions required for both Grade 11 and Grade 12?",
+                "Must we submit Form 138 for both Grade 11 and Grade 12?",
+                "Is Form 138 (Report Card) mandatory for both Grades 11 and 12?",
+                "Do we need to present Form 138 for both Grade 11 and Grade 12?",
+                "Is it compulsory to pass Form 138 for both Grade 11 and Grade 12?",
+                "Should Form 138 (Report Card) be submitted for both Grade 11 and Grade 12?",
+                "Do we have to provide Form 138 for both Grade 11 and Grade 12 students?",
+                "Is it a requirement to submit Form 138 for both Grade 11 and Grade 12 levels?",
+                "Must Form 138 (Report Card) be presented for both Grades 11 and 12?",
+                "Is it mandatory to pass Form 138 for both Grades 11 and 12?",
+                "Should Form 138 be submitted for both Grade 11 and Grade 12 students?",
+                "Do both Grade 11 and Grade 12 students need to submit Form 138?",
+                "Is Form 138 (Report Card) a requirement for both Grade 11 and Grade 12?",
+                "Do we need to submit Form 138 for both Grade 11 and Grade 12 assessments?",
+                "Should Form 138 (Report Card) be provided for both Grade 11 and Grade 12?",
+                "Is it compulsory to pass Form 138 for both Grade 11 and Grade 12 evaluations?",
+                "Must Form 138 be submitted for both Grade 11 and Grade 12 semesters?",
+                "Is it a necessity to present Form 138 for both Grade 11 and Grade 12 terms?",
+                "Do we have to provide Form 138 for both Grade 11 and Grade 12 reporting periods?",
+                "Should Form 138 (Report Card) be submitted for both Grade 11 and Grade 12 academic years?",
+                "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 school years?",
+                "Must we submit Form 138 for both Grade 11 and Grade 12 transcripts?",
+                "Is Form 138 (Report Card) required for both Grade 11 and Grade 12 documentation?",
+                "Do we need to present Form 138 for both Grade 11 and Grade 12 official records?",
+                "Is it compulsory to pass Form 138 for both Grade 11 and Grade 12 educational records?",
+                "Should Form 138 (Report Card) be submitted for both Grade 11 and Grade 12 enrollment?",
+                "Is it a necessity to provide Form 138 for both Grade 11 and Grade 12 admission?",
+                "Do we have to pass Form 138 for both Grade 11 and Grade 12 entry?",
+                "Is Form 138 (Report Card) required for both Grade 11 and Grade 12 registration?",
+                "Must we submit Form 138 for both Grade 11 and Grade 12 acceptance?",
+                "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 enrollment processes?",
+                "Should Form 138 (Report Card) be presented for both Grade 11 and Grade 12 admission applications?"
+            ],
+            "responses": [
+                "According to the University Registrar, you will only need to send your Grade 12 Report Card. The office emphasized that the Report Card is a Basic Requirement for enrolment in the University.",
+                "As per the University Registrar, solely the submission of your Grade 12 Report Card is necessary.",
+                "The University Registrar highlighted that presenting the Grade 12 Report Card is mandatory for university enrollment.",
+                "The Grade 12 Report Card is underscored by the university office as an essential document for enrollment.",
+                "In accordance with the University Registrar, only the Grade 12 Report Card needs to be forwarded.",
+                "The University Registrar stresses the importance of furnishing the Grade 12 Report Card for enrollment purposes.",
+                "The submission of the Grade 12 Report Card alone suffices, as stated by the University Registrar.",
+                "It has been indicated by the University Registrar that solely the Grade 12 Report Card is required."
+            ]
+        },
+        {
+            "tag": "CS",
+            "patterns": [
+                "What are the courses available in the College of Science?",
+                "Can you provide information on the courses offered in the College of Science?",
+                "I'm interested in learning about the available courses in the College of Science.",
+                "Could you list the courses that the College of Science has to offer?",
+                "What kind of courses are available in the College of Science?"
+            ],
+            "responses": [
+                "Courses Available at College of Science (CS):\\n 1. Bachelor of Science in Biology\\n 2. Bachelor of Science in Chemistry\\n 3. Bachelor of Science in Computer Science\\n 4. Bachelor of Science in Information Technology\\n 5. Bachelor of Science in Meteorology"
+            ]
+        },
+        {
+            "tag": "CSSP",
+            "patterns": [
+                "What are the courses available in the College of Social Sciences and Philosophy (CSSP)?",
+                "Can you provide information on the courses offered in the College of Social Sciences and Philosophy (CSSP)?",
+                "I'm interested in learning about the available courses in the College of Social Sciences and Philosophy (CSSP)",
+                "Could you list the courses that the College of Social Sciences and Philosophy (CSSP)?",
+                "What kind of courses are available in the College of Social Sciences and Philosophy (CSSP)?"
+            ],
+            "responses": [
+                "Courses Available at College of Social Sciences and Philosophy (CSSP):\\n 1. AB Peace Studies\\n 2. AB Philosophy\\n 3. AB Political Science\\n 4. AB Sociology\\n 5. BS Psychology\\n 6. BS Social Work"
+            ]
+        },
+        {
+            "tag": "BUTC",
+            "patterns": [
+                "What are the courses available in the BU Tabaco (BUTC)?",
+                "Can you provide information on the courses offered in the BU Tabaco (BUTC)?",
+                "I'm interested in learning about the available courses in the BU Tabaco (BUTC)",
+                "Could you list the courses that the BU Tabaco (BUTC)?",
+                "What kind of courses are available in the BU Tabaco (BUTC)?"
+            ],
+            "responses": [
+                "Courses Available at BU Tabaco (BUTC):\\n 1. Secondary Education Major in Science\\n 2. Secondary Education Major in Math\\n 3. BS Entrepreneurship\\n 4. BS Fisheries\\n 5.  BS Food Technology\\n 6. BS Nursing\\n 7.  BS Social Work"
+            ]
+        },
+        {
+            "tag": "CE",
+            "patterns": [
+                "What are the courses available in the College of Education (CE)?",
+                "Can you provide information on the courses offered in the College of Education (CE)?",
+                "I'm interested in learning about the available courses in the College of Education (CE)",
+                "Could you list the courses that the College of Education (CE)?",
+                "What kind of courses are available in the College of Education (CE)?"
+            ],
+            "responses": [
+                "Courses Available at College of Education (CE):\\n 1. Early Childhood Education\\n 2. Elementary Education\\n 3. Secondary Education\\n 4. Bachelor of Culture and Arts Education"
+            ]
+        },
+        {
+            "tag": "BUGC",
+            "patterns": [
+                "What are the courses available in the BU Gubat Campus (BUGC)?",
+                "Can you provide information on the courses offered in the BU Gubat Campus (BUGC)?",
+                "I'm interested in learning about the available courses in the BU Gubat Campus (BUGC)",
+                "Could you list the courses that the BU Gubat Campus (BUGC)?",
+                "What kind of courses are available in the BU Gubat Campus (BUGC)?"
+            ],
+            "responses": [
+                "Courses Available at BU Gubat Campus (GC):\\n 1. Elementary Education\\n 2. Secondary Education major in Filipino\\n 3. Secondary Education major in Social Studies\\n 4. BS Entrepreneurship\\n 5. BSBA Major in Microfinance"
+            ]
+        },
+        {
+            "tag": "CAL",
+            "patterns": [
+                "What are the courses available in the College of Arts and Letters (CAL)?",
+                "Can you provide information on the courses offered in the College of Arts and Letters (CAL)?",
+                "I'm interested in learning about the available courses in the College of Arts and Letters (CAL)",
+                "Could you list the courses that the College of Arts and Letters (CAL)?",
+                "What kind of courses are available in the College of Arts and Letters (CAL)?"
+            ],
+            "responses": [
+                "Courses Available at College of Arts and Letters (CAL):\\n 1. AB Broadcasting\\n 2. AB Communication\\n 3.  AB English Language\\n 4. AB Journalism\\n 5. AB Performing Arts (BPeA) Theater\\n 6. AB Literature"
+            ]
+        },
+        {
+            "tag": "IDeA",
+            "patterns": [
+                "What are the courses available in the Institute of Design and Architecture (IDeA)?",
+                "Can you provide information on the courses offered in the Institute of Design and Architecture (IDeA)?",
+                "I'm interested in learning about the available courses in the Institute of Design and Architecture (IDeA)",
+                "Could you list the courses that the Institute of Design and Architecture (IDeA)?",
+                "What kind of courses are available in the Institute of Design and Architecture (IDeA)?"
+            ],
+            "responses": [
+                "Courses Available at Institute of Design and Architecture (IDeA):\\n 1. BS Architecture"
+            ]
+        },
+        {
+            "tag": "CN",
+            "patterns": [
+                "What are the courses available in the College of Nursing (CN)?",
+                "Can you provide information on the courses offered in the College of Nursing (CN)?",
+                "I'm interested in learning about the available courses in the College of Nursing (CN)",
+                "Could you list the courses that the College of Nursing (CN)",
+                "What kind of courses are available in the College of Nursing (CN)?"
+            ],
+            "responses": [
+                "Courses Available at College of Nursing (CN):\\n 1. BS Nursing"
+            ]
+        },
+        {
+            "tag": "JMRIGD",
+            "patterns": [
+                "What are the courses available in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?",
+                "Can you provide information on the courses offered in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?",
+                "I'm interested in learning about the available courses in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)",
+                "Could you list the courses that the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?",
+                "What kind of courses are available in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?"
+            ],
+            "responses": [
+                "Courses Available at Jesse M. Robredo Institute of Governance and Development (JMRIGD):\\n 1. Public Administration"
+            ]
+        },
+        {
+            "tag": "IPESR",
+            "patterns": [
+                "What are the courses available in the Institute of Physical Education, Sports and Recreation (IPESR)?",
+                "Can you provide information on the courses offered in the Institute of Physical Education, Sports and Recreation (IPESR)?",
+                "I'm interested in learning about the available courses in the Institute of Physical Education, Sports and Recreation (IPESR)",
+                "Could you list the courses that the Institute of Physical Education, Sports and Recreation (IPESR)?",
+                "What kind of courses are available in the Institute of Physical Education, Sports and Recreation (IPESR)?"
+            ],
+            "responses": [
+                "Courses Available at Institute of Physical Education, Sports and Recreation (IPESR)?:\\n 1. BS in Exercise & Sports Sciences\\n 2. Bachelor of Physical Education"            
+            ]
+        },
+        {
+            "tag": "CBEM",
+            "patterns": [
+                "What are the courses available in the College of Business, Economics and Management/(CBEM)?",
+                "Can you provide information on the courses offered in the College of Business, Economics and Management/(CBEM)?",
+                "I'm interested in learning about the available courses in the College of Business, Economics and Management/(CBEM)",
+                "Could you list the courses that the College of Business, Economics and Management/(CBEM)?",
+                "What kind of courses are available in the College of Business, Economics and Management/(CBEM)?"
+            ],
+            "responses": [
+                "Courses Available at College of Business, Economics and Management (CBEM):\\n 1. BS Accountancy\\n 2. BS Economics\\n 3. BS Entrepreneurship\\n 4. BSBA Major in Financial Management\\n 5. BSBA Major in Human Resource Management\\n 6. BS Management\\n 7. BSBA Major in Marketing Management\\n 8. BSBA Microfinance\\n 9. BSBA Major in Operations Management"
+            ]
+        },
+        {
+            "tag": "CIT",
+            "patterns": [
+                "What are the courses available in the College of Industrial Technology/(CIT)?",
+                "Can you provide information on the courses offered in the College of Industrial Technology/(CIT)?",
+                "I'm interested in learning about the available courses in the College of Industrial Technology/(CIT)",
+                "Could you list the courses that the College of Industrial Technology/(CIT)?",
+                "What kind of courses are available in the College of Industrial Technology/(CIT)?"
+            ],
+            "responses": [
+                "Courses Available at College of Industrial Technology (CIT):\\n 1. BS Automotive Technology\\n 2. BS Civil Technology\\n 3. BS Electrical Technology\\n 4. BS Electronics Technology\\n 5. BS Mechanical Technology\\n 6. BS Food Technology\\n 7. Industrial Design\\n 8. Technical - Vocational Teacher Educ. Major in Drafting Technology\\n 9. Technical - Vocational Teacher Educ. Major in Electrical Technology\\n 10. Technical - Vocational Teacher Educ. Major in Food Service Management\\n 11. Technical - Vocational Teacher Educ. Major in Garments Fashion and Design"
+            ]
+        },
+        {
+            "tag": "CENG",
+            "patterns": [
+                "What are the courses available in the College of Engineering (CENG)?",
+                "Can you provide information on the courses offered in the College of Engineering (CENG)?",
+                "I'm interested in learning about the available courses in the College of Engineering (CENG)",
+                "Could you list the courses that the College of Engineering (CENG)?",
+                "What kind of courses are available in the College of Engineering (CENG)?"
+            ],
+            "responses": [
+                "Courses Available at College of Engineering (CENG):\\n 1. BS Chemical Engineering\\n 2. BS Civil Engineering\\n 3. BS Electrical Engineering\\n 4. BS Geodetic Engineering\\n 5. BS Mechanical Engineering\\n 6. BS Mining Engineering"
+            ]
+        },
+        {
+            "tag": "BUCAF",
+            "patterns": [
+                "What are the courses available in the Bicol University Guinobatan?",
+                "Can you provide information on the courses offered in the College of Engineering (CENG)?",
+                "I'm interested in learning about the available courses in the College of Engineering (CENG)",
+                "Could you list the courses that the College of Engineering (CENG)?",
+                "What kind of courses are available in the College of Engineering (CENG)?"
+            ],
+            "responses": [
+                "Courses Available at Bicol University Guinobatan:\\n 1. BS Agribusiness\\n 2. BS Agricultural & Biosystems Engineering\\n 3. BS Agriculture\\n 4. BS Forestry\\n 5. Technical - Vocational Teacher Educ. Major in Animal Production\\n 6. Technical - Vocational Teacher Educ. Major in Agricultural Crop Production\\n 7. BS Food Technology\\n 8. Doctor of Veterinary Medicine"
+            ]
+        },
+        {
+            "tag": "BUPC",
+            "patterns": [
+                "What are the courses available in the Bicol University Polangui/(BUPC)?",
+                "Can you provide information on the courses offered in the Bicol University Polangui/(BUPC)?",
+                "I'm interested in learning about the available courses in the Bicol University Polangui/(BUPC)",
+                "Could you list the courses that the Bicol University Polangui/(BUPC)?",
+                "What kind of courses are available in the Bicol University Polangui/(BUPC)?"
+            ],
+            "responses": [
+                "Courses Available at Bicol University Polangui:\\n 1. Elementary Education\\n 2. Secondary Education Major in English\\n 3. Secondary Education Major in Math\\n 4. BS Automotive Technology\\n 5. BS Computer Engineering\\n 6. BS Computer Science\\n 7. BS Electronics Engineering\\n 8. BS Electronics Technology\\n 9. BS Entrepreneurship\\n 10. BS Information System\\n 11. BS Information Technology\\n 12. BS Information Technology (Animation)\\n 13. BS Mechanical Technology\\n 14. BS Nursing\\n 15. Technology and Livelihood Education (BTLed-ICT)\\n 16. Technology and Livelihood Education (BTLEd-Home Economics)"
+            ]
+        },
+        {
+            "tag": "CDM",
+            "patterns": [
+                "What are the courses available in the College of Dental Medicine/(CDM)?",
+                "Can you provide information on the courses offered in the College of Dental Medicine/(CDM)?",
+                "I'm interested in learning about the available courses in the College of Dental Medicine/(CDM)",
+                "Could you list the courses that the College of Dental Medicine/(CDM)?",
+                "What kind of courses are available in the College of Dental Medicine/(CDM)?"
+            ],
+            "responses": [
+                "Courses Available at the College of Dental Medicine (CDM): 1. Doctor of Dental Medicine"
+            ]
+        },
+        {
+            "tag": "general requirements",
+            "patterns": [
+                "How can I apply for BUCET 202*-202*?",
+                "How do I go about applying for BUCET 202*-202*?",
+                "What is the process for applying to BUCET 202*-202*?",
+                "Can you guide me on how to apply for BUCET 202*-202*?",
+                "I'm interested in BUCET 202*-202*; how can I submit my application?",
+                "Could you provide information on applying for BUCET 202*-202*?",
+                "I'm looking to apply for BUCET 202*-202*; what are the steps involved?",
+                "What steps do I need to take to apply for BUCET 202*-202*?",
+                "Where can I find the application form for BUCET 202*-202*?",
+                "Can you help me with the application process for BUCET 202*-202*?",
+                "I want to apply for BUCET 202*-202*; what's the application procedure?",
+                "What are the application requirements for BUCET 202*-202*?",
+                "How can I gain admission to BUCET 202*-202*?",
+                "Is there an online application for BUCET 202*-202*?",
+                "What documents do I need to submit for BUCET 202*-202* application?",
+                "Please explain the application steps for BUCET 202*-202*.",
+                "Where can I get the necessary forms for BUCET 202*-202*?",
+                "How early should I start preparing for BUCET 202*-202* application?",
+                "I'm curious about the BUCET 202*-202* application process; can you provide details?",
+                "What's the timeline for applying to BUCET 202*-202*?",
+                "Are there any specific eligibility criteria for BUCET 202*-202* application?",
+                "Could you walk me through the BUCET 202*-202* application steps?"
+            ],
+            "responses": [
+                "I. General Requirements:\\n 1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\\n 2. A senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course is eligible to apply.\\n II. Specific Requirements:\\n 1. To apply, go to https://buao.bicol-u.edu.ph/bucet_online/bucetapply.php and fill out the online application form. Make sure to use a computer/device with a good internet connection upon online registration.\\n 2. Two(2) copies of “2x2” recent, unedited or unfiltered studio-taken photograph of the applicant in white background with the applicant's signature and name tag below;\\n 3. Grade 9 and Grade 11 High School academic ratings affixed at the reversed side of the BUCET Application Form and duly signed by the School Principal and has a school dry seal;\\n 4. Authenticated Photocopies of Grade 9-11 SF10 (Formerly Form 137) and Grade 12 SF9(Formerly Form 138) For Senior High School Graduates who have not taken any college subject. For ALS graduates, submit your ALS Certificate of Rating and Certificate of Completion. DO NOT SUBMIT the original copies unless required by the office to be presented for authentication purposes.\\n 5. Photocopy of Person with Disability (PWD) ID under RA No. 7277 (if applicable only);\\n 6. Photocopy of parent's Solo Parent ID under RA No. 11861 (if applicable only);\\n 7. Copy of Parent's latest Income Tax Return (ITR) or Certificate of Tax Exemption from the Bureau of Internal Revenue (BIR);\\n 8. Accomplished NCIP-COC Form 4 or downloadable Certificate of Membership from the National Commission on Indigenous Peoples (NCIP) Regional Office, if the applicant is a member of ethnolinguistic groups (Indigenous Peoples groups);\\n 9. Certification from the Barangay if the applicant is a resident of or comes from Geographically-Isolated and Disadvantaged Areas, (GIDA) under RA No. 11148, please refer to this link GIDA List 2022;\\n 10. Certification from DSWD if a member of 4P's (Pantawid Pamilyang Pilipino Program);\\n 11. One long-sized window mailing envelope with Php 50.00 worth of mailing stamps from the Postal Office attached to the upper right-hand corner for mailing results;\\n"
+            ]  
+        },
+        {
+            "tag": "submitting requirements",
+            "patterns": [
+                "How does one go about submitting the BUCET requirements?",
+                "Could you elaborate on the steps involved in submitting the BUCET requirements?",
+                "What is the procedure for turning in the BUCET requirements?",
+                "Could you guide me through the process of submitting the BUCET requirements?",
+                "Please explain the steps required for the submission of BUCET requirements.",
+                "What are the necessary actions to complete when submitting the BUCET requirements?",
+                "Break down the process for submitting the BUCET requirements.",
+                "Provide a detailed overview of the BUCET requirements submission process.",
+                "Share the step-by-step instructions for the BUCET requirements submission.",
+                "Explain how to initiate the submission of BUCET requirements.",
+                "Outline the protocol for turning in the BUCET requirements.",
+                "Detail the process of delivering the BUCET requirements for evaluation.",
+                "What steps need to be followed to successfully submit the BUCET requirements?",
+                "Can you walk me through the stages of BUCET requirements submission?",
+                "I'm curious about the process of sending in the BUCET requirements; could you help?",
+                "Enlighten me on the steps involved in submitting the BUCET requirements.",
+                "Elaborate on the submission process for the BUCET requirements.",
+                "I'm unfamiliar with the process; could you provide insights into submitting the BUCET requirements?",
+                "Clarify the steps for proper BUCET requirements submission.",
+                "Provide a comprehensive guide on how to submit the BUCET requirements.",
+                "How can one formally submit the BUCET requirements?",
+                "I'm uncertain about the process; could you clarify submitting the BUCET requirements?",
+                "What actions are required for the formal submission of BUCET requirements?",
+                "Can you provide a breakdown of the steps to submit the BUCET requirements?",
+                "Outline the required steps for successfully submitting the BUCET requirements.",
+                "Enlighten me on the correct procedure for submitting the BUCET requirements."
+            ],
+            "responses": [
+                "Steps to submit your BUCET requirements\\n 1. Print out the PDF copy of your BUCET Application Form. Use legal size (8.5”x13”) bond paper for printing the form;\\n 2. Give the BUCET Application Form to your High School Registrar/Principal/School Head to fill out the SECONDARY RECORD FORM on the back page of your BUCET Application Form. Make sure your School Principal/Head has signed the BUCET Application Form and has a dry seal of your school;\\n 3. The following options are provided on how to submit your BUCET application documents:\\n    Option 1: Submit your BUCET Application requirements to your High School Counselor or to any authorized school representative;\\n    Option 2: Submit your BUCET Application requirements to the Bicol University Admissions Office (ONSITE) during your appointed submission date;\\n    Option 3: Mail your BUCET Application documents through any courier service available in your locality;\\n 4. Assigned BUAO personnel will check and validate your requirements;\\n 5. Claim your Test Permit from your High School Counselor or authorized school representative if you chose Option 1; from BUAO if you chose Option 2. For Option 3, your temporary test permit will be emailed to you at your official email address;\\n 6. Bring your Test Permit and Vaccination Card during your scheduled examination. For applicants who are not yet vaccinated, kindly present an Anti-gen test result conducted a day before your scheduled examination;\\n    Only fully-vaccinated students shall be allowed to take the examination. Unvaccinated students shall be required to present a valid RT-PCR or Antigen test taken a day before the examination date for them to be allowed to take the BUCET. An examinee who feels sick or indisposed, complains of COVID-like symptoms, or registers body temperature above the normal range during examination day shall be rescheduled."
+            ]
+        },
+        {
+            "tag": "announcement",
+            "patterns": [
+                "How do I know if I passed the BUCET?",
+                "Is there a way for me to find out if I successfully cleared the BUCET?",
+                "Could you enlighten me on the process of determining my BUCET exam results?",
+                "What steps should I take to ascertain whether I've passed the BUCET?",
+                "Any insights on how I can confirm my success in the BUCET?",
+                "Is there a specific method to check if I made it through the BUCET?",
+                "Can you guide me on checking my BUCET examination outcomes?",
+                "I'm curious about the procedure for verifying my BUCET results. Can you help?",
+                "How will I be notified if I've successfully passed the BUCET?",
+                "Is there an official channel for me to validate my BUCET performance?",
+                "Any recommendations on confirming my BUCET pass status?",
+                "What's the protocol for determining the outcome of my BUCET performance?",
+                "Could you shed light on the criteria for passing the BUCET?",
+                "How can I be certain about my success in the BUCET?",
+                "Any tips on checking my BUCET examination results?",
+                "Is there a specific platform where I can check if I passed the BUCET?",
+                "What steps do I need to follow to confirm my BUCET success?",
+                "Can you inform me about the process of verifying BUCET results?",
+                "How do I go about checking my BUCET exam results?",
+                "Any advice on ensuring I passed the BUCET successfully?",
+                "What's the procedure for confirming BUCET exam outcomes?",
+                "Is there a system in place for checking BUCET pass status?",
+                "Could you explain how one can determine their success in the BUCET?",
+                "What's the official way of confirming BUCET exam results?",
+                "Are there specific guidelines for checking if I passed the BUCET?",
+                "How will I receive confirmation of my performance in the BUCET?",
+                "Can you provide information on the steps to validate BUCET results?"
+            ],
+            "responses": [
+                "The Bicol University Admissions Office will post the list of passers on their official page, also you will receive an email at your official email address.",
+                "The official page of the Bicol University Admissions Office will host the roster of successful candidates, and simultaneously, an email will be sent to your designated email address.",
+                "The list of successful candidates will be published on the official webpage of the Bicol University Admissions Office, alongside an email notification sent to your official email.",
+                "Expect to find the list of individuals who passed on the official webpage of the Bicol University Admissions Office, with a corresponding email dispatched to your official email address.",
+                "The Bicol University Admissions Office will make the list of passers available on their official page, and concurrently, they will send you an email to your official email address.",
+                "On their official webpage, the Bicol University Admissions Office will display the names of those who passed, and simultaneously, an email notification will be sent to your official email.",
+                "Look out for the list of successful candidates on the official page of the Bicol University Admissions Office, and expect to receive an email at your official email address.",
+                "The roster of passers will be posted on the official webpage of the Bicol University Admissions Office, and concurrently, an email notification will be sent to your official email.",
+                "You can find the list of successful candidates on the official page of the Bicol University Admissions Office, and at the same time, an email will be sent to your official email address."
+            ]
+        },
+        {
+            "tag": "qualification",
+            "patterns": [
+                "What are the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test?",
+                "Can you provide information on qualifying for the AY 202*-202* Bicol University College Entrance Test?",
+                "Describe the requirements needed to qualify for the AY 202*-202* Bicol University College Entrance Test.",
+                "In order to take the AY 202*-202* Bicol University College Entrance Test, what qualifications are necessary?",
+                "What steps should one take to meet the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test?",
+                "How can I ensure that I qualify for the AY 202*-202* Bicol University College Entrance Test?",
+                "List the qualifications needed to be eligible for the AY 202*-202* Bicol University College Entrance Test.",
+                "Share the prerequisites for qualifying for the AY 202*-202* Bicol University College Entrance Test.",
+                "Provide details on the AY 202*-202* Bicol University College Entrance Test qualification process.",
+                "Elaborate on the conditions for eligibility for the AY 202*-202* Bicol University College Entrance Test.",
+                "What are the standards one must meet to qualify for the AY 202*-202* Bicol University College Entrance Test?",
+                "Break down the steps required to qualify for the AY 202*-202* Bicol University College Entrance Test.",
+                "Explain the necessary qualifications for taking the AY 202*-202* Bicol University College Entrance Test.",
+                "Share insights on the AY 202*-202* Bicol University College Entrance Test eligibility.",
+                "Provide information on meeting the requirements for the AY 202*-202* Bicol University College Entrance Test.",
+                "What documentation is needed to meet the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test?",
+                "Outline the qualifications and prerequisites for the AY 202*-202* Bicol University College Entrance Test.",
+                "Describe the process of qualifying for the AY 202*-202* Bicol University College Entrance Test.",
+                "Enumerate the steps one should follow to be eligible for the AY 202*-202* Bicol University College Entrance Test."
+            ],
+            "responses": [
+                "To qualify:\\n1. You must be a high school senior of a DepEd-recognized high school and expecting to graduate at the end of the school year; OR\\n 2. a senior high school graduate who has not taken and/or is not taking any college subjects or an ALS graduate who has not enrolled in any college course and is eligible to apply."
+            ]
+        },
+        {
+            "tag": "topics",
+            "patterns": [
+                "What topics are covered in the test?",
+                "What topics does the test encompass?",
+                "Which topics are included in the test?",
+                "Can you list the topics covered in the test?",
+                "What is the scope of topics in the test?",
+                "Could you specify the topics included in the test?",
+                "Which topics are addressed in the test?",
+                "What topics are part of the test?",
+                "Enumerate the topics that the test covers.",
+                "Can you outline the test's topics matter?",
+                "What is the range of topics in the test?",
+                "List the test's covered topics areas, please.",
+                "Provide information on the test's included topics.",
+                "Which topics are examined in the test?",
+                "What educational topics are encompassed by the test?",
+                "Could you elaborate on the topics covered in the test?",
+                "Name the topics that the test evaluates.",
+                "What is the focus topics of the test?",
+                "Specify the test's covered topics domains.",
+                "Outline the topics that the test encompasses.",
+                "What topics are involved in the test?",
+                "Elaborate on the test's topics coverage.",
+                "Identify the academic topics covered in the test.",
+                "Describe the range of topics in the test.",
+                "Enumerate the test's topics matter for me.",
+                "Can you provide details on the test's topics areas?",
+                "What topics are incorporated into the test?",
+                "Which topics are part of the test?",
+                "List down the topics included in the test.",
+                "Clarify the test's coverage in terms of topics.",
+                "What topics areas are part of the test's content?",
+                "Detail the topics that the test addresses.",
+                "Specify the test's topics coverage, please.",
+                "What topics fall under the test's examination?",
+                "Name the topics evaluated in the test.",
+                "Provide information on the test's covered topics.",
+                "Which topics are considered in the test?",
+                "Outline the topics covered in the test.",
+                "What topics are part of the test's evaluation?",
+                "Can you elaborate on the test's topics matter?"
+            ],
+            "responses": [
+                "The examination consists of sub-tests in Language Proficiency in English, Mathematics, Science, and Reading Comprehension.",
+                "The test includes sections on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+                "The examination comprises assessments in English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+                "Within the exam, there are sub-tests covering English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+                "The assessment involves sub-tests focused on English Language Proficiency, Mathematics, Science, and Reading Comprehension.",
+                "The examination is composed of sub-tests assessing proficiency in English, Mathematics, Science, and Reading Comprehension.",
+                "Sub-tests within the examination evaluate proficiency in English Language, Mathematics, Science, and Reading Comprehension.",
+                "The test includes sections for evaluating proficiency in English, Mathematics, Science, and Reading Comprehension."
+            ]
+        },
+        {
+            "tag": "date of release",
+            "patterns": [
+                "When is the release date for the BUCET results?",
+                "Can you tell me when the BUCET results will be published?",
+                "When can we expect the BUCET results to be announced?",
+                "Do you know when the results of the BUCET will be available?",
+                "When will we get to know the outcome of the BUCET?",
+                "Could you inform me about the expected release date of BUCET results?",
+                "I'm curious about when the BUCET results are scheduled to come out.",
+                "Is there a specific date for the BUCET results to be disclosed?",
+                "When are they planning to unveil the results of the BUCET?",
+                "Have they announced when the BUCET results will be made public?",
+                "Could you provide information on when the BUCET results will come out?",
+                "I'm eager to find out when the BUCET results will be released.",
+                "Can you share any details on when the BUCET results are due?",
+                "When should we expect to see the BUCET results?",
+                "Do you have any information on the timeline for the BUCET results release?"
+            ],
+            "responses": [
+                "Please refer to the paper that was handed to you after your examination.",
+                "You can refer to your paper that was handed to you after your examination.",
+                "The date can be found on the paper given to you."
+            ]
+        },
+        {
+            "tag": "test centers",
+            "patterns": [
+                "Where are the test centers for the BUCET located?", 
+                "Can you provide information on the locations of BUCET test centers?",
+                "I'm curious about the whereabouts of the BUCET test centers.",
+                "Where can I find the test centers for the BUCET?",
+                "Could you enlighten me on the geographical locations of BUCET test centers?",
+                "I'm searching for details regarding the BUCET test centers' whereabouts.",
+                "Do you know where the BUCET test centers are situated?",
+                "Can you tell me the specific places where the BUCET test centers are located?",
+                "I'm interested in knowing the exact locations of the BUCET test centers.",
+                "Could you please guide me on the whereabouts of BUCET test centers?",
+                "Where exactly are the BUCET test centers positioned?",
+                "Do you have information on the test center locations for the BUCET?",
+                "I'm inquiring about the specific geographic locations of BUCET test centers.",
+                "Can you share details about the BUCET test centers' locations?",
+                "Where can I find the BUCET test centers on the map?",
+                "I'm wondering where the designated test centers for the BUCET are."
+            ],
+            "responses": [
+                "The test centers are located throughout Bicol. To find the test center allocated for your exam, the test center is indicated in the test permit that was handed by the BUAO personnel.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+                "Throughout Bicol, test centers are distributed for convenience.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+                "Test centers are spread across Bicol to accommodate examinees.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+                "Discovering your designated test center in Bicol is facilitated by referencing the test permit.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+                "The test permit, provided by BUAO personnel, denotes the allocated test center. Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php",
+                "Test centers are situated across various locations within Bicol.Visit the link to see the list of offered test centers: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php"
+            ]
+        },
+        {
+            "tag": "mobile phone",
+            "patterns": [
+                "Is it possible to apply using a mobile phone?",
+                "Can I submit my application using my mobile device?",
+                "Is mobile application submission an option?",
+                "Am I able to apply via my mobile phone?",
+                "Can the application be completed on a mobile device?",
+                "Is applying through a mobile phone allowed?",
+                "Can I utilize my phone for the application process?",
+                "Is it feasible to apply using a smartphone?",
+                "Can I complete the application using my cellphone?",
+                "Is mobile application supported for applying?",
+                "Can I use my mobile device to apply?",
+                "Is applying via mobile phone an option?",
+                "Can I apply using a smartphone?",
+                "Is mobile application submission supported?",
+                "Can the application process be done on a mobile phone?"
+            ],
+            "responses": [
+                "Yes you can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files."
+            ]
+        }
+    ]
+}
