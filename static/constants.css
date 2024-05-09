@@ -1,0 +1,136 @@
+:root {
+	--light-orange: #f9a161;
+	--orange: #FF8C38;
+	--dark-orange: #873f0b;
+
+	--light-blue: #C2D6FF;
+	--blue: #465A82;
+	--dark-blue: #3E4658;
+	--darker-blue: #202635;
+
+	--light-white: #FFFFFF;
+	--white: #D4D4D4;
+	--dark-white: #919191;
+
+	--black: #2e2e2e;
+
+
+	--body-color: var(--dark-blue);
+	--body-text-color: var(--light-white);
+	--header-color: var(--orange);
+
+	--button-color: var(--body-text-color);
+	--button-color-highlighted: var(--dark-blue);
+	--button-border-color: var(--light-blue);
+	--button-background-color: var(--body-color);
+	--button-background-color-highlighted: var(--light-blue);
+
+	--textbox-color: ;
+	--textbox-color-highlighted: var(dark-blue);
+	--textbox-border-color: var(--light-blue);
+	--textbox-background-color: var(--body-color);
+	--textbox-background-color-highlighted: var(--light-blue);
+
+	--chatbox-user-color: var(--body-text-color);
+	--chatbox-user-background-color: var(--light-orange);
+
+	--chatbox-bot-color: var(--dark-blue);
+	--chatbox-bot-background-color: var(--light-blue);
+
+
+	--fw-normal: 400;
+	--fw-bold: 600;
+	--fw-very-bold: 800;
+
+	--chatbox-width: 80%;
+	--chatbox-max-width: 80rem;
+	--adaptive-max-width: 540px;
+}
+
+.light-mode {
+	--body-text-color: var(--black);
+	--body-color: var(--light-white);
+
+	--button-color: var(--dark-blue);
+	--button-color-highlighted: var(--dark-blue);
+	--button-border-color: var(--dark-blue);
+	--button-background-color: var(--body-color);
+	--button-background-color-highlighted: var(--dark-blue);
+
+	--textbox-color: var(--body-color);
+	--textbox-color-highlighted: var(--body-color);
+	--textbox-border-color: var(--dark-blue);
+	--textbox-background-color: var(--body-color);
+	--textbox-background-color-highlighted: var(--dark-blue);
+
+	--chatBUt-logo: ;
+
+	/* 
+	
+	
+	
+
+	--textbox-color: ;
+	--textbox-color-highlighted: var(dark-blue);
+	--textbox-border-color: var(--light-blue);
+	--textbox-background-color: var(--body-color);
+	--textbox-background-color-highlighted: var(--light-blue);
+
+	--chatbox-user-color: var(--body-text-color);
+	--chatbox-user-background-color: var(--light-orange);
+
+	--chatbox-bot-color: var(--dark-blue);
+	--chatbox-bot-background-color: var(--light-blue); */
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+ul {
+	list-style: none;
+}
+
+html {
+	box-sizing: border-box;
+	font-family: 'Inter', Arial, sans-serif;
+	font-size: 12px;
+	font-weight: var(--fw-normal);
+	color: var(--light-white);
+}
+
+.button {
+	border: 0;
+	transition: transform 100ms ease-in-out, font-weight 100ms ease-in-out;
+}
+
+
+/* utilities */
+.flex {
+	display: flex;
+}
+
+.flex-column {
+	flex-direction: column;
+}
+
+.hidden {
+	display: none !important;
+}
+
+/* animations */
+.button:hover {
+	transform: scale(1.05);
+	font-weight: var(--fw-bold);
+}
+
+.button:active {
+	transform: scale(.95);
+}

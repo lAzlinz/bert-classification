@@ -1,0 +1,130 @@
+body {
+	/* scrollbar-gutter: stable both-edges; */
+}
+
+.wrapper {
+	/* border: 2px solid green; */
+	background-color: var(--dark-blue);
+	min-height: 100svh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* header */
+header {
+	/* border: 2px solid red; */
+	background-color: var(--orange);
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 3em 0; /* 5em; */
+}
+
+header .header-wrapper {
+	width: var(--chatbox-width);
+	/* max-width: var(--chatbox-max-width); */
+}
+
+header img {
+	max-width: 100%;
+	width: 12em;
+	/* border: 2px solid red; */
+	border-radius: .5em;
+}
+
+header h1 {
+	font-size: 1.3em;
+	font-weight: var(--fw-normal);
+	position: relative;
+	top: .5em;
+}
+
+header h2 {
+	font-size: 3.5em;
+	font-weight: var(--fw-very-bold);
+	/* margin-left: 2.5rem; */
+}
+
+header p {
+	font-size: 1.8em;
+	/* margin-left: 2.5rem; */
+	font-weight: var(--fw-normal);
+	font-style: italic;
+	position: relative;
+	top: -.4em;
+	left: 1em;
+}
+
+/* main */
+main {
+	/* border: 2px solid yellow; */
+	width: var(--chatbox-width);
+	max-width: var(--chatbot-max-width);
+	display: flex;
+	flex-direction: column;
+	padding-top: 4rem;
+	padding-bottom: 1rem;
+	font-size: 1.3rem;
+}
+
+.message-one-container {
+	/* border: 2px solid yellow; */
+	max-width: 37em;
+	margin-bottom: 5em;
+}
+
+.message-one-container p {
+	font-size: 1.2em;
+	margin-bottom: .5em;
+	text-align: justify;
+}
+
+.message-two-container {
+	/* border: 2px solid blue; */
+	text-align: right;
+	max-width: 25em;
+	margin-bottom: .5em;
+}
+
+.message-two-container p {
+	font-size: 1em;
+	margin-bottom: .5em;
+}
+
+.get-started-button {
+	text-decoration: none;
+	background-color: var(--orange);
+	color: var(--light-white);
+	padding: .75em 2em;
+	border-radius: 1em;
+}
+
+.message-two-container, .get-started-button {
+	align-self: flex-end;
+}
+
+/* footer */
+footer {
+	/* border: 2px solid blue; */
+	background-color: var(--darker-blue);
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+footer p {
+	color: var(--blue);
+	font-size: 1.25rem;
+	font-weight: var(--fw-bold);
+}
+
+/* adaptive */
+@media screen and (max-width: 540px) {
+	header {
+		font-size: .65rem;
+	}
+}

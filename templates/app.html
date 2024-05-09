@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Welcome!</title>
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;800&display=swap">
+	<link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='constants.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='style-app.css') }}">
+</head>
+<body class="light-mode">
+	<div class="light-mode wrapper">
+		<header class="light-mode title">
+			<div class="light-mode header-wrapper">
+				<div class="light-mode header-container">
+					<img src="{{ url_for('static', filename='assets/buLogo.jpg') }}" alt="Bicol University Logo">
+					<h1>Welcome to</h1>
+					<h2>Admission chatBUt :</h2>
+					<p>Your Bicol University Admission Guide</p>
+				</div>
+				<span id="modes"><i class="ri-toggle-fill"></i></span>
+			</div>
+		</header>
+		<main class="light-mode hidden">
+			<ul class="light-mode convo-wrapper">
+				<!-- <li class="light-mode user">
+					<div class="light-mode chat">
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam dolor exercitationem ad magnam repellendus aliquam iste, architecto harum dicta quia! Quas id perferendis facilis corrupti. A ipsam suscipit sit.
+					</div>
+					<div class="light-mode icon"></div>
+				</li>
+				<li class="light-mode bot">
+					<div class="light-mode chat">
+						<p>Lorem ipsum dolor sit amet consectetur adip</p>
+					</div>
+					<div class="light-mode icon"></div>
+				</li> -->
+			</ul>
+		</main>
+		<div class="light-mode intro">
+			<div class="light-mode intro-container">
+				<div class="light-mode logo-container">
+					<img class="hidden light-mode chatBUt" id="chatBUt-logo" src="{{ url_for('static', filename='assets/chatBUt-logo-dark-mode.svg') }}" alt="Bicol University Admission Chatbot Logo">
+					<img class=" chatBUt" id="chatBUt-logo" src="{{ url_for('static', filename='assets/chatBUt-logo-light-mode.svg') }}" alt="Bicol University Admission Chatbot Logo">
+					<div>How can I help you?</div>
+				</div>
+				<div id="buttons-container" class="light-mode buttons-container">
+					<button class="light-mode button"><span>List of offered courses</span> in College of Science</button>
+					<button class="light-mode button"><span>Application Process</span> of BUCET 2024-2025</button>
+					<button class="light-mode button"><span>Procedure for Submission</span> of BUCET Req. S.Y. 2024-2025</button>
+					<button class="light-mode button"><span>How to reschedule</span> the appointment date?</button>
+				</div>
+			</div>
+		</div>
+		<div class="light-mode textbox">
+			<div class="light-mode textarea-container">
+				<textarea class="light-mode textarea" id="textbox" rows="1" placeholder="Ask me something.."></textarea>
+				<button id="send-button"><i class="light-mode ri-send-plane-2-fill"></i></button>
+			</div>
+		</div>
+	</div>
+	<!-- <footer>
+		<p>Developed by chatBUt developers</p>
+		<div>insert link here</div>
+	</footer> -->
+
+	<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

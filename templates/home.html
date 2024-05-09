@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Welcome!</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;800&display=swap">
+	<link rel="stylesheet" href="{{ url_for('static', filename='constants.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+	<div class="wrapper">
+		<header class="title">
+			<div class="header-wrapper">
+				<div class="header-container">
+					<img src="{{ url_for('static', filename='assets/buLogo.jpg') }}" alt="Bicol University Logo">
+					<h1>Welcome to</h1>
+					<h2>Admission chatBUt :</h2>
+					<p>Your Bicol University Admission Guide</p>
+				</div>
+			</div>
+		</header>
+		<main>
+			<div class="message-one-container">
+				<p>Greetings, aspiring students of Bicol University!</p>
+			<p>Embark on your educational journey with confidence as our chatbot becomes your invaluable companion throughout the BU application process. Powered by Artificial Intelligence, we're here to make your application experience seamless and informed.</p>
+			</div>
+			<div class="message-two-container">
+				<p>Ready to get started?</p>
+				<p> Feel free to explore, ask questions, and let us assist you on your path to becoming a part of the Bicol University community.</p>
+			</div>
+			<a href="{{ url_for('app_function') }}" class="button get-started-button">Get Started</a>
+		</main>
+	</div>
+	<footer>
+		<p>Developed by chatBUt developers</p>
+		<!-- <div>insert link here</div> -->
+	</footer>
+</body>
+</html>
