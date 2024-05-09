@@ -1,8 +1,10 @@
-pip install transformers
-pip install datasets
-pip install evaluate
-pip install accelerate
-pip install scikit-learn
-pip install flask
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install accelerate -U
+# use pip install -r requirements.txt
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+flask
+# accelerate -U
+# This should be installed separately
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
