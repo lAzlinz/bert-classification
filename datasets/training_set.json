@@ -2190,6 +2190,14 @@
         {
             "tag": "general requirements",
             "patterns": [
+                "How to admit in BU?",
+                "How to admit in Bicol University?",
+                "How cab I admit in BU?",
+                "How can I admit in Bicol University",
+                "How to apply in BU?",
+                "How to apply in Bicol University?",
+                "How cab I apply in BU?",
+                "How can I apply in Bicol University",
                 "How can I ensure a successful application for BUCET 202*-202*?",
                 "I'm planning to apply for BUCET 202*-202*; what advice do you have?",
                 "What are the key components of the BUCET 202*-202* application?",
@@ -2648,6 +2656,36 @@
                 "Yes, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",
                 "We advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files, but yes, you can.",
                 "You can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files."
+            ]
+        },
+        {
+            "tag": "list of courses",
+            "patterns": [
+                "List of offered courses in Bicol University?",
+                "Can you provide the undergraduate courses offered at Bicol University?",
+                "What are the available courses at Bicol University?",
+                "Could you list the courses offered at Bicol University?",
+                "What are the courses available at Bicol University?",
+                "Can you specify the courses offered by Bicol University?",
+                "What are the options courses at Bicol University?",
+                "Could you provide information about the courses offered at Bicol University?",
+                "Can you list the available courses at Bicol University?",
+                "What are the courses in Bicol University?",
+                "What are the available courses at BU?",
+                "Could you list the courses offered at BU?",
+                "What are the courses available at BU?",
+                "Can you specify the courses offered by BU?",
+                "What are the options courses at BU?",
+                "Could you provide information about the courses offered at BU?",
+                "Can you list the available courses at BU?",
+                "What are the courses in BU?"
+            ],
+            "responses": [
+                "Hey there! If you're curious about the courses offered at Bicol University, I've got just the thing for you. Check out this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php. You'll find all the options laid out neatly for you.",
+                "So, you're interested in what Bicol University has to offer? Well, lucky for you, I've got the inside scoop! Just follow this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll see all the courses they've got available.",
+                "Want to know what you can study at Bicol University? Easy peasy! Click on this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll get the full rundown of courses they offer.",
+                "Hey, friend! Thinking about studying at Bicol University? Awesome choice! Head over to this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll find everything you need to know about their courses.",
+                "Hey, hey! Want to explore the courses available at Bicol University? You're in luck! Just click on this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll be on your way to discovering all the exciting options they have."
             ]
         }
     ]
