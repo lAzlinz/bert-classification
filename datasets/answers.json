@@ -23,7 +23,7 @@
             "Happy to help!",
             "Any time!",
             "My pleasure",
-            "No worries",
+            "No worrings",
             "Glad I was able to help you."
         ]
     },
@@ -1172,6 +1172,16 @@
             "We advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files, but yes, you can.",
             "You can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files.",
             "Yes you can, but we advise you to use PC or Laptop in applying for a much convenient view of the website and easier access on your downloadable files."
+        ]
+    },
+    {
+        "label": "list of courses",
+        "answers": [
+            "Hey there! If you're curious about the courses offered at Bicol University, I've got just the thing for you. Check out this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php. You'll find all the options laid out neatly for you.",
+            "So, you're interested in what Bicol University has to offer? Well, lucky for you, I've got the inside scoop! Just follow this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll see all the courses they've got available.",
+            "Want to know what you can study at Bicol University? Easy peasy! Click on this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll get the full rundown of courses they offer.",
+            "Hey, friend! Thinking about studying at Bicol University? Awesome choice! Head over to this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll find everything you need to know about their courses.",
+            "Hey, hey! Want to explore the courses available at Bicol University? You're in luck! Just click on this link: https://buao.bicol-u.edu.ph/bucet_online/BUCESS-HOME/index.php, and you'll be on your way to discovering all the exciting options they have."
         ]
     }
 ]

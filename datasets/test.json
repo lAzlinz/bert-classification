@@ -1,10 +1,850 @@
 [
     {
-        "text": "Elaborate on the courses available for students within the College of Nursing (CN) encompasses?",
+        "text": "What is the official mailing address for sending written concerns about BUCET?",
+        "label": 26
+    },
+    {
+        "text": "Where across the country can I find the BUCET test centers?",
+        "label": 56
+    },
+    {
+        "text": "How do I initiate the process of editing the picture I submitted online?",
+        "label": 8
+    },
+    {
+        "text": "Is the submission of an ITR influenced by the senior citizen or PWD status of my parent or guardian?",
+        "label": 25
+    },
+    {
+        "text": "Provide a comprehensive guide on how to submit the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "Can the mailing stamp value be below 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Share some insights into the courses one can pursue at the BU Gubat Campus (BUGC",
+        "label": 38
+    },
+    {
+        "text": "I'm looking to reschedule my appointment, what's the procedure?",
+        "label": 6
+    },
+    {
+        "text": "Hello there!",
+        "label": 0
+    },
+    {
+        "text": "Who can submit my BUCET application requirements?",
+        "label": 11
+    },
+    {
+        "text": "Detail the mandatory online document compilation.",
+        "label": 31
+    },
+    {
+        "text": "Where can I find the physical address for the BU admissions office?",
+        "label": 18
+    },
+    {
+        "text": "Is it within the acceptable limit if the postage is under 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Am I able to apply via my mobile phone?",
+        "label": 57
+    },
+    {
+        "text": "Can you provide information on the courses offered in the Institute of Physical Education, Sports and Recreation (IPESR)?",
+        "label": 43
+    },
+    {
+        "text": "Should the mailed/couriered documents include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+        "label": 30
+    },
+    {
+        "text": "Could you provide guidance on the process of claiming my BUCET test permit?",
+        "label": 15
+    },
+    {
+        "text": "Can I submit my application through my phone?",
+        "label": 57
+    },
+    {
+        "text": "Describe the online document prerequisites.",
+        "label": 31
+    },
+    {
+        "text": "Should I affix the 40 pesos postage stamp?",
+        "label": 27
+    },
+    {
+        "text": "Is it within the acceptable range if the postage falls short of 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Can you guide me on where to secure the BUCET application form?",
+        "label": 5
+    },
+    {
+        "text": "What documents are needed for online submission?",
+        "label": 31
+    },
+    {
+        "text": "Are there any discussions about implementing dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Is it fine if the postage stamp doesn't reach 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Do you have information on the localities hosting BUCET test centers?",
+        "label": 56
+    },
+    {
+        "text": "Where do I need to visit to get the BUCET application form?",
+        "label": 5
+    },
+    {
+        "text": "Are there any specific format requirements for submitting documents for BUCET 202*-202*?",
+        "label": 50
+    },
+    {
+        "text": "What are the available options for buying mailing stamps in my area?",
+        "label": 20
+    },
+    {
+        "text": "Provide an overview of the courses in the  College of Nursing (CN) encompasses?",
         "label": 41
     },
     {
-        "text": "Must we submit Form 138 for both Grade 11 and Grade 12?",
+        "text": "Is there a process for reapplying if I made mistakes on my original application form?",
+        "label": 12
+    },
+    {
+        "text": "How do I handle the submission of confidential or sealed documents for my BUCET application?",
+        "label": 14
+    },
+    {
+        "text": "Do we need to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when submitting documents via mail or courier service?",
+        "label": 30
+    },
+    {
+        "text": "Will there be drop-off points for students at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Do you know where the BUCET test centers are situated?",
+        "label": 56
+    },
+    {
+        "text": "What tools or resources are available for users who need to make changes to their submitted pictures?",
+        "label": 8
+    },
+    {
+        "text": "I'm curious to know when the BUCET results will be disclosed to the public.",
+        "label": 55
+    },
+    {
+        "text": "Provide details on the subjects evaluated in the test.",
+        "label": 54
+    },
+    {
+        "text": "Could you list the courses that the Institute of Physical Education, Sports and Recreation (IPESR)?",
+        "label": 43
+    },
+    {
+        "text": "List of offered courses in Bicol University?",
+        "label": 58
+    },
+    {
+        "text": "Are there additional forms or paperwork needed if my parents are working abroad as OFWs?",
+        "label": 23
+    },
+    {
+        "text": "What is the scope of topics in the test?",
+        "label": 54
+    },
+    {
+        "text": "Should I affix the 40 pesos mailing stamp for this?",
+        "label": 27
+    },
+    {
+        "text": "Is it okay if the mailing stamp doesn't meet the 40 pesos threshold?",
+        "label": 29
+    },
+    {
+        "text": "Is it permissible for the postage to be less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Do you know the expected timeframe for the publication of BUCET results?",
+        "label": 55
+    },
+    {
+        "text": "I'm seeking clarity on the procedural steps for submitting the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "Clarify the documents expected for online transactions.",
+        "label": 31
+    },
+    {
+        "text": "Where can I find information on the BUCET 202*-202* admission process?",
+        "label": 50
+    },
+    {
+        "text": "Specify the documents needed for online verification.",
+        "label": 31
+    },
+    {
+        "text": "Are drop-off points under consideration for Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Is it a necessity to submit Form 138 for both Grade 11 and Grade 12 admission obstacles?",
+        "label": 33
+    },
+    {
+        "text": "Are specifically designated drop-off points specifically provided specifically for the convenience of requirements submission specifically at the BU Main Campus?",
+        "label": 32
+    },
+    {
+        "text": "Can you advise on the proper storage conditions for the Php 50.00 mailing stamp before pasting it?",
+        "label": 22
+    },
+    {
+        "text": "How can the senior citizen or PWD status of my parent or guardian be factored into the ITR submission process?",
+        "label": 25
+    },
+    {
+        "text": "Could you provide instructions on how to secure and claim my BUCET test permit?",
+        "label": 15
+    },
+    {
+        "text": "Is the 40 pesos stamp required for mailing?",
+        "label": 27
+    },
+    {
+        "text": "Where can I access the online support portal for BUCET-related queries?",
+        "label": 26
+    },
+    {
+        "text": "I'm interested in applying for BUCET, can you provide information on how to retrieve the application form?",
+        "label": 7
+    },
+    {
+        "text": "Could you provide instructions on how to download and retrieve the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "What is the physical location and address of the BU admissions office?",
+        "label": 18
+    },
+    {
+        "text": "I could use a laugh, can you make a joke?",
+        "label": 4
+    },
+    {
+        "text": "Should I include the 40 pesos mailing stamp?",
+        "label": 27
+    },
+    {
+        "text": "How should I properly paste the Php 50.00 mailing stamp on the envelope?",
+        "label": 22
+    },
+    {
+        "text": "Explain the necessary steps to ensure eligibility for the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
+    },
+    {
+        "text": "What is the standard protocol for claiming the BUCET test permit?",
+        "label": 15
+    },
+    {
+        "text": "How much do I need to pay for the BUCET application fee?",
+        "label": 10
+    },
+    {
+        "text": "Bye for now.",
+        "label": 1
+    },
+    {
+        "text": "What is the maximum acceptable value for the mailing stamp in Philippine pesos?",
+        "label": 21
+    },
+    {
+        "text": "Is it required to enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending documents via mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Break down the process of submitting the BUCET requirements into manageable steps.",
+        "label": 51
+    },
+    {
+        "text": "How do I go about editing the photo I submitted through the online platform?",
+        "label": 8
+    },
+    {
+        "text": "Could you provide instructions on how to amend an application form that was completed incorrectly?",
+        "label": 13
+    },
+    {
+        "text": "How can I ensure that I qualify for the AY 202*-202* Bicol University College Entrance Test?",
+        "label": 53
+    },
+    {
+        "text": "Where can I submit a formal complaint or feedback about BUCET concerns?",
+        "label": 26
+    },
+    {
+        "text": "Is there a formal process for appointing someone to submit my BUCET application requirements on my behalf?",
+        "label": 11
+    },
+    {
+        "text": "What are the courses available in the College of Engineering (CENG)?",
+        "label": 46
+    },
+    {
+        "text": "Is there an official channel for me to validate my BUCET performance?",
+        "label": 52
+    },
+    {
+        "text": "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 admission qualities?",
+        "label": 33
+    },
+    {
+        "text": "Is there a preference for certain majors or fields of study in BUCET 202*-202*?",
+        "label": 50
+    },
+    {
+        "text": "Is it a necessity to provide Form 138 for both Grade 11 and Grade 12 admission notifications?",
+        "label": 33
+    },
+    {
+        "text": "Provide a checklist of online application documents.",
+        "label": 31
+    },
+    {
+        "text": "Clarify the test's coverage in terms of topics.",
+        "label": 54
+    },
+    {
+        "text": "Is it fine if the postage stamp doesn't reach 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Is there a proposal to establish dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Can you guide me on the process of submitting my BUCET application documents?",
+        "label": 14
+    },
+    {
+        "text": "I'm looking for guidance on the correct method for submitting the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "Provide a checklist of documents for online application.",
+        "label": 31
+    },
+    {
+        "text": "Provide information on meeting the requirements for the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
+    },
+    {
+        "text": "Is it acceptable for the mailing stamp to cost more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Is it within the acceptable limit if the postage falls short of 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Any recommendations on ensuring I successfully passed the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "Can you tell me something funny?",
+        "label": 4
+    },
+    {
+        "text": "Tell me about the array of courses within the College of Business, Economics and Management (CBEM)",
+        "label": 44
+    },
+    {
+        "text": "Explain the procedural details of submitting the BUCET requirements in a step-by-step manner.",
+        "label": 51
+    },
+    {
+        "text": "What are the courses available in the BU Tabaco (BUTC)?",
+        "label": 36
+    },
+    {
+        "text": "Is the 40 pesos stamp compulsory for mailing?",
+        "label": 27
+    },
+    {
+        "text": "Detail the mandatory online submission paperwork.",
+        "label": 31
+    },
+    {
+        "text": "What are the steps to retrieve the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "Do I have to include the 40 pesos postage stamp?",
+        "label": 27
+    },
+    {
+        "text": "Are there any consequences or limitations if we don't secure a 4P's certificate?",
+        "label": 24
+    },
+    {
+        "text": "Is there a specific age or disability threshold that determines the need for ITR submission for individuals with senior citizen or PWD parents or guardians?",
+        "label": 25
+    },
+    {
+        "text": "Enumerate the documents to be submitted online.",
+        "label": 31
+    },
+    {
+        "text": "Where is it possible to obtain the application form for the BUCET?",
+        "label": 5
+    },
+    {
+        "text": "Can you provide information on the locations of BUCET test centers?",
+        "label": 56
+    },
+    {
+        "text": "Is it okay if the mailing stamp is less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Are there restrictions on who can physically submit my BUCET application documents?",
+        "label": 11
+    },
+    {
+        "text": "What kind of courses are available in the College of Science?",
+        "label": 34
+    },
+    {
+        "text": "Discuss the essential online document lineup.",
+        "label": 31
+    },
+    {
+        "text": "Share some insights into the courses one can pursue at the Jesse M. Robredo Institute of Governance and Development (JMRIGD)",
+        "label": 42
+    },
+    {
+        "text": "If I made mistakes on my application form, can I submit a new one?",
+        "label": 12
+    },
+    {
+        "text": "What is the recommended procedure for pasting the Php 50.00 mailing stamp securely?",
+        "label": 22
+    },
+    {
+        "text": "Is it necessary to adhere to the initially provided appointment date if I go with option 1 or option 3?",
+        "label": 16
+    },
+    {
+        "text": "When is the cutoff for the submission of all documentary requirements?",
+        "label": 9
+    },
+    {
+        "text": "Is the 40 pesos stamp essential for mailing?",
+        "label": 27
+    },
+    {
+        "text": "Do we have to pass Form 138 for both Grade 11 and Grade 12 admission complications?",
+        "label": 33
+    },
+    {
+        "text": "I'm curious about the course options within the Institute of Design and Architecture (IDeA)?",
+        "label": 40
+    },
+    {
+        "text": "Is it permissible for the postage stamp to be less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "What is the official procedure for correcting mistakes in an application form that was inaccurately filled?",
+        "label": 13
+    },
+    {
+        "text": "What would I submit if my parent/s is an/are overseas Filipino workers (OFW)?",
+        "label": 23
+    },
+    {
+        "text": "I'm seeking clarity on the detailed steps involved in submitting the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "Could you please guide me on the whereabouts of BUCET test centers?",
+        "label": 56
+    },
+    {
+        "text": "What is the street and mailing address for the BU admissions office?",
+        "label": 18
+    },
+    {
+        "text": "Is it possible to apply via smartphone?",
+        "label": 57
+    },
+    {
+        "text": "Are there specific courses that the College of Engineering (CENG) specializes in?",
+        "label": 46
+    },
+    {
+        "text": "Explain the required steps for submitting the BUCET requirements in detail.",
+        "label": 51
+    },
+    {
+        "text": "Is the 40 pesos postage stamp necessary?",
+        "label": 27
+    },
+    {
+        "text": "Is it a necessity to present Form 138 for both Grade 11 and Grade 12 terms?",
+        "label": 33
+    },
+    {
+        "text": "Provide a breakdown of the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
+    },
+    {
+        "text": "Can the postage stamp's value go beyond 40 pesos without any objection?",
+        "label": 28
+    },
+    {
+        "text": "Is there a process for individuals with appointment dates that go beyond the test center's deadline?",
+        "label": 17
+    },
+    {
+        "text": "In order to take the AY 202*-202* Bicol University College Entrance Test, what qualifications are necessary?",
+        "label": 53
+    },
+    {
+        "text": "Where is the designated place for buying a mailing stamp?",
+        "label": 20
+    },
+    {
+        "text": "Can I apply for BUCET 202*-202* if I have attended multiple colleges?",
+        "label": 50
+    },
+    {
+        "text": "Do I have to furnish an ITR as part of the documentation if my parent or guardian is a senior citizen or PWD?",
+        "label": 25
+    },
+    {
+        "text": "What topics are incorporated into the test?",
+        "label": 54
+    },
+    {
+        "text": "When is the final date for turning in all necessary documents?",
+        "label": 9
+    },
+    {
+        "text": "Should I follow my appointment date if I choose option 1 or option 3?",
+        "label": 16
+    },
+    {
+        "text": "Could you provide information on whether there's a maximum value for the mailing stamp, and if so, what is it?",
+        "label": 21
+    },
+    {
+        "text": "Will there be dropbox facilities in Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "How do I go about applying for BUCET 202*-202*?",
+        "label": 50
+    },
+    {
+        "text": "What is the designated deadline for the submission of all necessary documents?",
+        "label": 9
+    },
+    {
+        "text": "Any suggestions on how I can confirm my pass status in the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "Clarify the steps involved in the proper submission of BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "What is the location for acquiring the BUCET application form?",
+        "label": 5
+    },
+    {
+        "text": "Highlight the key factors for meeting the AY 202*-202* Bicol University College Entrance Test eligibility.",
+        "label": 53
+    },
+    {
+        "text": "What subjects are taken into consideration in the test?",
+        "label": 54
+    },
+    {
+        "text": "Is there a specific way I should go about rescheduling my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Must we incorporate the Chest X-ray film, Hepa B Screening Result, and Medical Certificates in the mailed/couriered materials?",
+        "label": 30
+    },
+    {
+        "text": "Is there a scheduled date for the release of the BUCET results?",
+        "label": 55
+    },
+    {
+        "text": "How can I be certain about my success in the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "Is it within the limits if the mailing stamp is less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "What is the protocol for designating a representative to submit my BUCET application requirements?",
+        "label": 11
+    },
+    {
+        "text": "Could you walk me through the BUCET 202*-202* application steps?",
+        "label": 50
+    },
+    {
+        "text": "Which topics are included in the test?",
+        "label": 54
+    },
+    {
+        "text": "Clarify the documents expected for online transactions.",
+        "label": 31
+    },
+    {
+        "text": "Will there be dropbox amenities at the satellite campuses of Bicol University?",
+        "label": 32
+    },
+    {
+        "text": "I'm curious about the BUCET 202*-202* application process; can you provide details?",
+        "label": 50
+    },
+    {
+        "text": "I'm curious about the procedure for verifying my BUCET results. Can you help?",
+        "label": 52
+    },
+    {
+        "text": "Is there a particular portal where I can verify my BUCET pass results?",
+        "label": 52
+    },
+    {
+        "text": "Is applying via mobile phone supported for this process?",
+        "label": 57
+    },
+    {
+        "text": "Can students specifically drop off their requirements specifically at specifically assigned dropboxes specifically at the BU Main Campus?",
+        "label": 32
+    },
+    {
+        "text": "Can the postage stamp amount be less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "I'm interested in learning about the available courses in the College of Engineering (CENG)",
+        "label": 46
+    },
+    {
+        "text": "If errors were made on my application form, can I apply again with the correct information",
+        "label": 12
+    },
+    {
+        "text": "What would be the necessary documents for proof if my parent is an overseas Filipino worker (OFW)?",
+        "label": 23
+    },
+    {
+        "text": "Do I need to provide any special documents if my parent is employed as an overseas Filipino worker (OFW)?",
+        "label": 23
+    },
+    {
+        "text": "Where do I address BUCET concerns?",
+        "label": 26
+    },
+    {
+        "text": "What is the procedure for seeking approval to use a mailing stamp valued higher than Php 50.00?",
+        "label": 21
+    },
+    {
+        "text": "Could you clarify whether using a mailing stamp over Php 50.00 is allowed?",
+        "label": 28
+    },
+    {
+        "text": "How should I go about adhering the Php 50.00 mailing stamp to the document or package?",
+        "label": 22
+    },
+    {
+        "text": "Would it be alright for the postage stamp to be over 40 pesos in value?",
+        "label": 28
+    },
+    {
+        "text": "I'm curious about the course options within the College of Education (CE).",
+        "label": 37
+    },
+    {
+        "text": "I'm looking for details on the cities and towns with BUCET test centers.",
+        "label": 56
+    },
+    {
+        "text": "Can you guide me on where to access the application form for BUCET?",
+        "label": 5
+    },
+    {
+        "text": "Can you guide me on the proper communication channels for rescheduling my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Could you explain the significance of securing a 4P's certificate?",
+        "label": 24
+    },
+    {
+        "text": "Must we submit Form 138 for both Grade 11 and Grade 12 admission applications?",
+        "label": 33
+    },
+    {
+        "text": "What consequences might arise if I choose to follow my appointment date beyond the test center's deadline?",
+        "label": 17
+    },
+    {
+        "text": "Do we need to submit Form 138 for both Grade 11 and Grade 12 admission benchmarks?",
+        "label": 33
+    },
+    {
+        "text": "Can you elaborate on the courses available at the BU Gubat Campus (BUGC?",
+        "label": 38
+    },
+    {
+        "text": "Will there be designated dropboxes at the satellite campuses of Bicol University?",
+        "label": 32
+    },
+    {
+        "text": "Would it be acceptable for the mailing stamp to exceed 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "What is the prescribed image format for the submission in question?",
+        "label": 19
+    },
+    {
+        "text": "Is it acceptable for the mailing stamp to be priced at more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Could you list the courses offered at BU?",
+        "label": 58
+    },
+    {
+        "text": "Identify the academic topics covered in the test.",
+        "label": 54
+    },
+    {
+        "text": "Could you provide me with information on when the BUCET results will be out?",
+        "label": 55
+    },
+    {
+        "text": "Will there be drop-off services available at the satellite campuses of Bicol University?",
+        "label": 32
+    },
+    {
+        "text": "Can you provide information on the steps to confirm BUCET results?",
+        "label": 52
+    },
+    {
+        "text": "What are the formalities to follow when initiating the submission of BUCET requirements?",
+        "label": 51
+    },
+    {
+        "text": "What is the recommended approach for applicants seeking to fix mistakes on their application forms?",
+        "label": 13
+    },
+    {
+        "text": "Should I reconsider my initially scheduled appointment date if I go with option 1 or option 3?",
+        "label": 16
+    },
+    {
+        "text": "Could you list the courses that the College of Industrial Technology/(CIT)?",
+        "label": 45
+    },
+    {
+        "text": "Could you provide instructions on how to modify the online-submitted picture?",
+        "label": 8
+    },
+    {
+        "text": "Are there specific courses that the BU Gubat Campus (BUGC specializes in?",
+        "label": 38
+    },
+    {
+        "text": "Should I contact the test center if my appointment date is after their designated deadline?",
+        "label": 17
+    },
+    {
+        "text": "Should I consider rescheduling my appointment if it extends beyond the test center's designated deadline?",
+        "label": 17
+    },
+    {
+        "text": "Is it compulsory to enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the submitted documents via mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Does the need for a 4P's certificate vary depending on the region or locality?",
+        "label": 24
+    },
+    {
+        "text": "Could you give me details on the geographic distribution of BUCET test centers?",
+        "label": 56
+    },
+    {
+        "text": "Enlighten me on the various courses that the College of Industrial Technology (CIT)",
+        "label": 45
+    },
+    {
+        "text": "What benefits come with holding a 4P's certificate?",
+        "label": 24
+    },
+    {
+        "text": "Can you share any details on when the BUCET results are due?",
+        "label": 55
+    },
+    {
+        "text": "Would it be acceptable if the mailing stamp we use is more than Php 50.00?",
+        "label": 28
+    },
+    {
+        "text": "How are letters of recommendation handled in the BUCET 202*-202* application process?",
+        "label": 50
+    },
+    {
+        "text": "List down the topics included in the test.",
+        "label": 54
+    },
+    {
+        "text": "Are there any unique requirements or considerations for applicants with parents who are overseas Filipino workers (OFWs)?",
+        "label": 23
+    },
+    {
+        "text": "What is the mailing envelope and mailing stamp worth 40 pesos for?",
+        "label": 27
+    },
+    {
+        "text": "Break down the eligibility requirements for the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
+    },
+    {
+        "text": "What are the procedures for submitting a new application due to errors in the initial one?",
+        "label": 12
+    },
+    {
+        "text": "Should Form 138 (Report Card) be provided for both Grade 11 and Grade 12 admission disputes?",
         "label": 33
     },
     {
@@ -12,735 +852,271 @@
         "label": 14
     },
     {
-        "text": "What's the protocol for determining the outcome of my BUCET performance?",
-        "label": 52
+        "text": "Could you list the courses that the Institute of Design and Architecture (IDeA)?",
+        "label": 40
     },
     {
-        "text": "Can you provide guidance on the proper way to claim the BUCET test permit?",
-        "label": 15
+        "text": "I appeciate it.",
+        "label": 2
     },
     {
-        "text": "Should I adhere to the appointment date if I choose either option 1 or option 3?",
-        "label": 16
-    },
-    {
-        "text": "Can you tell me the steps involved in obtaining and retrieving the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "Can the mailing stamp value fall short of 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Are Form 138 submissions required for both Grade 11 and Grade 12?",
-        "label": 33
-    },
-    {
-        "text": "Must we submit Form 138 for both Grade 11 and Grade 12 admission queries?",
-        "label": 33
-    },
-    {
-        "text": "Is there a plan to introduce dropboxes at Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Enlighten me on the various courses that the College of Science provides.",
-        "label": 34
-    },
-    {
-        "text": "Is there any restriction on the postage stamp being more than 40 pesos?",
-        "label": 28
-    },
-    {
-        "text": "Is it mandatory to submit an Income Tax Return (ITR) if my parent or guardian is a senior citizen or person with a disability (PWD)?",
-        "label": 25
-    },
-    {
-        "text": "Provide a checklist for online application documents.",
-        "label": 31
-    },
-    {
-        "text": "Is it mandatory to follow the appointment date, even if it surpasses the initially set deadline for the test center?",
-        "label": 17
-    },
-    {
-        "text": "Please share details about the courses present in the BU Polangui",
-        "label": 48
-    },
-    {
-        "text": "What's the process for making edits to the picture I already submitted online?",
-        "label": 8
-    },
-    {
-        "text": "Is it permissible for the mailing stamp to surpass the 40 pesos limit?",
-        "label": 28
-    },
-    {
-        "text": "Where do I need to go to buy stamps for sending letters?",
-        "label": 20
-    },
-    {
-        "text": "Can you describe the proper method for submitting the BUCET requirements?",
-        "label": 51
-    },
-    {
-        "text": "Is it permissible for the postage stamp to be under 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Can you guide me on checking my BUCET examination pass status?",
-        "label": 52
-    },
-    {
-        "text": "How does the application process differ for individuals with parents employed as overseas Filipino workers (OFWs)?",
-        "label": 23
-    },
-    {
-        "text": "When is the anticipated announcement date for the BUCET results?",
-        "label": 55
-    },
-    {
-        "text": "Share some insights into the courses one can pursue at the BU Tabaco (BUTC",
-        "label": 36
-    },
-    {
-        "text": "Can I apply for BUCET 202*-202* if I have a gap year in my education?",
-        "label": 50
-    },
-    {
-        "text": "If the appointment date is beyond the initial deadline for the test center, do I still need to follow it?",
-        "label": 17
-    },
-    {
-        "text": "What is the recommended technique for adhering the Php 50.00 mailing stamp to the envelope?",
-        "label": 22
-    },
-    {
-        "text": "Would it be alright for the mailing stamp to be less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Is the 40 pesos stamp essential?",
-        "label": 27
-    },
-    {
-        "text": "Where can I find the official social media channels for addressing BUCET concerns?",
-        "label": 26
-    },
-    {
-        "text": "Is applying via mobile phone allowed for this process?",
-        "label": 57
-    },
-    {
-        "text": "Outline the online submission document prerequisites.",
-        "label": 31
-    },
-    {
-        "text": "Should Form 138 (Report Card) be provided for both Grade 11 and Grade 12 admission disputes?",
-        "label": 33
-    },
-    {
-        "text": "How does one typically find out if they passed the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Is it permissible to have someone submit my requirements on my behalf?",
-        "label": 11
-    },
-    {
-        "text": "Can you share the official mailing address for the BU admissions office?",
+        "text": "What is the specific address for the BU admissions office, and how can I reach it?",
         "label": 18
     },
     {
-        "text": "Do I need to follow through with my scheduled appointment date when selecting option 1 or option 3?",
-        "label": 16
-    },
-    {
-        "text": "Are there any considerations for implementing dropboxes in Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Does the senior citizen or PWD status of my parent or guardian exempt me from any tax-related obligations, including ITR submission?",
-        "label": 25
-    },
-    {
-        "text": "Are there any plans to set up drop-off points in Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "What are the recommended techniques for pasting the Php 50.00 mailing stamp effectively?",
-        "label": 22
-    },
-    {
-        "text": "What supporting documents must I include if my parent is an overseas Filipino worker (OFW)?",
-        "label": 23
-    },
-    {
-        "text": "Mention the requisite documents for online validation.",
-        "label": 31
-    },
-    {
-        "text": "I need to know the deadline for submitting all the documentary information.",
-        "label": 9
-    },
-    {
-        "text": "Can you provide me with the exact physical address of the BU admissions office for GPS navigation?",
-        "label": 18
-    },
-    {
-        "text": "Explain the prerequisites for eligibility in the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
-    },
-    {
-        "text": "Break down the specific actions required for the successful submission of BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "What is the protocol regarding my appointment date if I opt for either option 1 or option 3?",
-        "label": 16
-    },
-    {
-        "text": "How do I reschedule my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "Is there a need for us to secure a 4P's certificate?",
-        "label": 24
-    },
-    {
-        "text": "What is the range of subjects in the test?",
+        "text": "List the subjects covered in the test.",
         "label": 54
     },
     {
-        "text": "Could you elaborate on the mailing stamp regulations, specifically regarding values beyond Php 50.00?",
-        "label": 21
-    },
-    {
-        "text": "How can one formally submit the BUCET requirements?",
-        "label": 51
-    },
-    {
-        "text": "I'm inquiring about the regional distribution of BUCET test centers.",
-        "label": 56
-    },
-    {
-        "text": "How much money should I prepare for the BUCET application fee?",
-        "label": 10
-    },
-    {
-        "text": "Can the postage stamp amount be less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Is a 4P's certificate required, or is it optional for our situation?",
-        "label": 24
-    },
-    {
-        "text": "Should the mailed/couriered documents include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
-        "label": 30
-    },
-    {
-        "text": "Is there any indication of when the BUCET results will be made available?",
-        "label": 55
-    },
-    {
-        "text": "Can you elaborate on the courses available at the College of Industrial Technology (CIT)",
-        "label": 45
-    },
-    {
-        "text": "Hello, how are you?",
-        "label": 0
-    },
-    {
-        "text": "Where should I go to express my concerns or questions about BUCET?",
-        "label": 26
-    },
-    {
-        "text": "Can you provide information on the courses offered in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?",
-        "label": 42
-    },
-    {
-        "text": "Where can I get the necessary forms for BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Can the postage stamp value fall short of 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Is it within the acceptable range if the postage falls short of 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Share the requisite online documentation criteria.",
-        "label": 31
-    },
-    {
-        "text": "Mention the requisite documents for online validation.",
-        "label": 31
-    },
-    {
-        "text": "Could you provide a detailed walkthrough of the BUCET requirements submission process?",
-        "label": 51
-    },
-    {
-        "text": "Is it compulsory to affix the 40 pesos mailing stamp?",
-        "label": 27
-    },
-    {
-        "text": "What topics are part of the test's evaluation?",
-        "label": 54
-    },
-    {
-        "text": "Is it within the rules to have a mailing stamp costing more than Php 50.00, or are there restrictions?",
-        "label": 21
-    },
-    {
-        "text": "Is it okay if the mailing stamp is less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Can you tell me something funny?",
-        "label": 4
-    },
-    {
-        "text": "In the event of errors on my application form, am I allowed to submit a corrected re-application?",
-        "label": 12
-    },
-    {
-        "text": "Can you guide me on the proper communication channels for rescheduling my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "Is it advisable to adhere to my appointment date even if it exceeds the scheduled deadline for the test center?",
-        "label": 17
-    },
-    {
-        "text": "In which office can I obtain the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "Is it okay if the mailing stamp doesn't meet the 40 pesos threshold?",
-        "label": 29
-    },
-    {
-        "text": "Should the 40 pesos postage stamp be attached?",
-        "label": 27
-    },
-    {
-        "text": "What is the protocol for submitting required documents if my parent is an overseas Filipino worker (OFW)?",
-        "label": 23
-    },
-    {
-        "text": "Do we have to pass Form 138 for both Grade 11 and Grade 12 admission confirmations?",
-        "label": 33
-    },
-    {
-        "text": "Where do applicants go to receive the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "Can I apply for BUCET 202*-202* if I have international qualifications?",
-        "label": 50
-    },
-    {
-        "text": "Specify the subjects addressed in the test.",
-        "label": 54
-    },
-    {
-        "text": "Enumerate the documents to be uploaded online.",
-        "label": 31
-    },
-    {
-        "text": "Do you have any details on when the BUCET results will be declared?",
-        "label": 55
-    },
-    {
-        "text": "Where should I go on campus to get the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "What topics are incorporated into the test?",
-        "label": 54
-    },
-    {
-        "text": "Share details on the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
-    },
-    {
-        "text": "Provide an overview of the courses in the  College of Nursing (CN) encompasses?",
-        "label": 41
-    },
-    {
-        "text": "Enlighten me on the various courses that the College of Industrial Technology (CIT)",
-        "label": 45
-    },
-    {
-        "text": "Should I notify the test center if my appointment date is already past their scheduled deadline?",
-        "label": 17
-    },
-    {
-        "text": "Can I apply for BUCET 202*-202* if I'm a mature student?",
-        "label": 50
-    },
-    {
-        "text": "Can you elaborate on the courses available at the Bicol University Guinobatan",
-        "label": 47
-    },
-    {
-        "text": "Is it necessary to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with the other requirements?",
-        "label": 30
-    },
-    {
-        "text": "Is there a specific day when the BUCET results are expected to come out?",
-        "label": 55
-    },
-    {
-        "text": "Clarify the documents expected for online transactions.",
-        "label": 31
-    },
-    {
-        "text": "What documentation or information do I need to provide to claim the BUCET test permit?",
-        "label": 15
-    },
-    {
-        "text": "Are there limitations on who is allowed to submit my BUCET application requirements?",
-        "label": 11
-    },
-    {
-        "text": "Specify the documents essential for online verification.",
-        "label": 31
-    },
-    {
-        "text": "Can you provide information on the courses offered in the Institute of Physical Education, Sports and Recreation (IPESR)?",
-        "label": 43
-    },
-    {
-        "text": "What is the standard protocol for editing the picture submitted online?",
-        "label": 8
-    },
-    {
-        "text": "What additional information is necessary for applicants with parents currently working overseas as OFWs?",
-        "label": 23
-    },
-    {
-        "text": "Is there a specific area on the envelope where I should paste the Php 50.00 mailing stamp?",
-        "label": 22
-    },
-    {
-        "text": "Is there a proposal to introduce dropboxes at Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Explain the eligibility criteria and qualifications for the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
-    },
-    {
-        "text": "Is it within the acceptable limit if the postage falls short of 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Is it required to enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending documents via mail or courier?",
-        "label": 30
-    },
-    {
-        "text": "Elaborate on the necessary paperwork for online transactions.",
-        "label": 31
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the College of Engineering (CENG)",
-        "label": 46
+        "text": "I would like to know about the course offerings in the College of Business, Economics and Management (CBEM)",
+        "label": 44
     },
     {
         "text": "Is it okay if the postage doesn't reach 40 pesos?",
         "label": 29
     },
     {
-        "text": "Can you guide me on the steps to follow if I realize errors in my application form after submission?",
-        "label": 13
-    },
-    {
-        "text": "What kind of courses are available in the College of Business, Economics and Management/(CBEM)?",
-        "label": 44
-    },
-    {
-        "text": "What's the appropriate way to inform the concerned parties about my need to obtain and retrieve the BUCET application form?",
+        "text": "What is the correct way to download and retrieve the BUCET application form?",
         "label": 7
     },
     {
-        "text": "Can a family member or friend take responsibility for submitting my BUCET application documents?",
-        "label": 11
-    },
-    {
-        "text": "Could you explain the rationale behind the Php 50.00 limit for mailing stamps and any potential exceptions?",
-        "label": 21
-    },
-    {
-        "text": "Is it acceptable to use a stamp that exceeds 40 pesos?",
-        "label": 28
-    },
-    {
-        "text": "Where can I find the BUCET test centers on the map?",
-        "label": 56
-    },
-    {
-        "text": "Can you provide information on any fees associated with correcting errors in an application form?",
-        "label": 13
-    },
-    {
-        "text": "What is the recommended method for submitting my BUCET application documents?",
-        "label": 14
-    },
-    {
-        "text": "What are the steps to follow when using the online system to modify the online-submitted picture?",
-        "label": 8
-    },
-    {
-        "text": "Explain how to initiate the submission of BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "Break down the process of submitting the BUCET requirements into manageable steps.",
-        "label": 51
-    },
-    {
-        "text": "Discuss the online submission document requirements.",
+        "text": "Clarify the documents expected for online transactions.",
         "label": 31
     },
     {
-        "text": "Could you list the courses that the BU Tabaco (BUTC)?",
+        "text": "What subjects are taken into account in the test?",
+        "label": 54
+    },
+    {
+        "text": "Can you provide information on the courses offered in the BU Tabaco (BUTC)?",
         "label": 36
     },
     {
-        "text": "I'm seeking clarity on the detailed steps involved in submitting the BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "Should the package sent through mail/courier encompass the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+        "text": "Should the mailed/couriered documents include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
         "label": 30
     },
     {
-        "text": "Why is it necessary for us to obtain a 4P's certificate?",
-        "label": 24
-    },
-    {
-        "text": "Please share details about the courses present in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)",
-        "label": 42
-    },
-    {
-        "text": "What proof or verification is needed if my parent is an overseas Filipino worker (OFW)?",
-        "label": 23
-    },
-    {
-        "text": "Elaborate on the test's topics coverage.",
-        "label": 54
-    },
-    {
-        "text": "Would it be alright for the postage stamp to surpass the 40 pesos threshold?",
+        "text": "Is it alright to go over 40 pesos for the stamp?",
         "label": 28
     },
     {
-        "text": "What's the procedure for verifying BUCET results officially?",
-        "label": 52
-    },
-    {
-        "text": "Is it permissible for the postage stamp to surpass the 40 pesos limit?",
-        "label": 28
-    },
-    {
-        "text": "Discuss the essential online document lineup.",
-        "label": 31
-    },
-    {
-        "text": "Do we have to pass Form 138 for both Grade 11 and Grade 12 admission complications?",
-        "label": 33
-    },
-    {
-        "text": "What guidance does the test center provide for individuals with appointment dates that surpass their deadline?",
+        "text": "If the appointment date falls beyond the scheduled deadline for the test center, is it still applicable?",
         "label": 17
     },
     {
-        "text": "Could you please elaborate on the procedure for obtaining the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "Is the 40 pesos stamp required for mailing?",
-        "label": 27
-    },
-    {
-        "text": "What steps should I take to claim my BUCET test permit?",
+        "text": "Can you guide me on how to retrieve and claim my BUCET test permit?",
         "label": 15
     },
     {
-        "text": "Can you elaborate on the test's subject matter?",
-        "label": 54
+        "text": "Is there a specific protocol for rectifying errors in an incorrectly completed application form?",
+        "label": 13
     },
     {
-        "text": "Can you inform me about the expected timeline for the BUCET results release?",
-        "label": 55
+        "text": "I'm curious about the course options within the College of Arts and Letters (CAL).",
+        "label": 39
     },
     {
-        "text": "Will there be designated drop-off points at Bicol University's satellite campuses?",
-        "label": 32
+        "text": "Is it compulsory to pass Form 138 for both Grade 11 and Grade 12 admission components?",
+        "label": 33
     },
     {
-        "text": "Break down the steps required to qualify for the AY 202*-202* Bicol University College Entrance Test.",
+        "text": "Can you elaborate on the courses available at the Bicol University Guinobatan",
+        "label": 47
+    },
+    {
+        "text": "Provide details on the AY 202*-202* Bicol University College Entrance Test qualification process.",
         "label": 53
     },
     {
-        "text": "Can you guide me on how to utilize the online chat support for addressing BUCET concerns?",
-        "label": 26
+        "text": "Is it mandatory to follow the appointment date, even if it surpasses the initially set deadline for the test center?",
+        "label": 17
     },
     {
-        "text": "When is the last possible date for submitting all required documents?",
+        "text": "Can you advise me on the best way to communicate my need to obtain and retrieve the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "List the necessary documents for online verification.",
+        "label": 31
+    },
+    {
+        "text": "What is the correct way to claim my BUCET test permit?",
+        "label": 15
+    },
+    {
+        "text": "Must we incorporate the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the materials sent via mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Can you walk me through the process to retrieve the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "Name the subjects that the test encompasses.",
+        "label": 54
+    },
+    {
+        "text": "When is the final day for submitting all the documentary demands?",
         "label": 9
     },
     {
-        "text": "What is the address for scheduling an appointment at the BU admissions office?",
+        "text": "I would like to know about the course offerings in the Bicol University Guinobatan",
+        "label": 47
+    },
+    {
+        "text": "Is there a requirement to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending documents by mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "What are the courses available in the College of Nursing (CN)?",
+        "label": 41
+    },
+    {
+        "text": "What is the closing date for the submission of all required documents?",
+        "label": 9
+    },
+    {
+        "text": "I'm looking for the precise address of the BU admissions office; could you assist me with that information?",
         "label": 18
     },
     {
-        "text": "Why do we need a 40-peso mailing stamp for passing requirements?",
-        "label": 27
+        "text": "Is it a necessity to submit Form 138 for both Grade 11 and Grade 12 admission qualifications?",
+        "label": 33
     },
     {
-        "text": "Could you enlighten me on the geographical locations of BUCET test centers?",
-        "label": 56
+        "text": "Clarify the documents essential for online transactions.",
+        "label": 31
     },
     {
-        "text": "Can you tell me the addresses of the BUCET test centers?",
-        "label": 56
+        "text": "Describe the documents needed for online verification.",
+        "label": 31
     },
     {
-        "text": "How should I handle the application process if one or both of my parents are overseas Filipino workers (OFWs)?",
+        "text": "How does the application process differ for individuals with parents employed as overseas Filipino workers (OFWs)?",
         "label": 23
+    },
+    {
+        "text": "What is the preferred method for rescheduling an appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Would it be acceptable if the postage stamp falls under 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Is Form 138 (Report Card) mandatory for both Grades 11 and 12?",
+        "label": 33
     },
     {
         "text": "What is the correct way to modify my appointment date?",
         "label": 6
     },
     {
-        "text": "Can you provide information on the courses offered in the BU Gubat Campus (BUGC)?",
-        "label": 38
-    },
-    {
-        "text": "What do I need to do to reschedule my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "Can you walk me through the stages of BUCET requirements submission?",
-        "label": 51
-    },
-    {
-        "text": "Can I claim any tax benefits or exemptions based on the senior citizen or PWD status of my parent or guardian?",
-        "label": 25
-    },
-    {
-        "text": "Clarify the documents expected for online validation.",
-        "label": 31
-    },
-    {
-        "text": "What documentation or information do I need to provide to retrieve the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "Will there be dropbox amenities at the satellite campuses of Bicol University?",
+        "text": "Will specifically designated dropboxes specifically be set up specifically for requirements submission specifically at the BU Main Campus?",
         "label": 32
     },
     {
-        "text": "Is Form 138 (Report Card) required for both Grade 11 and Grade 12 documentation?",
-        "label": 33
+        "text": "Is it within the rules to use a mailing stamp with a value greater than Php 50.00?",
+        "label": 21
     },
     {
-        "text": "List the documents to be submitted online.",
-        "label": 31
-    },
-    {
-        "text": "Could you share information on the nationwide locations of BUCET test centers?",
-        "label": 56
-    },
-    {
-        "text": "What steps should I take to rescheduled the date of my scheduled appointment?",
-        "label": 6
-    },
-    {
-        "text": "Describe the requirements needed to qualify for the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
-    },
-    {
-        "text": "What's the best place to buy international mailing stamps?",
-        "label": 20
-    },
-    {
-        "text": "I'm curious about the course options within the College of Science.",
-        "label": 34
-    },
-    {
-        "text": "Could you enlighten me on the process of determining my BUCET exam results?",
-        "label": 52
-    },
-    {
-        "text": "Do we need to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with other requirements?",
-        "label": 30
-    },
-    {
-        "text": "Would it be acceptable for the postage to be under 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Should the package sent by mail/courier contain the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
-        "label": 30
-    },
-    {
-        "text": "Where should I direct mail or correspondence for the BU admissions office, and what is the address?",
-        "label": 18
-    },
-    {
-        "text": "I'm curious about the course options within the College of Education (CE).",
-        "label": 37
-    },
-    {
-        "text": "I'm interested in knowing the varied locations of BUCET test centers nationwide.",
-        "label": 56
-    },
-    {
-        "text": "What is the cutoff date for submitting all required documents?",
-        "label": 9
-    },
-    {
-        "text": "What are the operating hours of the post office where I can buy mailing stamps?",
-        "label": 20
-    },
-    {
-        "text": "Will there be a provision for dropboxes in Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Could you clarify the submission procedure for the BUCET application requirements?",
-        "label": 14
-    },
-    {
-        "text": "Can we expect to find dropboxes at the satellite campuses of Bicol University?",
-        "label": 32
-    },
-    {
-        "text": "Must I use the 40 pesos mailing stamp?",
+        "text": "What is the purpose of the mailing stamp worth 40 pesos in passing the requirements?",
         "label": 27
     },
     {
-        "text": "Can I apply using my smartphone?",
-        "label": 57
+        "text": "I would like to know about the course offerings in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)",
+        "label": 42
     },
     {
-        "text": "Where can I find the most affordable options for buying mailing stamps?",
+        "text": "What kind of courses are available in the BU Tabaco (BUTC)?",
+        "label": 36
+    },
+    {
+        "text": "What kind of courses are available in the Bicol University Polangui/(BUPC)?",
+        "label": 48
+    },
+    {
+        "text": "Can you guide me on checking my BUCET examination outcomes?",
+        "label": 52
+    },
+    {
+        "text": "What is the guidance regarding the appointment date if I select either option 1 or option 3?",
+        "label": 16
+    },
+    {
+        "text": "Mention the necessary documents for online validation.",
+        "label": 31
+    },
+    {
+        "text": "Can you walk me through the steps to reschedule my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Can you elaborate on the test's topics matter?",
+        "label": 54
+    },
+    {
+        "text": "Can you suggest a convenient place for me to buy the required mailing stamp?",
         "label": 20
     },
     {
-        "text": "See you later.",
+        "text": "Must Form 138 (Report Card) be presented for both Grades 11 and 12?",
+        "label": 33
+    },
+    {
+        "text": "Does choosing either option 1 or option 3 require me to adhere to the initially provided appointment date?",
+        "label": 16
+    },
+    {
+        "text": "Where is the BU admissions office situated, and what is its address?",
+        "label": 18
+    },
+    {
+        "text": "Should we enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when submitting documents through mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Have a good day.",
         "label": 1
     },
     {
-        "text": "Can you guide me on how to reach the BUCET support team for concerns?",
+        "text": "Which local businesses or retailers offer postage stamps for sale?",
+        "label": 20
+    },
+    {
+        "text": "Can you outline the correct procedure for turning in the BUCET requirements?",
+        "label": 51
+    },
+    {
+        "text": "Can you inform me about the deadline for submitting my BUCET application requirements?",
+        "label": 14
+    },
+    {
+        "text": "Can you elaborate on the courses available at the College of Social Sciences and Philosophy (CSSP)?",
+        "label": 35
+    },
+    {
+        "text": "Where do I inquire about purchasing bulk postage stamps for business purposes?",
+        "label": 20
+    },
+    {
+        "text": "Outline the online submission document criteria.",
+        "label": 31
+    },
+    {
+        "text": "Is mobile application supported for applying?",
+        "label": 57
+    },
+    {
+        "text": "Outline the necessary paperwork for online transactions.",
+        "label": 31
+    },
+    {
+        "text": "Is there any objection to the postage stamp being priced at more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Where can I find the official social media channels for addressing BUCET concerns?",
         "label": 26
     },
     {
@@ -748,811 +1124,291 @@
         "label": 26
     },
     {
-        "text": "Is it permissible to use a mailing stamp with a value greater than Php 50.00?",
+        "text": "Can you confirm if the Php 50.00 limit for mailing stamps is a strict requirement or subject to change?",
         "label": 21
     },
     {
-        "text": "Do we need to pass Form 138(Report Card) from both Grades 11 and 12?",
-        "label": 33
-    },
-    {
-        "text": "I'm looking for details on the cities and towns with BUCET test centers.",
-        "label": 56
-    },
-    {
-        "text": "Could you provide a comprehensive list of courses in the College of Nursing (CN) encompasses?",
-        "label": 41
-    },
-    {
-        "text": "What is the location for acquiring the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "What documents are mandatory for submission with my BUCET application?",
-        "label": 14
-    },
-    {
-        "text": "Should Form 138 (Report Card) be submitted for both Grade 11 and Grade 12 admission decisions?",
-        "label": 33
-    },
-    {
-        "text": "Is it within the rules for the mailing stamp to be more than 40 pesos?",
-        "label": 28
-    },
-    {
-        "text": "Is it okay if the postage doesn't meet the 40 pesos threshold?",
-        "label": 29
-    },
-    {
-        "text": "Are there specific instructions for checking if I passed the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Is it fine if the postage stamp is less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Outline the documents essential for online processing.",
-        "label": 31
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the College of Engineering (CENG)",
-        "label": 47
-    },
-    {
-        "text": "Where should I send my application materials, and what is the address of the BU admissions office?",
-        "label": 18
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the College of Social Sciences and Philosophy (CSSP)",
-        "label": 35
-    },
-    {
-        "text": "Which topics are part of the test?",
-        "label": 54
-    },
-    {
-        "text": "What is the range of topics in the test?",
-        "label": 54
-    },
-    {
-        "text": "Enlighten me on the various courses that the College of Education (CE) provides.",
-        "label": 37
-    },
-    {
-        "text": "Is there a designated mechanism for applicants to amend errors on their completed application forms?",
-        "label": 13
-    },
-    {
-        "text": "Is it fine if the postage stamp doesn't reach 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "Can you provide information on the final date for completing the submission of required documents?",
-        "label": 9
-    },
-    {
-        "text": "Must we incorporate the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the materials sent via mail or courier?",
-        "label": 30
-    },
-    {
-        "text": "List down the topics included in the test.",
-        "label": 54
-    },
-    {
-        "text": "Where can I find the BUCET application form for retrieval?",
-        "label": 7
-    },
-    {
-        "text": "Are there specific courses that the College of Dental Medicine (CDM) specializes in?",
-        "label": 49
-    },
-    {
-        "text": "I'm seeking clarity on the steps required for BUCET requirements submission; can you help?",
-        "label": 51
-    },
-    {
-        "text": "How do I initiate the process of changing my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "Should the 40 pesos postage stamp be used?",
-        "label": 27
-    },
-    {
-        "text": "Please explain the steps required for the submission of BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "What documents are compulsory for online submission?",
-        "label": 31
-    },
-    {
-        "text": "What's the procedure for verifying BUCET pass results officially?",
-        "label": 52
-    },
-    {
-        "text": "In the case of option 1 or option 3, is it recommended to follow the appointment date?",
-        "label": 16
-    },
-    {
-        "text": "What subjects are part of the test's focus?",
-        "label": 54
-    },
-    {
-        "text": "Detail the documents to be submitted online.",
-        "label": 31
-    },
-    {
-        "text": "Can the postage stamp be priced at more than 40 pesos without any problem?",
-        "label": 28
-    },
-    {
-        "text": "What is the proper protocol for turning in the BUCET requirements for consideration?",
-        "label": 51
-    },
-    {
-        "text": "I'm bored, can you tell me a joke?",
-        "label": 4
-    },
-    {
-        "text": "Can you provide instructions on the proper way to submit my application requirements for BUCET?",
-        "label": 14
-    },
-    {
-        "text": "Could you please provide me with the address of the BU admissions office?",
-        "label": 18
-    },
-    {
-        "text": "Is it a requirement to provide Form 138 for both Grade 11 and Grade 12 admission criteria?",
-        "label": 33
-    },
-    {
-        "text": "What is the guidance regarding the appointment date if I select either option 1 or option 3?",
-        "label": 16
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the Institute of Physical Education, Sports and Recreation (IPESR)",
-        "label": 43
-    },
-    {
-        "text": "Where is the nearest place to buy mailing stamps?",
-        "label": 20
-    },
-    {
-        "text": "Does the senior citizen or PWD status of my parent or guardian affect my obligation to submit an ITR?",
-        "label": 25
-    },
-    {
-        "text": "If I make errors in my application form, can I reapply with the correct information?",
-        "label": 12
-    },
-    {
-        "text": "Elaborate on the essential online document compilation.",
-        "label": 31
-    },
-    {
-        "text": "Where can I seek assistance for concerns related to BUCET?",
-        "label": 26
-    },
-    {
-        "text": "Can you identify the subjects included in the test?",
-        "label": 54
-    },
-    {
-        "text": "I'm planning to apply for BUCET 202*-202*; what advice do you have?",
+        "text": "Can I apply for BUCET 202*-202* if I'm a mature student?",
         "label": 50
     },
     {
-        "text": "Provide a comprehensive list of online submission requirements.",
-        "label": 31
+        "text": "What courses does the College of Education (CE) feature in its curriculum?",
+        "label": 37
     },
     {
-        "text": "How can I utilize the online portal to obtain and retrieve the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "Is it necessary to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with the other requirements?",
-        "label": 30
-    },
-    {
-        "text": "Can students specifically use drop-off bins specifically for requirements submission specifically at the BU Main Campus?",
-        "label": 32
-    },
-    {
-        "text": "Do we need to submit Form 138 for both Grade 11 and Grade 12 admission challenges?",
-        "label": 33
-    },
-    {
-        "text": "Can you walk me through the process to claim my BUCET test permit?",
-        "label": 15
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the Institute of Design and Architecture (IDeA)",
-        "label": 40
-    },
-    {
-        "text": "What's the specific office for acquiring the BUCET application form?",
+        "text": "Where am I supposed to go to get the BUCET application form?",
         "label": 5
     },
     {
-        "text": "Can I submit a new application since I mistakenly completed my initial application form?",
-        "label": 12
+        "text": "Are there any specific formats or file types preferred for electronic submission of my BUCET application documents?",
+        "label": 14
     },
     {
-        "text": "What steps should one take if there is uncertainty about the need for a 4P's certificate?",
-        "label": 24
+        "text": "Do we have to pass Form 138 for both Grade 11 and Grade 12 admission confirmations?",
+        "label": 33
     },
     {
-        "text": "I'm interested in learning about the available courses in the Jesse M. Robredo Institute of Governance and Development (JMRIGD)",
-        "label": 42
+        "text": "Can you provide information on the steps to validate BUCET pass results?",
+        "label": 52
     },
     {
-        "text": "What are the courses available in the College of Business, Economics and Management/(CBEM)?",
-        "label": 44
-    },
-    {
-        "text": "Do I need to include the 40 pesos mailing stamp?",
-        "label": 27
-    },
-    {
-        "text": "Are there plans to incorporate drop-off points in Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "What is the required payment for the BUCET application fee?",
-        "label": 10
-    },
-    {
-        "text": "Is there flexibility regarding the mailing stamp value, and can it be higher than Php 50.00?",
-        "label": 28
-    },
-    {
-        "text": "Can you guide me on how to make changes to the picture I uploaded online?",
-        "label": 8
-    },
-    {
-        "text": "What steps do I need to take to obtain the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "Will dropbox services be extended to Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Outline the online submission document criteria.",
+        "text": "Share the necessary online documentation details.",
         "label": 31
     },
     {
-        "text": "I'm unfamiliar with the process; could you provide insights into submitting the BUCET requirements?",
+        "text": "Should I be concerned about following my appointment date if it's already beyond the test center's deadline?",
+        "label": 17
+    },
+    {
+        "text": "What kind of courses are available in the College of Arts and Letters (CAL)?",
+        "label": 39
+    },
+    {
+        "text": "What topics are covered in the test?",
+        "label": 54
+    },
+    {
+        "text": "Should I include the 40 pesos mailing stamp?",
+        "label": 27
+    },
+    {
+        "text": "Where is the BU admissions office located, and what is its address for visitors?",
+        "label": 18
+    },
+    {
+        "text": "Outline the topics covered in the test.",
+        "label": 54
+    },
+    {
+        "text": "Can you walk me through the stages of BUCET requirements submission?",
         "label": 51
     },
     {
-        "text": "Is it okay if the mailing stamp is less than 40 pesos?",
-        "label": 29
+        "text": "To whom should I direct concerns about discrepancies in the BUCET score reporting?",
+        "label": 26
     },
     {
-        "text": "Could you tell me the cities where the BUCET test centers are established?",
+        "text": "What is the specified deadline for the submission of all necessary documents?",
+        "label": 9
+    },
+    {
+        "text": "How do I go about checking my BUCET exam results?",
+        "label": 52
+    },
+    {
+        "text": "Can you guide me on using the online platform to obtain and retrieve the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "Can you share information about the diverse locations of BUCET test centers?",
         "label": 56
+    },
+    {
+        "text": "Can you help me with the application process for BUCET 202*-202*?",
+        "label": 50
     },
     {
         "text": "How will I be notified if I've successfully cleared the BUCET?",
         "label": 52
     },
     {
-        "text": "What should I do if my appointment date has passed the designated deadline for the test center?",
-        "label": 17
+        "text": "If I decide on option 1 or option 3, is it mandatory to observe the appointment date?",
+        "label": 16
     },
     {
-        "text": "Are there specific guidelines for checking if I passed the BUCET?",
-        "label": 52
+        "text": "What kind of courses are available in the College of Nursing (CN)?",
+        "label": 41
     },
     {
-        "text": "I'm interested in finding out the specific sites of BUCET test centers.",
-        "label": 56
-    },
-    {
-        "text": "How do I access the editing feature for the online-submitted picture?",
-        "label": 8
-    },
-    {
-        "text": "What are the key factors in meeting the AY 202*-202* Bicol University College Entrance Test eligibility?",
-        "label": 53
-    },
-    {
-        "text": "Is there any objection to the postage stamp being priced at more than 40 pesos?",
+        "text": "Can the postage stamp's value be higher than 40 pesos without any issue?",
         "label": 28
     },
     {
-        "text": "Is there a different process for ITR submission for individuals with senior citizen or PWD parents or guardians?",
-        "label": 25
+        "text": "What is the designated channel for addressing BUCET-related inquiries?",
+        "label": 26
     },
     {
-        "text": "Provide a comprehensive guide on qualifying for the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
+        "text": "What paperwork must be submitted online?",
+        "label": 31
     },
     {
-        "text": "Any insights on how I can confirm my success in the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Will Bicol University include dropbox facilities in its satellite campus planning?",
-        "label": 32
-    },
-    {
-        "text": "Will specifically designated dropboxes specifically be specifically accessible specifically for students submitting requirements specifically at the BU Main Campus?",
-        "label": 32
-    },
-    {
-        "text": "Are there any specific labels or identifiers needed when submitting my BUCET application requirements?",
-        "label": 14
-    },
-    {
-        "text": "What are the designated areas in the post office for buying mailing stamps?",
-        "label": 20
-    },
-    {
-        "text": "When will the BUCET results be available for public viewing?",
-        "label": 55
-    },
-    {
-        "text": "Could you specify the appropriate picture format for submission?",
-        "label": 19
-    },
-    {
-        "text": "Must the documents sent through mail/courier include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
+        "text": "Is it necessary to include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate in the package we're sending via mail or courier?",
         "label": 30
     },
     {
-        "text": "To whom should I direct my concerns regarding BUCET, and where is the appropriate address?",
-        "label": 26
+        "text": "What channels or methods are available for me to submit my BUCET application documents?",
+        "label": 14
     },
     {
-        "text": "What is the final deadline for the submission of all documentary requirements?",
-        "label": 9
+        "text": "Am I required to submit ITR if my parent/Guardian is a senior citizen/pwd?",
+        "label": 25
     },
     {
-        "text": "How do I paste the Php 50.00 mailing stamp?",
-        "label": 22
+        "text": "Can I start the application process if I mistakenly filled out the initial form?",
+        "label": 12
     },
     {
-        "text": "What steps need to be followed to successfully submit the BUCET requirements?",
-        "label": 51
-    },
-    {
-        "text": "To whom should I direct my questions about BUCET?",
-        "label": 26
-    },
-    {
-        "text": "Is it feasible to complete the application on a mobile device?",
-        "label": 57
-    },
-    {
-        "text": "Does either option 1 or option 3 influence the requirement to follow the original appointment date?",
-        "label": 16
-    },
-    {
-        "text": "Can you guide me through the steps to modify the picture I submitted online?",
-        "label": 8
-    },
-    {
-        "text": "Is it permissible for the mailing stamp to be less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "I'm curious about the course options within the Bicol University Guinobatan",
-        "label": 47
-    },
-    {
-        "text": "Is there a penalty or issue associated with using a mailing stamp that exceeds Php 50.00 in value?",
-        "label": 21
-    },
-    {
-        "text": "Is it a requirement to submit Form 138 for both Grade 11 and Grade 12 levels?",
-        "label": 33
-    },
-    {
-        "text": "Are there any fees associated with obtaining or renewing a 4P's certificate?",
-        "label": 24
-    },
-    {
-        "text": "Are there any specific scenarios where using a mailing stamp exceeding Php 50.00 is allowed?",
-        "label": 21
-    },
-    {
-        "text": "Can you outline the steps for checking BUCET exam pass outcomes?",
-        "label": 52
-    },
-    {
-        "text": "Are there any restrictions on who can submit my BUCET application requirements for me?",
-        "label": 11
-    },
-    {
-        "text": "Is the provision of dropboxes part of the development plan for Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "What is the process for rescheduling my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "I would like to know about the course offerings in the BU Gubat Campus (BUGC",
-        "label": 38
-    },
-    {
-        "text": "Will there be designated areas for dropboxes in the satellite campuses of Bicol University?",
-        "label": 32
-    },
-    {
-        "text": "Enlighten me on the various courses that the College of Engineering (CENG)",
-        "label": 46
-    },
-    {
-        "text": "Is Form 138 required for both Grade 11 and Grade 12 admission characteristics?",
-        "label": 33
-    },
-    {
-        "text": "How do I handle the Php 50.00 mailing stamp to prevent it from getting damaged or torn?",
-        "label": 22
-    },
-    {
-        "text": "I'm interested in learning about the available courses in the Bicol University Polangui/(BUPC)",
-        "label": 48
-    },
-    {
-        "text": "Do we need to pass Form 138 for both Grade 11 and Grade 12 admission submissions?",
-        "label": 33
-    },
-    {
-        "text": "What are the courses available in the College of Social Sciences and Philosophy (CSSP)?",
-        "label": 35
-    },
-    {
-        "text": "Could you walk me through the process of confirming BUCET success?",
-        "label": 52
-    },
-    {
-        "text": "Could you inform me about the expected release date of BUCET results?",
-        "label": 55
-    },
-    {
-        "text": "Specify the online submission document prerequisites.",
-        "label": 31
-    },
-    {
-        "text": "Is there a particular portal where I can verify my BUCET results?",
-        "label": 52
-    },
-    {
-        "text": "Is there a set date for the release of the BUCET results?",
-        "label": 55
-    },
-    {
-        "text": "Is it permissible for the postage stamp to be less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "What is the correct way to edit the photo I submitted online?",
-        "label": 8
-    },
-    {
-        "text": "Is it possible to apply via smartphone?",
-        "label": 57
-    },
-    {
-        "text": "How can I ensure that I qualify for the AY 202*-202* Bicol University College Entrance Test?",
-        "label": 53
-    },
-    {
-        "text": "Name the subjects touched upon in the test.",
-        "label": 54
-    },
-    {
-        "text": "Would it be acceptable if the mailing stamp exceeded the 40 pesos limit?",
-        "label": 28
-    },
-    {
-        "text": "Where should I visit to purchase stamps for mailing?",
-        "label": 20
-    },
-    {
-        "text": "Are drop-off points under consideration for Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Is it compulsory to pass Form 138 for both Grade 11 and Grade 12?",
-        "label": 33
-    },
-    {
-        "text": "I would like to know about the course offerings in the College of Dental Medicine (CDM)",
+        "text": "Can you provide information on the courses offered in the College of Dental Medicine/(CDM)?",
         "label": 49
     },
     {
-        "text": "Does following option 1 or option 3 require me to keep my initially assigned appointment date?",
-        "label": 16
-    },
-    {
-        "text": "Enumerate the subjects that the test examines.",
-        "label": 54
-    },
-    {
-        "text": "What's the formal way to request and edit the online-submitted picture?",
-        "label": 8
-    },
-    {
-        "text": "What is the preferred method for rescheduling an appointment date?",
-        "label": 6
-    },
-    {
-        "text": "Is it within the limits if the mailing stamp is less than 40 pesos?",
-        "label": 29
-    },
-    {
-        "text": "What kind of courses are available in the Institute of Physical Education, Sports and Recreation (IPESR)?",
-        "label": 43
-    },
-    {
-        "text": "Can the application process be done on a smartphone?",
-        "label": 57
-    },
-    {
-        "text": "Is there an initiative to install dropboxes at Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "In the case of my parent being an overseas Filipino worker (OFW), what specific documents should I submit?",
-        "label": 23
-    },
-    {
-        "text": "I'm curious about the protocol for confirming my BUCET pass results. Can you help?",
-        "label": 52
-    },
-    {
-        "text": "Are there specific situations, where obtaining a 4P's certificate is mandatory?",
-        "label": 24
-    },
-    {
-        "text": "Is it possible to submit a new application after mistakenly filling out the previous one?",
-        "label": 12
-    },
-    {
-        "text": "Tell me about the array of courses within the College of Engineering (CENG)",
-        "label": 46
-    },
-    {
-        "text": "What is the proper way to initiate the submission of BUCET requirements?",
-        "label": 51
-    },
-    {
-        "text": "What's the standard practice for confirming success in the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Can the mailing stamp's value surpass 40 pesos without consequences?",
-        "label": 28
-    },
-    {
-        "text": "Is there a proposal to introduce dropboxes at Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "How do I navigate the system to claim my BUCET test permit?",
-        "label": 15
-    },
-    {
-        "text": "Enumerate the essential online document compilation.",
+        "text": "What documents should be uploaded online?",
         "label": 31
     },
     {
-        "text": "What steps should I follow if I want to reapply due to errors in my application form?",
-        "label": 12
-    },
-    {
-        "text": "Is mobile application supported for applying?",
-        "label": 57
-    },
-    {
-        "text": "To whom do I reach out for resolving BUCET concerns?",
-        "label": 26
-    },
-    {
-        "text": "Can the mailing stamp's value go beyond 40 pesos without trouble?",
-        "label": 28
-    },
-    {
-        "text": "Is there an online platform or system where I can digitally correct a wrongly filled application form?",
-        "label": 13
-    },
-    {
-        "text": "Can I utilize my phone for the application?",
-        "label": 57
-    },
-    {
-        "text": "What qualifications and criteria should one meet for the AY 202*-202* Bicol University College Entrance Test?",
-        "label": 53
-    },
-    {
-        "text": "Can you elaborate on the courses available at the College of Social Sciences and Philosophy (CSSP)?",
-        "label": 35
-    },
-    {
-        "text": "Can you provide information on the amount for the BUCET application fee?",
-        "label": 10
-    },
-    {
-        "text": "That was really helpful, thank you.",
-        "label": 2
-    },
-    {
-        "text": "What are the courses available in the College of Science?",
-        "label": 34
-    },
-    {
-        "text": "Can you provide information on where I can procure the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "Could you list the courses that the College of Industrial Technology/(CIT)?",
-        "label": 45
-    },
-    {
-        "text": "How should I address the application process considering my parent is an overseas Filipino worker (OFW)?",
-        "label": 23
-    },
-    {
-        "text": "How much do I need to pay for the BUCET application fee?",
-        "label": 10
-    },
-    {
-        "text": "Would it be acceptable if the postage stamp exceeded 40 pesos?",
-        "label": 28
-    },
-    {
-        "text": "Could you elaborate on the proper method for submitting the BUCET requirements?",
-        "label": 51
-    },
-    {
-        "text": "Is it permissible to use a mailing stamp with a value greater than Php 50.00?",
-        "label": 28
-    },
-    {
-        "text": "Is it a requirement to submit Form 138 for both Grade 11 and Grade 12 admission reconsiderations?",
-        "label": 33
-    },
-    {
-        "text": "Could you list the courses that the College of Arts and Letters (CAL)?",
-        "label": 39
-    },
-    {
-        "text": "Will students have access to dropboxes at Bicol University's satellite campuses?",
-        "label": 32
+        "text": "Share some insights into the courses one can pursue at the Institute of Physical Education, Sports and Recreation (IPESR)",
+        "label": 43
     },
     {
         "text": "How can I make sure I retrieve the most updated version of the BUCET application form?",
         "label": 7
     },
     {
-        "text": "Do we need to dispatch the Chest X-ray film, Hepa B Screening Result, and Medical Certificate through mail or courier along with other requirements?",
-        "label": 30
-    },
-    {
-        "text": "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 admission inquiries?",
-        "label": 33
-    },
-    {
-        "text": "Do you have any details on when the BUCET results will be declared?",
-        "label": 55
-    },
-    {
-        "text": "I would like to know about the course offerings in the Bicol University Polangui",
+        "text": "I'm curious about the course options within the Bicol University Polangui",
         "label": 48
     },
     {
-        "text": "Where is the distribution point for the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "Can the postage stamp's value be higher than 40 pesos without any trouble?",
-        "label": 28
-    },
-    {
-        "text": "Could you provide instructions on how to make necessary corrections to a wrongly completed application form?",
-        "label": 13
-    },
-    {
-        "text": "Where can I attend in-person appointments to discuss BUCET concerns?",
-        "label": 26
-    },
-    {
-        "text": "How do I go about fixing errors in an application form that was inaccurately completed?",
-        "label": 13
-    },
-    {
-        "text": "Can I utilize my phone for the application process?",
-        "label": 57
-    },
-    {
-        "text": "Which academic fields are part of the test?",
-        "label": 54
-    },
-    {
-        "text": "Are we obligated to have a 4P's certificate for any official transactions or processes?",
-        "label": 24
-    },
-    {
-        "text": "Can you inform me about the protocol for making changes to the online-submitted picture?",
-        "label": 8
-    },
-    {
-        "text": "Is the 40 pesos stamp a requirement for mailing?",
-        "label": 27
-    },
-    {
-        "text": "Can the postage stamp's value be higher than 40 pesos without any concern?",
-        "label": 28
-    },
-    {
-        "text": "Is there a specific process for changing my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "I'm interested in exploring the BUCET test centers' geographical spread.",
-        "label": 56
-    },
-    {
-        "text": "Can you provide me with the deadline for providing all the documentary needs?",
-        "label": 9
-    },
-    {
-        "text": "Do we need to submit Form 138 for both Grade 11 and Grade 12 assessments?",
+        "text": "Is Form 138 (Report Card) required for both Grade 11 and Grade 12 registration?",
         "label": 33
     },
     {
-        "text": "How do I officially notify the organization about my desire to obtain and retrieve the BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "How much is the BUCET application fee for candidates from economically disadvantaged backgrounds?",
-        "label": 10
-    },
-    {
-        "text": "How will I be notified if I've successfully cleared the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Where can I find the official address for the BU admissions office for correspondence?",
-        "label": 18
-    },
-    {
-        "text": "Who can submit my BUCET application requirements?",
-        "label": 11
-    },
-    {
-        "text": "Could you list the courses that the BU Gubat Campus (BUGC)?",
-        "label": 38
-    },
-    {
-        "text": "What is the official amount set for the BUCET application fee?",
-        "label": 10
-    },
-    {
-        "text": "Thanks for your help.",
-        "label": 2
-    },
-    {
-        "text": "What is the correct way to claim my BUCET test permit?",
+        "text": "How do I formally request and claim my BUCET test permit?",
         "label": 15
     },
     {
-        "text": "What is the maximum acceptable value for the mailing stamp in Philippine pesos?",
-        "label": 21
+        "text": "Where should I go on campus to get the BUCET application form?",
+        "label": 5
     },
     {
-        "text": "What steps are required to qualify for the AY 202*-202* Bicol University College Entrance Test?",
-        "label": 53
+        "text": "What rights or privileges does a 4P's certificate grant to individuals or families?",
+        "label": 24
     },
     {
-        "text": "Can you guide me through the stages of submitting the BUCET requirements?",
+        "text": "Must Form 138 (Report Card) be submitted for both Grade 11 and Grade 12 admission eligibility?",
+        "label": 33
+    },
+    {
+        "text": "Name the subjects touched upon in the test.",
+        "label": 54
+    },
+    {
+        "text": "What is the fee structure for the BUCET application?",
+        "label": 10
+    },
+    {
+        "text": "Is it permissible for the postage stamp to be greater than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Is there an initiative to install dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "What's the standard practice for confirming success in the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "Is it a necessity to provide Form 138 for both Grade 11 and Grade 12 admission?",
+        "label": 33
+    },
+    {
+        "text": "Is it permissible for a representative to handle the submission of my BUCET application requirements?",
+        "label": 11
+    },
+    {
+        "text": "Is it within the limits if the mailing stamp is less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Can a sibling or family friend be designated to submit my BUCET application requirements?",
+        "label": 11
+    },
+    {
+        "text": "Can the application be completed on a mobile device?",
+        "label": 57
+    },
+    {
+        "text": "Do I need to adhere to the appointment date, even if it is beyond the initially scheduled deadline for the test center?",
+        "label": 17
+    },
+    {
+        "text": "Is there a recommended distance from the edge of the envelope for pasting the Php 50.00 mailing stamp?",
+        "label": 22
+    },
+    {
+        "text": "Is there a requirement to include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending materials via mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Could you explain the steps involved in editing the picture I submitted online?",
+        "label": 8
+    },
+    {
+        "text": "Can I claim an exemption from ITR submission if my parent or guardian qualifies as a senior citizen or PWD?",
+        "label": 25
+    },
+    {
+        "text": "Can the mailing stamp's value go beyond 40 pesos without trouble?",
+        "label": 28
+    },
+    {
+        "text": "Do I need to provide an ITR even if my parent or guardian qualifies as a senior citizen or PWD?",
+        "label": 25
+    },
+    {
+        "text": "Any insights on the process of checking BUCET pass status?",
+        "label": 52
+    },
+    {
+        "text": "What is the correct way to edit the photo I submitted online?",
+        "label": 8
+    },
+    {
+        "text": "What documents are compulsory for online submission?",
+        "label": 31
+    },
+    {
+        "text": "How does the BUCET 202*-202* application process differ for transfer students?",
+        "label": 50
+    },
+    {
+        "text": "Can you elaborate on the courses available at the Bicol University Polangui",
+        "label": 48
+    },
+    {
+        "text": "What is the recommended method for submitting my BUCET application documents?",
+        "label": 14
+    },
+    {
+        "text": "Where do I go to get postage stamps for sending mail?",
+        "label": 20
+    },
+    {
+        "text": "Elaborate on the necessary paperwork for online transactions.",
+        "label": 31
+    },
+    {
+        "text": "What is the recommended image format that should be used?",
+        "label": 19
+    },
+    {
+        "text": "What are the courses available in the Institute of Design and Architecture (IDeA)?",
+        "label": 40
+    },
+    {
+        "text": "Do we have to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when mailing or couriering the requirements?",
+        "label": 30
+    },
+    {
+        "text": "Where can I find information on how to address BUCET-related issues?",
+        "label": 26
+    },
+    {
+        "text": "Could you specify the deadline for the submission of all required documents?",
+        "label": 9
+    },
+    {
+        "text": "Provide a stepwise explanation of the BUCET requirements submission process.",
         "label": 51
     },
     {
@@ -1560,347 +1416,515 @@
         "label": 37
     },
     {
-        "text": "When is the final date for turning in all necessary documents?",
-        "label": 9
+        "text": "Could you share the steps involved in properly affixing the Php 50.00 mailing stamp?",
+        "label": 22
     },
     {
-        "text": "What is the prescribed image format for the submission in question?",
-        "label": 19
-    },
-    {
-        "text": "Where am I supposed to go to get the BUCET application form?",
-        "label": 5
-    },
-    {
-        "text": "What is the recommended action for individuals with appointment dates that surpass the test center's deadline?",
-        "label": 17
-    },
-    {
-        "text": "What is the street address and zip code for the BU admissions office?",
-        "label": 18
-    },
-    {
-        "text": "What's the official channel for confirming BUCET exam outcomes?",
+        "text": "How can I be certain about the outcome of my BUCET performance?",
         "label": 52
     },
     {
-        "text": "Can the postage stamp's value be higher than 40 pesos without issue?",
-        "label": 28
-    },
-    {
-        "text": "To which department should I address my concerns about BUCET?",
+        "text": "What is the official avenue for raising concerns about BUCET?",
         "label": 26
     },
     {
-        "text": "Is there a specific process in place for applicants to correct inaccuracies on their application forms?",
-        "label": 13
-    },
-    {
-        "text": "Provide a comprehensive list of online submission documents.",
+        "text": "Discuss the essential online document requirements.",
         "label": 31
     },
     {
-        "text": "If the appointment date falls beyond the scheduled deadline for the test center, is it still applicable?",
-        "label": 17
-    },
-    {
-        "text": "How early should I start preparing for BUCET 202*-202* application?",
-        "label": 50
-    },
-    {
-        "text": "Can the postage stamp's value go beyond 40 pesos without any objection?",
-        "label": 28
-    },
-    {
-        "text": "Are you a robot?",
-        "label": 3
-    },
-    {
-        "text": "Can you elaborate on the courses available at the BU Tabaco (BUTC?",
-        "label": 36
-    },
-    {
-        "text": "Must Form 138 (Report Card) be submitted for both Grade 11 and Grade 12 admission eligibility?",
-        "label": 33
-    },
-    {
-        "text": "What's the acceptance rate for applicants to BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Is there a specific way I should go about rescheduling my appointment date?",
-        "label": 6
-    },
-    {
-        "text": "How can I gain admission to BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Hello, is someone there?",
-        "label": 0
-    },
-    {
-        "text": "How do I ensure the secure and proper attachment of the Php 50.00 mailing stamp?",
-        "label": 22
-    },
-    {
-        "text": "Are there any documents or identification requirements for claiming my BUCET test permit?",
-        "label": 15
-    },
-    {
-        "text": "Is there a recommended distance from the edge of the envelope for pasting the Php 50.00 mailing stamp?",
-        "label": 22
-    },
-    {
-        "text": "How do I handle the submission of confidential or sealed documents for my BUCET application?",
-        "label": 14
-    },
-    {
-        "text": "Enumerate the test's topics matter for me.",
-        "label": 54
-    },
-    {
-        "text": "What's the timeline for applying to BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Can you inform me about the appeal process in case my request to correct a wrongly completed application form is denied?",
-        "label": 13
-    },
-    {
-        "text": "Can the postage stamp's value be higher than 40 pesos without any trouble?",
-        "label": 28
-    },
-    {
-        "text": "Can you guide me on the appropriate way to attach the Php 50.00 mailing stamp?",
-        "label": 22
-    },
-    {
-        "text": "Should Form 138 (Report Card) be presented for both Grade 11 and Grade 12 admission hurdles?",
-        "label": 33
-    },
-    {
-        "text": "Do we have to attach the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when mailing or couriering the requirements?",
-        "label": 30
-    },
-    {
-        "text": "Can you tell me where the BUCET application forms are available?",
-        "label": 5
-    },
-    {
-        "text": "Explain the necessary qualifications for taking the AY 202*-202* Bicol University College Entrance Test.",
-        "label": 53
-    },
-    {
-        "text": "I would like to know about the course offerings in the College of Arts and Letters (CAL)",
-        "label": 39
-    },
-    {
-        "text": "Are specifically designated dropboxes available specifically for students to submit their requirements specifically at the BU Main Campus?",
+        "text": "Are there plans to incorporate dropboxes into the satellite campuses of Bicol University?",
         "label": 32
     },
     {
-        "text": "Is the 40 pesos postage stamp mandatory for mailing?",
-        "label": 27
-    },
-    {
-        "text": "Provide information on the test's covered topics.",
-        "label": 54
-    },
-    {
-        "text": "Is the submission of an ITR compulsory for individuals with senior citizen or PWD parents or guardians?",
-        "label": 25
-    },
-    {
-        "text": "Is there an online application for BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Outline the protocol for turning in the BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "Detail the topics that the test addresses.",
-        "label": 54
-    },
-    {
-        "text": "Any advice on ensuring I passed the BUCET successfully?",
-        "label": 52
-    },
-    {
-        "text": "Must we submit Form 138 for both Grade 11 and Grade 12 admission applications?",
-        "label": 33
-    },
-    {
-        "text": "Is it permissible for the mailing stamp to be priced at more than 40 pesos?",
-        "label": 28
-    },
-    {
-        "text": "Clarify the specific steps needed for the successful submission of BUCET requirements.",
-        "label": 51
-    },
-    {
-        "text": "Should the mailed/couriered documents include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
-        "label": 30
-    },
-    {
-        "text": "Is the 40 pesos stamp essential for mailing?",
-        "label": 27
-    },
-    {
-        "text": "Is the acquisition of a 4P's certificate time-sensitive, and if so, what is the timeframe?",
-        "label": 24
-    },
-    {
-        "text": "State the mandatory online document criteria.",
-        "label": 31
-    },
-    {
-        "text": "Is the provision of dropboxes being considered for Bicol University's satellite campuses?",
-        "label": 32
-    },
-    {
-        "text": "Is Form 138 (Report Card) a requirement for both Grade 11 and Grade 12?",
-        "label": 33
-    },
-    {
-        "text": "Is there a process for reapplying if errors were made in the initial application form?",
-        "label": 12
-    },
-    {
-        "text": "What documentation is needed to meet the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test?",
-        "label": 53
-    },
-    {
-        "text": "What are the important dates for BUCET 202*-202* application?",
-        "label": 50
-    },
-    {
-        "text": "Is it possible to make changes to the photo I submitted online, and if so, how?",
-        "label": 8
-    },
-    {
-        "text": "Can you elaborate on the courses available at the Institute of Design and Architecture (IDeA)?",
-        "label": 40
-    },
-    {
-        "text": "What should I include in my personal statement for BUCET 202*-202*?",
-        "label": 50
-    },
-    {
-        "text": "Any recommendations on ensuring I successfully passed the BUCET?",
-        "label": 52
-    },
-    {
-        "text": "Where do I locate stamp vending machines for purchasing postage stamps?",
-        "label": 20
-    },
-    {
-        "text": "I'm curious about the course options within the College of Business, Economics and Management (CBEM)",
-        "label": 44
-    },
-    {
-        "text": "Where can i get or retrieve my BUCET application form?",
-        "label": 7
-    },
-    {
-        "text": "How to claim my BUCET test permit?",
-        "label": 15
-    },
-    {
-        "text": "Enumerate the online document prerequisites.",
-        "label": 31
-    },
-    {
-        "text": "Can you share any information on the release schedule for BUCET results?",
-        "label": 55
-    },
-    {
-        "text": "I'm searching for the BUCET test centers' exact positions.",
-        "label": 56
-    },
-    {
-        "text": "Can a school official or administrator submit my BUCET application requirements for me?",
-        "label": 11
-    },
-    {
-        "text": "Is the 40 pesos postage stamp obligatory?",
-        "label": 27
-    },
-    {
-        "text": "What is the protocol for addressing concerns related to BUCET accommodations?",
-        "label": 26
-    },
-    {
-        "text": "Should I honor the specified appointment date when selecting either option 1 or option 3?",
+        "text": "How does choosing option 1 or option 3 affect my obligation to the initial appointment date?",
         "label": 16
     },
     {
-        "text": "Do I need to provide an ITR if one of my parents or guardians qualifies as a senior citizen or PWD?",
-        "label": 25
+        "text": "Can you explain the online process for editing the picture submitted online?",
+        "label": 8
     },
     {
-        "text": "Can you provide information on the courses offered in the College of Dental Medicine/(CDM)?",
-        "label": 49
+        "text": "Is it permissible for the mailing stamp to be less than 40 pesos?",
+        "label": 29
     },
     {
-        "text": "If I filled out my application form incorrectly, can I submit a new one with the correct information?",
-        "label": 12
+        "text": "Detail the process of delivering the BUCET requirements for evaluation.",
+        "label": 51
     },
     {
-        "text": "Can you tell me when all the documentary requirements must be met?",
-        "label": 9
-    },
-    {
-        "text": "Who is allowed to act as a proxy for the submission of my BUCET application documents?",
-        "label": 11
-    },
-    {
-        "text": "What are the courses available in the College of Arts and Letters (CAL)?",
-        "label": 39
-    },
-    {
-        "text": "Time to go.",
-        "label": 1
-    },
-    {
-        "text": "Should the mailed/couriered documents include the Chest X-ray film, Hepa B Screening Result, and Medical Certificate?",
-        "label": 30
-    },
-    {
-        "text": "Is Form 138 (Report Card) required for both Grade 11 and Grade 12 admission aspects?",
-        "label": 33
-    },
-    {
-        "text": "Can you provide information on the courses offered in the Institute of Design and Architecture (IDeA)?",
-        "label": 40
-    },
-    {
-        "text": "What documents should be passed online?",
-        "label": 31
-    },
-    {
-        "text": "Can a classmate or peer be designated to submit my BUCET application requirements?",
-        "label": 11
-    },
-    {
-        "text": "Is there a problem if the mailing stamp used is more than Php 50.00 in value?",
+        "text": "What considerations should be taken into account when deciding on a mailing stamp value exceeding Php 50.00?",
         "label": 21
     },
     {
-        "text": "Is there a process for reapplying if errors are discovered in the initial application form?",
-        "label": 12
+        "text": "Enumerate the qualifications and prerequisites for the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
     },
     {
-        "text": "Can I be exempted from submitting an ITR if my parent or guardian is classified as a senior citizen or PWD?",
-        "label": 25
+        "text": "Are we obligated to have a 4P's certificate for any official transactions or processes?",
+        "label": 24
+    },
+    {
+        "text": "Could you clarify if there's a specific limit on the mailing stamp cost, especially in relation to Php 50.00?",
+        "label": 21
+    },
+    {
+        "text": "Do we have to provide Form 138 for both Grade 11 and Grade 12 admission processes?",
+        "label": 33
+    },
+    {
+        "text": "What kinds of technology used?",
+        "label": 3
+    },
+    {
+        "text": "What are the guidelines for designating someone to submit my BUCET application documents in my absence?",
+        "label": 11
+    },
+    {
+        "text": "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 admission requirements?",
+        "label": 33
+    },
+    {
+        "text": "Can I apply for BUCET 202*-202* if I have a disability or special needs?",
+        "label": 50
+    },
+    {
+        "text": "Are there discussions about the implementation of dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "What steps should I take to rescheduled the date of my scheduled appointment?",
+        "label": 6
+    },
+    {
+        "text": "Explain the qualifications and criteria for eligibility in the AY 202*-202* Bicol University College Entrance Test.",
+        "label": 53
+    },
+    {
+        "text": "Can you provide information on the courses offered in the College of Industrial Technology/(CIT)?",
+        "label": 45
+    },
+    {
+        "text": "Is there a plan to implement dropboxes for Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Could you inform me about the expected release date of BUCET results?",
+        "label": 55
+    },
+    {
+        "text": "Can the application process be done on a smartphone?",
+        "label": 57
+    },
+    {
+        "text": "What is the proper way to initiate the submission of BUCET requirements?",
+        "label": 51
+    },
+    {
+        "text": "Are there any specific requirements or regulations for pasting the Php 50.00 mailing stamp on official documents?",
+        "label": 22
+    },
+    {
+        "text": "Is it a requirement to pass Form 138 for both Grade 11 and Grade 12 admission formalities?",
+        "label": 33
+    },
+    {
+        "text": "Could you tell me the cities where the BUCET test centers are established?",
+        "label": 56
+    },
+    {
+        "text": "What's the standard practice for confirming success in the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "Enlighten me on the procedural details of submitting the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "How do I know if I passed the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "What documentation or information do I need to provide to correct a wrongly completed application form?",
+        "label": 13
+    },
+    {
+        "text": "What is the policy on delegating the submission of BUCET application documents to someone else?",
+        "label": 11
     },
     {
         "text": "Share the requisite online documentation criteria.",
         "label": 31
     },
     {
-        "text": "What are the eligibility criteria for the AY 202*-202* Bicol University College Entrance Test?",
+        "text": "Could you provide information about the courses offered at BU?",
+        "label": 58
+    },
+    {
+        "text": "Is there a specific website or platform for claiming the BUCET test permit?",
+        "label": 15
+    },
+    {
+        "text": "Can the mailing stamp amount be below 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "I'm interested in learning about the available courses in the College of Social Sciences and Philosophy (CSSP)",
+        "label": 35
+    },
+    {
+        "text": "Can you guide me through the steps to modify the picture I submitted online?",
+        "label": 8
+    },
+    {
+        "text": "Can you provide information on the courses offered in the College of Business, Economics and Management/(CBEM)?",
+        "label": 44
+    },
+    {
+        "text": "If I mistakenly filled out my application form, what steps should I take to reapply?",
+        "label": 12
+    },
+    {
+        "text": "What documentation is required to qualify for the AY 202*-202* Bicol University College Entrance Test?",
         "label": 53
+    },
+    {
+        "text": "Are there any plans to set up drop-off points in Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Is it acceptable for the mailing stamp to cost more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Can you provide information on where I can go to buy a mailing stamp?",
+        "label": 20
+    },
+    {
+        "text": "Share some insights into the courses one can pursue at the College of Science.",
+        "label": 34
+    },
+    {
+        "text": "Are specifically designated dropboxes available specifically for students to submit their requirements specifically at the BU Main Campus?",
+        "label": 32
+    },
+    {
+        "text": "Is it mandatory to pass Form 138 for both Grade 11 and Grade 12 admission approvals?",
+        "label": 33
+    },
+    {
+        "text": "Clarify the academic disciplines addressed by the test.",
+        "label": 54
+    },
+    {
+        "text": "Please share details about the courses present in the College of Dental Medicine (CDM)",
+        "label": 49
+    },
+    {
+        "text": "I'm wondering where the designated test centers for the BUCET are.",
+        "label": 56
+    },
+    {
+        "text": "When can we expect to receive information about the BUCET results?",
+        "label": 55
+    },
+    {
+        "text": "If I select option 1 or option 3, is it advisable to stick to my originally scheduled appointment date?",
+        "label": 16
+    },
+    {
+        "text": "Are there any guidelines or regulations for pasting the Php 50.00 mailing stamp?",
+        "label": 22
+    },
+    {
+        "text": "How do I navigate the system to edit the online-submitted picture?",
+        "label": 8
+    },
+    {
+        "text": "What do I need to do to reschedule my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Is it okay if the mailing stamp amount is less than 40 pesos?",
+        "label": 29
+    },
+    {
+        "text": "Specify the subjects addressed in the test.",
+        "label": 54
+    },
+    {
+        "text": "What standards should one meet to qualify for the AY 202*-202* Bicol University College Entrance Test?",
+        "label": 53
+    },
+    {
+        "text": "Can students specifically find designated dropboxes specifically for requirements specifically at the BU Main Campus?",
+        "label": 32
+    },
+    {
+        "text": "In the scenario where my parent/s is/are overseas Filipino workers (OFW), what documentation is necessary?",
+        "label": 23
+    },
+    {
+        "text": "Is there a specific process for changing my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "How does having a 4P's certificate impact eligibility for educational assistance programs?",
+        "label": 24
+    },
+    {
+        "text": "If I made errors on my application form, can I submit a revised application?",
+        "label": 12
+    },
+    {
+        "text": "Is there a specific day when the BUCET results are expected to come out?",
+        "label": 55
+    },
+    {
+        "text": "Can you provide details on the address of the BU admissions office for in-person inquiries?",
+        "label": 18
+    },
+    {
+        "text": "Hello, how are you?",
+        "label": 0
+    },
+    {
+        "text": "Can the postage stamp go beyond 40 pesos in value without any trouble?",
+        "label": 28
+    },
+    {
+        "text": "Is there a plan to introduce dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Could you list the courses that the Jesse M. Robredo Institute of Governance and Development (JMRIGD)?",
+        "label": 42
+    },
+    {
+        "text": "Is there a specific protocol for applicants to follow in order to claim their BUCET test permits?",
+        "label": 15
+    },
+    {
+        "text": "Detail the mandatory online submission lineup.",
+        "label": 31
+    },
+    {
+        "text": "Clarify the protocol for turning in the BUCET requirements for evaluation.",
+        "label": 51
+    },
+    {
+        "text": "If I filled out my application form incorrectly, can I submit a new one with the correct information?",
+        "label": 12
+    },
+    {
+        "text": "Is it within the rules for the postage stamp to be valued at more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Where can I find the contact information for addressing BUCET concerns?",
+        "label": 26
+    },
+    {
+        "text": "Can the postage stamp's value go beyond 40 pesos without any objection?",
+        "label": 28
+    },
+    {
+        "text": "Share tips on meeting the AY 202*-202* Bicol University College Entrance Test qualification criteria.",
+        "label": 53
+    },
+    {
+        "text": "What measures can I take to correct a wrongly filled application form?",
+        "label": 13
+    },
+    {
+        "text": "Does the tax obligation change based on the senior citizen or PWD status of my parent or guardian?",
+        "label": 25
+    },
+    {
+        "text": "Can you specify the courses offered by Bicol University?",
+        "label": 58
+    },
+    {
+        "text": "Are there specific guidelines for checking if I passed the BUCET?",
+        "label": 52
+    },
+    {
+        "text": "What are the courses available in the College of Social Sciences and Philosophy (CSSP)?",
+        "label": 35
+    },
+    {
+        "text": "Is there a specific fee associated with the BUCET application, and if so, how much is it?",
+        "label": 10
+    },
+    {
+        "text": "Thank you, that was helpful",
+        "label": 2
+    },
+    {
+        "text": "I'm curious about the course options within the College of Science.",
+        "label": 34
+    },
+    {
+        "text": "Where do applicants go to receive the BUCET application form?",
+        "label": 5
+    },
+    {
+        "text": "Is mobile application submission an option?",
+        "label": 57
+    },
+    {
+        "text": "In the case of my parent being an overseas Filipino worker (OFW), what specific documents should I submit?",
+        "label": 23
+    },
+    {
+        "text": "What is the total amount I need to pay as the application fee for the BUCET?",
+        "label": 10
+    },
+    {
+        "text": "Can we use a mailing stamp that costs more than Php 50.00, or is it against the guidelines?",
+        "label": 28
+    },
+    {
+        "text": "How does one go about submitting the BUCET requirements?",
+        "label": 51
+    },
+    {
+        "text": "Can you provide details for the payment of the BUCET application fee?",
+        "label": 10
+    },
+    {
+        "text": "I'm interested in learning about the available courses in the College of Engineering (CENG)",
+        "label": 47
+    },
+    {
+        "text": "Would there be any objection to the postage stamp being more than 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Do we have to provide Form 138 for both Grade 11 and Grade 12?",
+        "label": 33
+    },
+    {
+        "text": "What courses does the College of Arts and Letters (CAL) feature in its curriculum?",
+        "label": 39
+    },
+    {
+        "text": "Will students have access to dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Is there a specific department or contact I should reach out to for retrieving the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "Can you inform me about the process of verifying BUCET results?",
+        "label": 52
+    },
+    {
+        "text": "Is it required to enclose the Chest X-ray film, Hepa B Screening Result, and Medical Certificate when sending documents via mail or courier?",
+        "label": 30
+    },
+    {
+        "text": "Is it a necessity to submit Form 138 for both Grade 11 and Grade 12 admission guidelines?",
+        "label": 33
+    },
+    {
+        "text": "Could you point me in the right direction to acquire a mailing stamp?",
+        "label": 20
+    },
+    {
+        "text": "Any insights on the process of checking BUCET exam pass status?",
+        "label": 52
+    },
+    {
+        "text": "Where do the BUCET test centers exist?",
+        "label": 56
+    },
+    {
+        "text": "Where can I find the BUCET application form?",
+        "label": 5
+    },
+    {
+        "text": "Is there a problem if the mailing stamp's value goes beyond 40 pesos?",
+        "label": 28
+    },
+    {
+        "text": "Is there a specific process in place for applicants to correct inaccuracies on their application forms?",
+        "label": 13
+    },
+    {
+        "text": "Elaborate on the submission process for the BUCET requirements.",
+        "label": 51
+    },
+    {
+        "text": "Where can I find the FAQ section for addressing common BUCET concerns?",
+        "label": 26
+    },
+    {
+        "text": "How can I go about making corrections to an application form that I filled out incorrectly?",
+        "label": 13
+    },
+    {
+        "text": "Would it be acceptable if the mailing stamp we use is more than Php 50.00?",
+        "label": 21
+    },
+    {
+        "text": "Is there a plan to introduce dropboxes at Bicol University's satellite campuses?",
+        "label": 32
+    },
+    {
+        "text": "Do you have any details on when the BUCET results will be declared?",
+        "label": 55
+    },
+    {
+        "text": "What specific government initiatives or policies mandate the possession of a 4P's certificate?",
+        "label": 24
+    },
+    {
+        "text": "How do I access the editing feature for the online-submitted picture?",
+        "label": 8
+    },
+    {
+        "text": "When is the release date for the BUCET results?",
+        "label": 55
+    },
+    {
+        "text": "Is there a separate application fee for BUCET 202*-202*?",
+        "label": 50
+    },
+    {
+        "text": "What is the reason for using a 40-peso mailing stamp in submitting documents?",
+        "label": 27
+    },
+    {
+        "text": "Is there any objection to the postage stamp exceeding the 40 pesos limit?",
+        "label": 28
+    },
+    {
+        "text": "Can you provide guidance on the proper way to change my appointment date?",
+        "label": 6
+    },
+    {
+        "text": "Enlighten me on the various courses that the College of Dental Medicine (CDM)",
+        "label": 49
+    },
+    {
+        "text": "Is there a specific timeline by which all documentary requirements must be submitted?",
+        "label": 9
+    },
+    {
+        "text": "Do we have to pass Form 138 for both Grade 11 and Grade 12 admission qualifications?",
+        "label": 33
+    },
+    {
+        "text": "Could you please elaborate on the procedure for obtaining the BUCET application form?",
+        "label": 7
+    },
+    {
+        "text": "Can you inform me about the processing fee for the BUCET application?",
+        "label": 10
+    },
+    {
+        "text": "Can I apply for BUCET 202*-202* if I'm a high school student?",
+        "label": 50
     }
 ]
