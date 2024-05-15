@@ -15,7 +15,7 @@ names_files = {
     'id2label': 'id2label.json',
     'label2id': 'label2id.json'
 }
-name_trained_model = 'my_model_recorded_weightedclass_epoch_15'
+name_trained_model = 'my_model'
 
 
 paths = dict()

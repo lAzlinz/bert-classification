@@ -62,7 +62,7 @@ def compute_metrics(eval_pred):
     }
 
     # -- record report ---------------------------------
-    path_file: str = './reports/my_model_recorded_weightedclass_epoch_15'
+    path_file: str = './record/my_model'
     try:
         with open(path_file, 'r') as file:
             old_data: list[dir] = json.load(file)
