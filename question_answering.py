@@ -17,11 +17,11 @@ def json_opener(path: str):
         return json.load(file)
 
 # names
-name_trained_model: str = 'my_model_recorded_weightedclass_epoch_15'
-checkpoint: str = 'checkpoint-1344' # chechpoint-1344 is epoch 14
+name_trained_model: str = 'my_model'
+checkpoint: str = '970' # chechpoint-1344 is epoch 14
 
 # paths
-path_trained_model: str = './models/{}/{}'.format(name_trained_model, checkpoint) 
+path_trained_model: str = f'./models/{name_trained_model}/checkpoint-{checkpoint}' 
 path_answers: str = './datasets/answers.json'
 
 # variables
