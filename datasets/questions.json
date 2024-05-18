@@ -1,0 +1,307 @@
+[
+    {
+        "label": "greeting",
+        "questions": [
+            "Did you mean to greet me hello?",
+            "Did you mean to say hi?",
+            "Were you trying to say a greeting?"
+        ]
+    },
+    {
+        "label": "goodbye",
+        "questions": [
+            "Did you mean to say goodbye?",
+            "Did you mean 'goodbye'?",
+            "Did you want to bid farewell?"
+        ]
+    },
+    {
+        "label": "thanks",
+        "questions": [
+            "Did you mean to thank me?",
+            "Did you want to say thanks?",
+            "Did you mean you want to say thank you?"
+        ]
+    },
+    {
+        "label": "items",
+        "questions": [
+        ]
+    },
+    {
+        "label": "funny",
+        "questions": [
+        ]
+    },
+    {
+        "label": "form",
+        "questions": [
+        ]
+    },
+    {
+        "label": "reschedule",
+        "questions": [
+        ]
+    },
+    {
+        "label": "retrieve",
+        "questions": [
+        ]
+    },
+    {
+        "label": "edit",
+        "questions": [
+        ]
+    },
+    {
+        "label": "deadline",
+        "questions": [
+        ]
+    },
+    {
+        "label": "fee",
+        "questions": [
+        ]
+    },
+    {
+        "label": "authorized personnel",
+        "questions": [
+        ]
+    },
+    {
+        "label": "reapply",
+        "questions": [
+        ]
+    },
+    {
+        "label": "correcting",
+        "questions": [
+        ]
+    },
+    {
+        "label": "submit",
+        "questions": [
+        ]
+    },
+    {
+        "label": "claim",
+        "questions": [
+        ]
+    },
+    {
+        "label": "appointment",
+        "questions": [
+        ]
+    },
+    {
+        "label": "follow",
+        "questions": [
+        ]
+    },
+    {
+        "label": "address",
+        "questions": [
+        ]
+    },
+    {
+        "label": "format",
+        "questions": [
+        ]
+    },
+    {
+        "label": "mailing stamp",
+        "questions": [
+        ]
+    },
+    {
+        "label": "exceed",
+        "questions": [
+        ]
+    },
+    {
+        "label": "paste",
+        "questions": [
+        ]
+    },
+    {
+        "label": "ofw",
+        "questions": [
+        ]
+    },
+    {
+        "label": "4P's certificate",
+        "questions": [
+        ]
+    },
+    {
+        "label": "guardian",
+        "questions": [
+        ]
+    },
+    {
+        "label": "concerns",
+        "questions": [
+        ]
+    },
+    {
+        "label": "purpose",
+        "questions": [
+        ]
+    },
+    {
+        "label": "more than",
+        "questions": [
+        ]
+    },
+    {
+        "label": "less than",
+        "questions": [
+        ]
+    },
+    {
+        "label": "medical",
+        "questions": [
+        ]
+    },
+    {
+        "label": "requirements",
+        "questions": [
+        ]
+    },
+    {
+        "label": "satellite",
+        "questions": [
+        ]
+    },
+    {
+        "label": "form 138",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CS",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CSSP",
+        "questions": [
+        ]
+    },
+    {
+        "label": "BUTC",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CE",
+        "questions": [
+        ]
+    },
+    {
+        "label": "BUGC",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CAL",
+        "questions": [
+        ]
+    },
+    {
+        "label": "IDeA",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CN",
+        "questions": [
+        ]
+    },
+    {
+        "label": "JMRIGD",
+        "questions": [
+        ]
+    },
+    {
+        "label": "IPESR",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CBEM",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CIT",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CENG",
+        "questions": [
+        ]
+    },
+    {
+        "label": "BUCAF",
+        "questions": [
+        ]
+    },
+    {
+        "label": "BUPC",
+        "questions": [
+        ]
+    },
+    {
+        "label": "CDM",
+        "questions": [
+        ]
+    },
+    {
+        "label": "general requirements",
+        "questions": [
+        ]
+    },
+    {
+        "label": "submitting requirements",
+        "questions": [
+        ]
+    },
+    {
+        "label": "announcement",
+        "questions": [
+            "Did you mean to ask about the announcements..."
+        ]
+    },
+    {
+        "label": "qualification",
+        "questions": [
+            "Did you mean to ask about qualifications..."
+        ]
+    },
+    {
+        "label": "topics",
+        "questions": [
+            "Were you asking what topics..."
+        ]
+    },
+    {
+        "label": "date of release",
+        "questions": [
+            "Did you ask about the release date of the exam results?"
+        ]
+    },
+    {
+        "label": "test centers",
+        "questions": [
+            "Did you mean to ask the locations of the test centers?"
+        ]
+    },
+    {
+        "label": "mobile phone",
+        "questions": [
+            "Were you asking if you can use mobile phones during the exams?"
+        ]
+    }
+]
