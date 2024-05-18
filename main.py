@@ -9,8 +9,9 @@ from my_names import paths
 from my_trainer import CustomTrainer
 
 MAX_LENGTH: int = 512
-num_train_epochs: int = 15
-batch_size: int = 16
+num_train_epochs: int = 10
+train_batch_size: int = 16
+eval_batch_size: int = 64
 
 dataset = load_dataset("json", data_files={'train': paths['train'], 'eval': paths['eval']})
 tokenizer = AutoTokenizer.from_pretrained(paths['pretrained_model'])
@@ -83,6 +84,7 @@ def compute_metrics(eval_pred):
 label2id = json_opener(paths['label2id'])
 id2label = id2label_opener()
 num_labels = len(label2id)
+print(num_labels)
 # id2label = {0: "NEGATIVE", 1: "POSITIVE"}
 # label2id = {"NEGATIVE": 0, "POSITIVE": 1}
 
@@ -96,8 +98,8 @@ model = AutoModelForSequenceClassification.from_pretrained(
 training_args = TrainingArguments(
     output_dir=paths['trained_model'],
     learning_rate=2e-5,
-    per_device_train_batch_size=batch_size,
-    per_device_eval_batch_size=batch_size,
+    per_device_train_batch_size=train_batch_size,
+    per_device_eval_batch_size=eval_batch_size,
     num_train_epochs=num_train_epochs,
     weight_decay=0.01,
     evaluation_strategy="epoch",
