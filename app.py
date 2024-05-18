@@ -1,11 +1,17 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 import re
-from question_answering import get_answer, classifier
+from new_question_answering import get_result
 
-def add_links(response):
+def add_links(result):
 	link_pattern: str = r'(https?://[A-Za-z0-9/_\.\-]+)'
 	replacement: str = r'<a href="\1">\1</a>'
-	return re.sub(link_pattern, replacement, response)
+	result = {
+		'score': result['score'],
+		'question': result['question'],
+		'answer': re.sub(link_pattern, replacement, result['answer'])
+	}
+	
+	return result
 
 bot_name = "chatBUt-NLP"
 
@@ -19,12 +25,12 @@ def home():
 def app_function():
 	return render_template('app.html')
 
-@app.route('/get')
+@app.route('/ajax_endpoint', methods=['POST'])
 def get_bot_response():
-	user_text = request.args.get('msg')
-	answer: str = get_answer(user_text)
-	answer = add_links(answer)
-	return answer
+	user_text = request.form['question']
+	result: str = get_result(user_text)
+	result = add_links(result)
+	return jsonify(result)
 
 @app.route('/test')
 def get_user_message():

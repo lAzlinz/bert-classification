@@ -26,10 +26,19 @@ toggle.addEventListener('click', () => {
 const textbox = document.getElementById('textbox');
 const buttonContainer = document.getElementById('buttons-container');
 const buttons = buttonContainer.querySelectorAll('button');
-const sendBtn = document.getElementById('send-button');
 const intro = document.querySelector('.intro');
 const chatbox = document.querySelector('main');
 const chatMessages = document.querySelector('.convo-wrapper');
+
+var forConfirmation = false;
+var storedAnswer = "";
+const yesList = ['y', 'yes', 'yeah', 'yup', 'sure'];
+const noList = ['n', 'no', 'nope', 'nah'];
+var MINIMUM_SCORE_THRESHOLD = 0.2;
+
+$(document).ready(function() {
+	$('#send-button').click(sendMessage);
+});
 
 textbox.addEventListener("input", (e) => {
 	if (textbox.value.trim() === "") {
@@ -43,61 +52,67 @@ textbox.addEventListener('input', function() {
 	this.rows = this.value.split('\n').length;
 });
 
-sendBtn.addEventListener('click', sendMessage);
 
 textbox.addEventListener("keydown", (event) => {
 	if(event.key != 'Enter') return;
 	if(event.shiftKey) return;
 	event.preventDefault();
-	sendBtn.click()
+	$('#send-button').trigger('click');
 });
 
 buttons.forEach(function(button) {
 	button.addEventListener('click', () => {
 		textbox.value = button.textContent;
-		sendBtn.click();
+		$('#send-button').trigger('click');
 	});
 });
 
 // functions
 function sendMessage() {
-	let message = trimPreserveNewlines(textbox.value);
+	let question = trimPreserveNewlines($('#textbox').val());
 	
-	if (message.length != 0) {
+	if (question.length != 0) {
 		// do sending of message here
-		let userLi = createUserChat(message);
+		let userLi = createUserChat(question);
 		chatMessages.appendChild(userLi);
 		smoothScrollToBottom(chatbox, 1);
-		let botLi, delay = 500;
+		let delay = 500;
 		
-		// create the response
-		$.when(
-			$.get("/get", {msg: message}, function(response_message){
-				botLi = createBotChat(response_message);
-				delay += response_message.length / 2;
-			})
-		).then(function() {
-			setTimeout(function() {
-				chatMessages.appendChild(botLi);
+		setTimeout(function() {
+			if (forConfirmation) {
+				let confirmation = question;
+				console.log(confirmation);
+				let message = 'That is an invalid confirmation. Please confirm again.';
+				if (yesList.some(substring => confirmation.includes(substring.toLowerCase()))) {
+					message = storedAnswer;
+					forConfirmation = false;
+				} else if (noList.some(substring => confirmation.includes(substring.toLowerCase()))) {
+					message = 'Please modify your question and ask again.';
+					forConfirmation = false;
+				}
+				chatMessages.append(createBotChat(message));
 				smoothScrollToBottom(chatbox, 1);
-			}, delay);
-		})
-		// setTimeout(function() {
-		// 	$.post("/get", {msg: message}, function(result) {
-		// 		if (result.score < 0.4) {
-
-		// 		} else {
-		// 			botLi = createBotChat(result.)
-		// 		}
-		// 	});
-		// })
-
+			} else {
+				$.post('/ajax_endpoint', {'question': question}, process_result);
+			}
+		}, delay);
 		buttonContainer.classList.add('hidden');
 		chatbox.classList.remove('hidden');
 		intro.classList.add('hidden');
+		resetTextbox();
 	}
-	
-	resetTextbox();
+}
+
+function process_result(result) {
+	storedAnswer = result.answer;
+
+	if (result.score < MINIMUM_SCORE_THRESHOLD) {
+		chatMessages.append(createBotChat(result.question));
+		forConfirmation = true;
+	} else {
+		chatMessages.append(createBotChat(storedAnswer));
+	}
+	smoothScrollToBottom(chatbox, 1);
 }
 
 function resetTextbox() {
