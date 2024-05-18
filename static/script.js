@@ -31,15 +31,6 @@ const intro = document.querySelector('.intro');
 const chatbox = document.querySelector('main');
 const chatMessages = document.querySelector('.convo-wrapper');
 
-
-// textbox.addEventListener("focusin", () => {
-// 	console.log('meh');
-// });
-
-// textbox.addEventListener("focusout", () => {
-// 	console.log('moh');
-// });
-
 textbox.addEventListener("input", (e) => {
 	if (textbox.value.trim() === "") {
 		buttonContainer.classList.remove('hidden');
@@ -58,13 +49,13 @@ textbox.addEventListener("keydown", (event) => {
 	if(event.key != 'Enter') return;
 	if(event.shiftKey) return;
 	event.preventDefault();
-	clickBtn(sendBtn);
+	sendBtn.click()
 });
 
 buttons.forEach(function(button) {
 	button.addEventListener('click', () => {
 		textbox.value = button.textContent;
-		clickBtn(sendBtn);
+		sendBtn.click();
 	});
 });
 
@@ -91,6 +82,15 @@ function sendMessage() {
 				smoothScrollToBottom(chatbox, 1);
 			}, delay);
 		})
+		// setTimeout(function() {
+		// 	$.post("/get", {msg: message}, function(result) {
+		// 		if (result.score < 0.4) {
+
+		// 		} else {
+		// 			botLi = createBotChat(result.)
+		// 		}
+		// 	});
+		// })
 
 		buttonContainer.classList.add('hidden');
 		chatbox.classList.remove('hidden');
