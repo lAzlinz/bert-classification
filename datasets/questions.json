@@ -26,246 +26,295 @@
     {
         "label": "items",
         "questions": [
+            "Did you mean to ask about who or what am I?"
         ]
     },
     {
         "label": "funny",
         "questions": [
+            "Were you asking me to tell you a joke?"
         ]
     },
     {
         "label": "form",
         "questions": [
+            "Did you mean to ask about the form..."
         ]
     },
     {
         "label": "reschedule",
         "questions": [
+            "Did you mean to ask how you can reschedule your appointment date?"
         ]
     },
     {
         "label": "retrieve",
         "questions": [
+            "Were you asking about retrieval..."
         ]
     },
     {
         "label": "edit",
         "questions": [
+            "Were you asking how you can edit..."
         ]
     },
     {
         "label": "deadline",
         "questions": [
+            "Did you mean to ask about the deadline of submission..."
         ]
     },
     {
         "label": "fee",
         "questions": [
+            "Were you asking about the fee..."
         ]
     },
     {
         "label": "authorized personnel",
         "questions": [
+            "Were you asking who are authorized to send your requirements..."
         ]
     },
     {
         "label": "reapply",
         "questions": [
+            "Were you asking for how to reapply..."
         ]
     },
     {
         "label": "correcting",
         "questions": [
+            "Were you asking how to correct..."
         ]
     },
     {
         "label": "submit",
         "questions": [
+            "Were you asking how to submit..."
         ]
     },
     {
         "label": "claim",
         "questions": [
+            "Were you asking how to claim..."
         ]
     },
     {
         "label": "appointment",
         "questions": [
+            "Were you asking about the appointment..."
         ]
     },
     {
         "label": "follow",
         "questions": [
+            "Did you mean follow..."
         ]
     },
     {
         "label": "address",
         "questions": [
+            "Did you mean address..."
         ]
     },
     {
         "label": "format",
         "questions": [
+            "Did you mean format..."
         ]
     },
     {
         "label": "mailing stamp",
         "questions": [
+            "Did you mean mailing stamp..."
         ]
     },
     {
         "label": "exceed",
         "questions": [
+            "Did you mean exceed..."
         ]
     },
     {
         "label": "paste",
         "questions": [
+            "Did you mean paste..."
         ]
     },
     {
         "label": "ofw",
         "questions": [
+            "Did you mean ofw..."
         ]
     },
     {
         "label": "4P's certificate",
         "questions": [
+            "Did you mean 4P's certificate..."
         ]
     },
     {
         "label": "guardian",
         "questions": [
+            "Did you mean guardian..."
         ]
     },
     {
         "label": "concerns",
         "questions": [
+            "Did you mean concerns..."
         ]
     },
     {
         "label": "purpose",
         "questions": [
+            "Did you mean purpose..."
         ]
     },
     {
         "label": "more than",
         "questions": [
+            "Did you mean more than..."
         ]
     },
     {
         "label": "less than",
         "questions": [
+            "Did you mean less than..."
         ]
     },
     {
         "label": "medical",
         "questions": [
+            "Did you mean medical..."
         ]
     },
     {
         "label": "requirements",
         "questions": [
+            "Did you mean requirements..."
         ]
     },
     {
         "label": "satellite",
         "questions": [
+            "Did you mean satellite..."
         ]
     },
     {
         "label": "form 138",
         "questions": [
+            "Did you mean form 138..."
         ]
     },
     {
         "label": "CS",
         "questions": [
+            "Did you mean CS..."
         ]
     },
     {
         "label": "CSSP",
         "questions": [
+            "Did you mean CSSP..."
         ]
     },
     {
         "label": "BUTC",
         "questions": [
+            "Did you mean BUTC..."
         ]
     },
     {
         "label": "CE",
         "questions": [
+            "Did you mean CE..."
         ]
     },
     {
         "label": "BUGC",
         "questions": [
+            "Did you mean BUGC..."
         ]
     },
     {
         "label": "CAL",
         "questions": [
+            "Did you mean CAL..."
         ]
     },
     {
         "label": "IDeA",
         "questions": [
+            "Did you mean IDeA..."
         ]
     },
     {
         "label": "CN",
         "questions": [
+            "Did you mean CN..."
         ]
     },
     {
         "label": "JMRIGD",
         "questions": [
+            "Did you mean JMRIGD..."
         ]
     },
     {
         "label": "IPESR",
         "questions": [
+            "Did you mean IPESR..."
         ]
     },
     {
         "label": "CBEM",
         "questions": [
+            "Did you mean CBEM..."
         ]
     },
     {
         "label": "CIT",
         "questions": [
+            "Did you mean CIT..."
         ]
     },
     {
         "label": "CENG",
         "questions": [
+            "Did you mean CENG..."
         ]
     },
     {
         "label": "BUCAF",
         "questions": [
+            "Did you mean BUCAF..."
         ]
     },
     {
         "label": "BUPC",
         "questions": [
+            "Did you mean BUPC..."
         ]
     },
     {
         "label": "CDM",
         "questions": [
+            "Did you mean CDM..."
         ]
     },
     {
         "label": "general requirements",
         "questions": [
+            "Did you mean general requirements..."
         ]
     },
     {
         "label": "submitting requirements",
         "questions": [
+            "Did you mean submitting requirements..."
         ]
     },
     {
