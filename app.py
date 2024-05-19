@@ -45,6 +45,6 @@ hosts: dict[str] = {
 
 if __name__ == '__main__':
 	app.run(
-		host=['all'],
+		host=hosts['all'],
 		debug=True
 	)
