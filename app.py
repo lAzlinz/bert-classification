@@ -39,11 +39,12 @@ def get_user_message():
 hosts: dict[str] = {
 	'BUWifiPortal': '172.16.7.38',
 	'3rdFloor': '10.0.1.62', # 10.0.1.205
-	'localhost': 'localhost'
+	'localhost': 'localhost',
+	'all': '0.0.0.0'
 }
 
 if __name__ == '__main__':
 	app.run(
-		host=hosts['3rdFloor'],
+		host=['all'],
 		debug=True
 	)
