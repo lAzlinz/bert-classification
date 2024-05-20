@@ -38,7 +38,7 @@
     {
         "label": "form",
         "questions": [
-            "Did you mean to ask about the form..."
+            "Did you mean to ask about where you can get the BUCET form?"
         ]
     },
     {
@@ -50,289 +50,289 @@
     {
         "label": "retrieve",
         "questions": [
-            "Were you asking about retrieval..."
+            "Were you asking about how to access or retrieve the BUCET application form online?"
         ]
     },
     {
         "label": "edit",
         "questions": [
-            "Were you asking how you can edit..."
+            "Did you mean to ask about how to edit the online submitted picture?"
         ]
     },
     {
         "label": "deadline",
         "questions": [
-            "Did you mean to ask about the deadline of submission..."
+            "Did you mean to ask about the deadline for submission of requirements?"
         ]
     },
     {
         "label": "fee",
         "questions": [
-            "Were you asking about the fee..."
+            "Were you asking how much is the fee for BUCET application?"
         ]
     },
     {
         "label": "authorized personnel",
         "questions": [
-            "Were you asking who are authorized to send your requirements..."
+            "Were you asking who are authorized to send your requirements on your behalf?"
         ]
     },
     {
         "label": "reapply",
         "questions": [
-            "Were you asking for how to reapply..."
+            "Were you asking whether to re-apply if thhere are erros made in the application form?"
         ]
     },
     {
         "label": "correcting",
         "questions": [
-            "Were you asking how to correct..."
+            "Were you asking how you can correct errors in your application form?"
         ]
     },
     {
         "label": "submit",
         "questions": [
-            "Were you asking how to submit..."
+            "Were you asking about how to submit the requirements?"
         ]
     },
     {
         "label": "claim",
         "questions": [
-            "Were you asking how to claim..."
+            "Were you asking how to claim the test permits?"
         ]
     },
     {
         "label": "appointment",
         "questions": [
-            "Were you asking about the appointment..."
+            "Were you asking about the options regarding the appointment date?"
         ]
     },
     {
         "label": "follow",
         "questions": [
-            "Did you mean follow..."
+            "Did you mean to know if you need to follow the schedule despite the deadline for your testing center has already passed?"
         ]
     },
     {
         "label": "address",
         "questions": [
-            "Did you mean address..."
+            "Did you mean to ask about the location or physical address of the BU Admissions Office?"
         ]
     },
     {
         "label": "format",
         "questions": [
-            "Did you mean format..."
+            "Did you mean to ask about the format of the picture for the requirements?"
         ]
     },
     {
         "label": "mailing stamp",
         "questions": [
-            "Did you mean mailing stamp..."
+            "Did you mean to ask the location to get the mailing stamps?"
         ]
     },
     {
         "label": "exceed",
         "questions": [
-            "Did you mean exceed..."
+            "Did you mean to ask about mailing stamp worth more tha 50 pesos?"
         ]
     },
     {
         "label": "paste",
         "questions": [
-            "Did you mean paste..."
+            "Did you mean to ask about how to paste the mailing stamp?"
         ]
     },
     {
         "label": "ofw",
         "questions": [
-            "Did you mean ofw..."
+            "Did you mean to ask about needed documents for OFW parents?"
         ]
     },
     {
         "label": "4P's certificate",
         "questions": [
-            "Did you mean 4P's certificate..."
+            "Did you mean to ask about the 4P's certificate?"
         ]
     },
     {
         "label": "guardian",
         "questions": [
-            "Did you mean guardian..."
+            "Did you mean to ask about the income taxes of your guardian?"
         ]
     },
     {
         "label": "concerns",
         "questions": [
-            "Did you mean concerns..."
+            "Did you mean to ask about where you can address your concerns regarding BUCET?"
         ]
     },
     {
         "label": "purpose",
         "questions": [
-            "Did you mean purpose..."
+            "Did you mean to ask what is the need for the mailing stamps?"
         ]
     },
     {
         "label": "more than",
         "questions": [
-            "Did you mean more than..."
+            "Did you mean to ask if the mailing stamp can be worth more than 40 pesos?"
         ]
     },
     {
         "label": "less than",
         "questions": [
-            "Did you mean less than..."
+            "Did you mean to ask if the mailing stamp can be worth less than 40 pesos?"
         ]
     },
     {
         "label": "medical",
         "questions": [
-            "Did you mean medical..."
+            "Did you mean to ask about the medical documents that are required?"
         ]
     },
     {
         "label": "requirements",
         "questions": [
-            "Did you mean requirements..."
+            "Did you mean to ask about the documents needed for online submission?"
         ]
     },
     {
         "label": "satellite",
         "questions": [
-            "Did you mean satellite..."
+            "Did you mean to ask about the availability of dropboxes in other satellite campuses?"
         ]
     },
     {
         "label": "form 138",
         "questions": [
-            "Did you mean form 138..."
+            "Did you mean to ask about the form 138?"
         ]
     },
     {
         "label": "CS",
         "questions": [
-            "Did you mean CS..."
+            "Did you mean to ask about the Courses in BU College of Science?"
         ]
     },
     {
         "label": "CSSP",
         "questions": [
-            "Did you mean CSSP..."
+            "Did you mean to ask about the Courses in BU College of Social Sciences and Philosophy?"
         ]
     },
     {
         "label": "BUTC",
         "questions": [
-            "Did you mean BUTC..."
+            "Did you mean to ask about the Courses in BU Tabaco Campus?"
         ]
     },
     {
         "label": "CE",
         "questions": [
-            "Did you mean CE..."
+            "Did you mean to ask about the Courses in BU College of Education?"
         ]
     },
     {
         "label": "BUGC",
         "questions": [
-            "Did you mean BUGC..."
+            "Did you mean to ask about the Courses in BU Gubat Campus?"
         ]
     },
     {
         "label": "CAL",
         "questions": [
-            "Did you mean CAL..."
+            "Did you mean to ask about the Courses in BU College of Arts and Letters?"
         ]
     },
     {
         "label": "IDeA",
         "questions": [
-            "Did you mean IDeA..."
+            "Did you mean to ask about the Courses in BU Institute of Design and Architecture?"
         ]
     },
     {
         "label": "CN",
         "questions": [
-            "Did you mean CN..."
+            "Did you mean to ask about the Courses in BU College of Nursing?"
         ]
     },
     {
         "label": "JMRIGD",
         "questions": [
-            "Did you mean JMRIGD..."
+            "Did you mean to ask about the Courses in Jesse M. Robredo Institute of Governance and Development?"
         ]
     },
     {
         "label": "IPESR",
         "questions": [
-            "Did you mean IPESR..."
+            "Did you mean to ask about the Courses in BU IPESR?"
         ]
     },
     {
         "label": "CBEM",
         "questions": [
-            "Did you mean CBEM..."
+            "Did you mean to ask about the Courses in BU College of Business, Economics, and Management?"
         ]
     },
     {
         "label": "CIT",
         "questions": [
-            "Did you mean CIT..."
+            "Did you mean to ask about the Courses in BU College of Industrial Technology?"
         ]
     },
     {
         "label": "CENG",
         "questions": [
-            "Did you mean CENG..."
+            "Did you mean to ask about the Courses in BU College of Engineering?"
         ]
     },
     {
         "label": "BUCAF",
         "questions": [
-            "Did you mean BUCAF..."
+            "Did you mean to ask about the Courses in BU Guinobatan?"
         ]
     },
     {
         "label": "BUPC",
         "questions": [
-            "Did you mean BUPC..."
+            "Did you mean to ask about the Courses in BU Polangui Campus?"
         ]
     },
     {
         "label": "CDM",
         "questions": [
-            "Did you mean CDM..."
+            "Did you mean to ask about the Courses in BU College of Dental Medicine?"
         ]
     },
     {
         "label": "general requirements",
         "questions": [
-            "Did you mean general requirements..."
+            "Did you mean to ask about the general requirements for BUCET?"
         ]
     },
     {
         "label": "submitting requirements",
         "questions": [
-            "Did you mean submitting requirements..."
+            "Did you mean to ask about how to submit the requirements?"
         ]
     },
     {
         "label": "announcement",
         "questions": [
-            "Did you mean to ask about the announcements..."
+            "Did you mean to ask about the announcement of results of the BUCET?"
         ]
     },
     {
         "label": "qualification",
         "questions": [
-            "Did you mean to ask about qualifications..."
+            "Did you mean to ask about qualification criteria or who is qualified to take the BUCET?"
         ]
     },
     {
         "label": "topics",
         "questions": [
-            "Were you asking what topics..."
+            "Were you asking what topics or subjects are included in the BUCET?"
         ]
     },
     {
@@ -351,6 +351,12 @@
         "label": "mobile phone",
         "questions": [
             "Were you asking if you can use mobile phones during the exams?"
+        ]
+    },
+    {
+        "label": "list of courses",
+        "questions": [
+            "Were you asking about the courses in Bicol University?"
         ]
     }
 ]
